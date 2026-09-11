@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Study Material | Study For Career</title>
+{% set meta_description = "UPPCS, UPSC एवं अन्य प्रतियोगी परीक्षाओं हेतु विषयवार Study Material — History, Polity, Geography, Economy, Science।" %}
+{% set og_title = "Study Material | Study For Career" %}
+{% set canonical_path = "/study-material" %}
+{% include "_seo.html" %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  {% include "_nav.html" %}
+
+  <main class="site-main">
+    <section class="content-section">
+      <div class="section-inner">
+        <h1 class="page-title">Study Material</h1>
+        <p class="section-subtitle">विषय अनुसार अध्ययन सामग्री</p>
+
+        <div class="chip-grid">
+          {% for category in categories %}
+          <span class="chip">{{ category }}</span>
+          {% endfor %}
+        </div>
+
+        {% if materials %}
+        <div class="card-grid">
+          {% for m in materials %}
+          <div class="material-card">
+            <span class="material-card-title">{{ m.title }}</span>
+            <span class="material-card-meta">{{ m.subject }} &middot; {{ m.exam }}</span>
+          </div>
+          {% endfor %}
+        </div>
+        {% else %}
+        <p class="empty-state">Study material तैयार किया जा रहा है। जुड़े रहें।</p>
+        {% endif %}
+      </div>
+    </section>
+  </main>
+
+  {% include "_footer.html" %}
+  <script src="{{ url_for('static', filename='js/site.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quizzes | Study For Career</title>
+{% set meta_description = "UPPCS, UPSC एवं अन्य प्रतियोगी परीक्षाओं के लिए सभी उपलब्ध Quizzes एक ही स्थान पर।" %}
+{% set og_title = "Quizzes | Study For Career" %}
+{% set canonical_path = "/quizzes" %}
+{% include "_seo.html" %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  {% include "_nav.html" %}
+
+  <main class="site-main">
+    <section class="content-section">
+      <div class="section-inner">
+        <h1 class="page-title">सभी Quizzes</h1>
+        <p class="section-subtitle">अपनी तैयारी परखें — नीचे दिए गए Quizzes में से चुनें</p>
+
+        {% if quizzes %}
+        <div class="card-grid">
+          {% for q in quizzes %}
+          <a class="quiz-card" href="/quiz/{{ q.quiz_id }}">
+            <span class="quiz-card-title">{{ q.title }}</span>
+            {% if q.subtitle %}<span class="quiz-card-subtitle">{{ q.subtitle }}</span>{% endif %}
+            <span class="quiz-card-meta">
+              {{ q.total_questions }} Questions &middot; {{ q.duration_minutes }} Minutes
+              {% if q.has_negative_marking %} &middot; अधिकतम अंक: {{ q.max_marks }}{% endif %}
+            </span>
+            {% if q.description %}<span class="quiz-card-desc">{{ q.description }}</span>{% endif %}
+            <span class="btn btn-primary quiz-card-btn">Attempt Quiz</span>
+          </a>
+          {% endfor %}
+        </div>
+        {% else %}
+        <p class="empty-state">फिलहाल कोई Quiz उपलब्ध नहीं है। कृपया थोड़ी देर में देखें।</p>
+        {% endif %}
+      </div>
+    </section>
+  </main>
+
+  {% include "_footer.html" %}
+  <script src="{{ url_for('static', filename='js/site.js') }}"></script>
+</body>
+</html>

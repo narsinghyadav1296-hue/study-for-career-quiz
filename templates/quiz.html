@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>{{ title }} | Study For Career</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<meta name="quiz-id" content="{{ quiz_id }}">
+<meta name="channel-url" content="{{ channel_url }}">
+</head>
+<body>
+  <div class="app-shell">
+
+    <!-- INTRO SCREEN -->
+    <section id="screen-intro" class="screen center-page">
+      <div class="card">
+        <div class="brand-badge">📚 STUDY FOR CAREER</div>
+        <h1 class="hero-title">{{ title }}</h1>
+        <p class="hero-subtitle">{{ subtitle }}</p>
+        <ul class="intro-meta">
+          <li>📝 10 Questions</li>
+          <li>⏱️ 3 Minutes Timer</li>
+          <li>4 Options Each</li>
+        </ul>
+        <button id="btn-start" class="btn btn-primary btn-large">🚀 Start Quiz</button>
+        <p class="footnote" id="loading-msg"></p>
+      </div>
+    </section>
+
+    <!-- QUIZ SCREEN -->
+    <section id="screen-quiz" class="screen hidden">
+      <div class="quiz-header">
+        <div class="progress-wrap">
+          <div class="progress-track"><div id="progress-bar" class="progress-bar"></div></div>
+          <span id="progress-label" class="progress-label">Q1 / 10</span>
+        </div>
+        <div id="timer" class="timer">03:00</div>
+      </div>
+      <div class="card question-card">
+        <h2 id="question-text" class="question-text"></h2>
+        <div id="options-list" class="options-list"></div>
+      </div>
+      <div class="quiz-nav">
+        <button id="btn-prev" class="btn btn-secondary" disabled>⬅ पीछे</button>
+        <button id="btn-next" class="btn btn-primary">आगे ➡</button>
+      </div>
+    </section>
+
+    <!-- RESULT SCREEN -->
+    <section id="screen-result" class="screen hidden center-page">
+      <div class="card result-card">
+        <p class="result-label">YOUR SCORE</p>
+        <h1 id="result-score" class="result-score">0/10</h1>
+        <h2 id="result-headline" class="result-headline"></h2>
+        <p id="result-eligible" class="result-eligible"></p>
+
+        <div class="cta-box">
+          <div class="brand-badge">📚 STUDY FOR CAREER</div>
+          <p class="cta-tag">UPPCS &amp; OTHER COMPETITIVE EXAMS</p>
+          <ul class="cta-list">
+            <li>✅ Daily Practice Questions</li>
+            <li>✅ UPPCS / UPSC Oriented Content</li>
+            <li>✅ Current Affairs</li>
+            <li>✅ Regular Test Series</li>
+            <li>✅ OMR Based Tests</li>
+            <li>✅ Performance Analysis</li>
+            <li>✅ Exam Strategy &amp; Guidance</li>
+            <li>✅ Mentorship &amp; Study Support</li>
+          </ul>
+          <p class="cta-headline">🚀 DON'T JUST PREPARE.<br>PREPARE TO PERFORM.</p>
+          <a id="btn-telegram" class="btn btn-telegram btn-large" href="{{ channel_url }}" target="_blank" rel="noopener">
+            🔵 JOIN STUDY FOR CAREER
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ERROR SCREEN -->
+    <section id="screen-error" class="screen hidden center-page">
+      <div class="card">
+        <h1 class="hero-title">⚠️ कुछ गड़बड़ हो गई</h1>
+        <p id="error-text" class="hero-desc">कृपया पुनः प्रयास करें।</p>
+        <a class="btn btn-primary btn-large" href="/">🏠 Home पर जाएँ</a>
+      </div>
+    </section>
+
+  </div>
+
+  <script src="{{ url_for('static', filename='js/quiz.js') }}"></script>
+</body>
+</html>

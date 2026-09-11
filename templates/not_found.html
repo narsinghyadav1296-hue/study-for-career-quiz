@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Quiz नहीं मिला | Study For Career</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="app-shell center-page">
+    <div class="card">
+      <div class="brand-badge">📚 STUDY FOR CAREER</div>
+      <h1 class="hero-title">😕 यह Quiz उपलब्ध नहीं है</h1>
+      {% if quiz_id %}
+      <p class="hero-desc">Quiz #{{ quiz_id }} अभी मौजूद नहीं है। यह जल्द ही जोड़ा जाएगा।</p>
+      {% else %}
+      <p class="hero-desc">यह पेज मौजूद नहीं है।</p>
+      {% endif %}
+      <a class="btn btn-primary btn-large" href="/quiz/1">🔥 Quiz #1 खेलें</a>
+    </div>
+  </div>
+</body>
+</html>

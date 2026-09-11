@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Exams | Study For Career</title>
+{% set meta_description = "UPPCS, UPSC, RO/ARO, SSC, Railway एवं Teaching परीक्षाओं की जानकारी और तैयारी सामग्री।" %}
+{% set og_title = "Exams | Study For Career" %}
+{% set canonical_path = "/exams" %}
+{% include "_seo.html" %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  {% include "_nav.html" %}
+
+  <main class="site-main">
+    <section class="content-section">
+      <div class="section-inner">
+        <h1 class="page-title">परीक्षाएँ</h1>
+        <p class="section-subtitle">अपनी परीक्षा चुनें और संबंधित तैयारी सामग्री देखें</p>
+
+        <div class="card-grid">
+          {% for exam in exams %}
+          <a class="exam-card" href="/exams/{{ exam.slug }}">
+            <span class="exam-card-name">{{ exam.name }}</span>
+            <span class="exam-card-fullname">{{ exam.full_name }}</span>
+            <span class="exam-card-desc">{{ exam.short_description }}</span>
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  </main>
+
+  {% include "_footer.html" %}
+  <script src="{{ url_for('static', filename='js/site.js') }}"></script>
+</body>
+</html>

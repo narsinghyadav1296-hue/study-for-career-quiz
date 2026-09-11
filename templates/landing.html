@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Study For Career — UPPCS, UPSC, SSC, Railway परीक्षाओं की तैयारी</title>
+{% set meta_description = "UPPCS, UPSC, RO/ARO, SSC, Railway एवं Teaching परीक्षाओं के लिए Study Material, Current Affairs, Quizzes और Test Series — Study For Career के साथ।" %}
+{% set og_title = "Study For Career — प्रतियोगी परीक्षाओं की तैयारी" %}
+{% set canonical_path = "/" %}
+{% include "_seo.html" %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  {% include "_nav.html" %}
+
+  <main class="site-main">
+
+    <!-- HERO -->
+    <section class="hero-section">
+      <div class="section-inner">
+        <div class="brand-badge">📚 STUDY FOR CAREER</div>
+        <h1 class="page-hero-title">प्रतियोगी परीक्षाओं की तैयारी, अब एक सही दिशा के साथ।</h1>
+        <p class="page-hero-desc">
+          UPPCS, UPSC एवं अन्य प्रतियोगी परीक्षाओं के लिए Study Material, Current Affairs,
+          Quizzes और Test Series।
+        </p>
+        <p class="hero-tagline">आपकी तैयारी, हमारा प्रयास।</p>
+        <div class="hero-cta-row">
+          <a class="btn btn-primary btn-large" href="/quizzes">🚀 Start Quiz</a>
+          <a class="btn btn-telegram btn-large" href="{{ channel_url }}" target="_blank" rel="noopener">
+            🔵 Join Telegram
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- POPULAR EXAMS -->
+    <section class="content-section">
+      <div class="section-inner">
+        <h2 class="section-title">लोकप्रिय परीक्षाएँ</h2>
+        <p class="section-subtitle">अपनी परीक्षा चुनें और तैयारी शुरू करें</p>
+        <div class="card-grid">
+          {% for exam in exams %}
+          <a class="exam-card" href="/exams/{{ exam.slug }}">
+            <span class="exam-card-name">{{ exam.name }}</span>
+            <span class="exam-card-desc">{{ exam.short_description }}</span>
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+
+    <!-- LATEST QUIZZES -->
+    <section class="content-section section-alt">
+      <div class="section-inner">
+        <h2 class="section-title">नवीनतम Quizzes</h2>
+        <p class="section-subtitle">अभी अभ्यास शुरू करें</p>
+        {% if latest_quizzes %}
+        <div class="card-grid">
+          {% for q in latest_quizzes %}
+          <a class="quiz-card" href="/quiz/{{ q.quiz_id }}">
+            <span class="quiz-card-title">{{ q.title }}</span>
+            <span class="quiz-card-meta">
+              {{ q.total_questions }} Questions &middot; {{ q.duration_minutes }} Minutes
+            </span>
+            <span class="btn btn-secondary quiz-card-btn">Attempt Quiz</span>
+          </a>
+          {% endfor %}
+        </div>
+        <a class="link-more" href="/quizzes">सभी Quizzes देखें →</a>
+        {% else %}
+        <p class="empty-state">Quizzes जल्द जोड़े जाएँगे। कृपया थोड़ी देर में देखें।</p>
+        {% endif %}
+      </div>
+    </section>
+
+    <!-- STUDY MATERIAL TEASER -->
+    <section class="content-section">
+      <div class="section-inner">
+        <h2 class="section-title">Study Material</h2>
+        <p class="section-subtitle">History, Polity, Geography, Economy, Science और अन्य विषय</p>
+        <p class="empty-state">Study material तैयार किया जा रहा है। जुड़े रहें।</p>
+        <a class="link-more" href="/study-material">Study Material देखें →</a>
+      </div>
+    </section>
+
+    <!-- CURRENT AFFAIRS TEASER -->
+    <section class="content-section section-alt">
+      <div class="section-inner">
+        <h2 class="section-title">Current Affairs</h2>
+        <p class="section-subtitle">दैनिक, साप्ताहिक एवं मासिक करेंट अफेयर्स</p>
+        <p class="empty-state">Current Affairs जल्द प्रकाशित किए जाएँगे। जुड़े रहें।</p>
+        <a class="link-more" href="/current-affairs">Current Affairs देखें →</a>
+      </div>
+    </section>
+
+    <!-- TEST SERIES -->
+    <section class="content-section" id="test-series">
+      <div class="section-inner">
+        <h2 class="section-title">Test Series</h2>
+        <p class="section-subtitle">Free Tests, Sectional Tests, Full Length Mock Tests</p>
+        {% if latest_quizzes %}
+        <p class="section-desc">
+          अभी उपलब्ध Quizzes का अभ्यास करें — Test Series की श्रेणियाँ जल्द जोड़ी जाएँगी।
+        </p>
+        <a class="link-more" href="/quizzes">उपलब्ध Quizzes देखें →</a>
+        {% else %}
+        <p class="empty-state">Test Series जल्द उपलब्ध होगी। जुड़े रहें।</p>
+        {% endif %}
+      </div>
+    </section>
+
+    <!-- TELEGRAM CTA -->
+    <section class="telegram-cta-section">
+      <div class="section-inner">
+        <h2 class="telegram-cta-title">Study For Career से जुड़े रहें</h2>
+        <ul class="telegram-benefit-list">
+          <li>Daily Study Content</li>
+          <li>Current Affairs</li>
+          <li>Practice Questions</li>
+          <li>Test Series</li>
+          <li>Exam Updates</li>
+        </ul>
+        <a class="btn btn-telegram btn-large" href="{{ channel_url }}" target="_blank" rel="noopener">
+          🔵 Join Telegram Channel
+        </a>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section class="content-section" id="about">
+      <div class="section-inner">
+        <h2 class="section-title">About Study For Career</h2>
+        <p class="section-desc">
+          Study For Career एक शैक्षणिक मंच है जो UPPCS, UPSC, RO/ARO, SSC, Railway एवं
+          Teaching जैसी प्रतियोगी परीक्षाओं की तैयारी कर रहे विद्यार्थियों के लिए Quizzes,
+          Study Material, Current Affairs और Test Series उपलब्ध कराने की दिशा में कार्यरत है।
+        </p>
+      </div>
+    </section>
+
+  </main>
+
+  {% include "_footer.html" %}
+  <script src="{{ url_for('static', filename='js/site.js') }}"></script>
+</body>
+</html>

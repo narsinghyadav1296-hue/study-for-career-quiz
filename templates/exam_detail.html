@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ exam.name }} | Study For Career</title>
+{% set meta_description = exam.short_description %}
+{% set og_title = exam.name + " | Study For Career" %}
+{% set canonical_path = "/exams/" + exam.slug %}
+{% include "_seo.html" %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  {% include "_nav.html" %}
+
+  <main class="site-main">
+    <section class="content-section">
+      <div class="section-inner">
+        <div class="brand-badge">{{ exam.name }}</div>
+        <h1 class="page-title">{{ exam.full_name }}</h1>
+        <p class="section-desc">{{ exam.short_description }}</p>
+
+        <h2 class="section-title section-title-tight">Quizzes</h2>
+        {% if quizzes %}
+        <p class="section-desc">
+          इस परीक्षा हेतु विशेष Quizzes जल्द जोड़े जाएँगे। तब तक नीचे दिए गए Quizzes से अभ्यास करें।
+        </p>
+        <div class="card-grid">
+          {% for q in quizzes %}
+          <a class="quiz-card" href="/quiz/{{ q.quiz_id }}">
+            <span class="quiz-card-title">{{ q.title }}</span>
+            <span class="quiz-card-meta">
+              {{ q.total_questions }} Questions &middot; {{ q.duration_minutes }} Minutes
+            </span>
+            <span class="btn btn-secondary quiz-card-btn">Attempt Quiz</span>
+          </a>
+          {% endfor %}
+        </div>
+        {% else %}
+        <p class="empty-state">Quizzes जल्द जोड़े जाएँगे। जुड़े रहें।</p>
+        {% endif %}
+
+        <h2 class="section-title section-title-tight">Study Material</h2>
+        <p class="empty-state">{{ exam.name }} हेतु Study Material तैयार किया जा रहा है।</p>
+
+        <a class="btn btn-telegram btn-large" href="{{ channel_url }}" target="_blank" rel="noopener">
+          🔵 {{ exam.name }} Updates हेतु Telegram जॉइन करें
+        </a>
+      </div>
+    </section>
+  </main>
+
+  {% include "_footer.html" %}
+  <script src="{{ url_for('static', filename='js/site.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Current Affairs | Study For Career</title>
+{% set meta_description = "UPPCS, UPSC एवं अन्य प्रतियोगी परीक्षाओं हेतु दैनिक, साप्ताहिक एवं मासिक Current Affairs।" %}
+{% set og_title = "Current Affairs | Study For Career" %}
+{% set canonical_path = "/current-affairs" %}
+{% include "_seo.html" %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  {% include "_nav.html" %}
+
+  <main class="site-main">
+    <section class="content-section">
+      <div class="section-inner">
+        <h1 class="page-title">Current Affairs</h1>
+        <p class="section-subtitle">दैनिक, साप्ताहिक एवं मासिक करेंट अफेयर्स</p>
+
+        {% if articles %}
+        <div class="card-grid">
+          {% for a in articles %}
+          <div class="article-card">
+            <span class="article-card-date">{{ a.date }}</span>
+            <span class="article-card-title">{{ a.title }}</span>
+            <span class="article-card-summary">{{ a.summary }}</span>
+          </div>
+          {% endfor %}
+        </div>
+        {% else %}
+        <p class="empty-state">Current Affairs जल्द प्रकाशित किए जाएँगे। जुड़े रहें।</p>
+        {% endif %}
+
+        <a class="btn btn-telegram btn-large" href="{{ channel_url }}" target="_blank" rel="noopener">
+          🔵 Daily Updates हेतु Telegram जॉइन करें
+        </a>
+      </div>
+    </section>
+  </main>
+
+  {% include "_footer.html" %}
+  <script src="{{ url_for('static', filename='js/site.js') }}"></script>
+</body>
+</html>
