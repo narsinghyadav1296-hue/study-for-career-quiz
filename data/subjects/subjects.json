@@ -1,0 +1,18 @@
+{
+  "uppcs": [
+    {"slug": "history", "name": "History", "topics": []},
+    {"slug": "geography", "name": "Geography", "topics": []},
+    {"slug": "polity", "name": "Polity & Governance", "topics": []},
+    {"slug": "economy", "name": "Economy", "topics": []},
+    {"slug": "environment", "name": "Environment & Ecology", "topics": []},
+    {"slug": "science", "name": "General Science", "topics": []},
+    {"slug": "current-affairs", "name": "Current Affairs", "topics": []},
+    {"slug": "csat", "name": "CSAT / Aptitude", "topics": []},
+    {"slug": "up-special", "name": "Uttar Pradesh Special", "topics": []}
+  ],
+  "upsc": [],
+  "ro-aro": [],
+  "ssc": [],
+  "railway": [],
+  "teaching": []
+}
