@@ -1,0 +1,73 @@
+{% extends "admin/base_admin.html" %}
+{% block title %}{{ 'Edit' if article else 'Add' }} Current Affairs{% endblock %}
+{% block content %}
+<h1 class="admin-title">{{ 'Edit Article' if article else 'Add Current Affairs' }}</h1>
+{% if error %}<div class="alert alert-error">{{ error }}</div>{% endif %}
+
+<div class="admin-card">
+  <form method="post" enctype="multipart/form-data">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+
+    <div class="form-group">
+      <label for="title">Title *</label>
+      <input class="form-control" id="title" name="title" required value="{{ article['title'] if article else '' }}">
+    </div>
+
+    <div class="form-row two-col">
+      <div class="form-group">
+        <label for="article_date">Date</label>
+        <input class="form-control" type="date" id="article_date" name="article_date" value="{{ article['article_date'] if article else '' }}">
+      </div>
+      <div class="form-group">
+        <label for="category">Category</label>
+        <input class="form-control" id="category" name="category" value="{{ article['category'] if article else '' }}">
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="exam_slug">Exam</label>
+      <select class="form-control" id="exam_slug" name="exam_slug">
+        <option value="">— Select —</option>
+        {% for e in exams %}
+          <option value="{{ e.slug }}" {% if article and article['exam_slug']==e.slug %}selected{% endif %}>{{ e.name }}</option>
+        {% endfor %}
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="short_summary">Short Summary</label>
+      <textarea class="form-control" id="short_summary" name="short_summary">{{ article['short_summary'] if article else '' }}</textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="full_content">Full Content</label>
+      <textarea class="form-control" id="full_content" name="full_content" style="min-height:160px;">{{ article['full_content'] if article else '' }}</textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="important_facts">Important Facts</label>
+      <textarea class="form-control" id="important_facts" name="important_facts">{{ article['important_facts'] if article else '' }}</textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="source_reference">Source / Reference (optional)</label>
+      <input class="form-control" id="source_reference" name="source_reference" value="{{ article['source_reference'] if article else '' }}">
+    </div>
+
+    <div class="form-group">
+      <label for="image">Image (optional)</label>
+      <input class="form-control" type="file" id="image" name="image" accept=".png,.jpg,.jpeg,.webp">
+    </div>
+
+    <div class="form-group">
+      <label for="status">Status</label>
+      <select class="form-control" id="status" name="status">
+        <option value="draft" {% if not article or article['status']=='draft' %}selected{% endif %}>Draft</option>
+        <option value="published" {% if article and article['status']=='published' %}selected{% endif %}>Published</option>
+      </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary btn-block">Save</button>
+  </form>
+</div>
+{% endblock %}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+quiz_app.db
+uploads/*
+!uploads/.gitkeep
+.env

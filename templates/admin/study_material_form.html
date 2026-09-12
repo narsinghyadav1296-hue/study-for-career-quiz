@@ -1,0 +1,79 @@
+{% extends "admin/base_admin.html" %}
+{% block title %}{{ 'Edit' if material else 'Add' }} Study Material{% endblock %}
+{% block content %}
+<h1 class="admin-title">{{ 'Edit Study Material' if material else 'Add New Study Material' }}</h1>
+{% if error %}<div class="alert alert-error">{{ error }}</div>{% endif %}
+
+<div class="admin-card">
+  <form method="post" enctype="multipart/form-data">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+
+    <div class="form-group">
+      <label for="title">Title *</label>
+      <input class="form-control" id="title" name="title" required value="{{ material['title'] if material else '' }}">
+    </div>
+
+    <div class="form-group">
+      <label for="description">Description</label>
+      <textarea class="form-control" id="description" name="description">{{ material['description'] if material else '' }}</textarea>
+    </div>
+
+    <div class="form-row two-col">
+      <div class="form-group">
+        <label for="exam_slug">Exam</label>
+        <select class="form-control" id="exam_slug" name="exam_slug">
+          <option value="">— Select —</option>
+          {% for e in exams %}
+            <option value="{{ e.slug }}" {% if material and material['exam_slug']==e.slug %}selected{% endif %}>{{ e.name }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="subject">Subject</label>
+        <input class="form-control" id="subject" name="subject" value="{{ material['subject'] if material else '' }}">
+      </div>
+    </div>
+
+    <div class="form-row two-col">
+      <div class="form-group">
+        <label for="topic">Topic</label>
+        <input class="form-control" id="topic" name="topic" value="{{ material['topic'] if material else '' }}">
+      </div>
+      <div class="form-group">
+        <label for="category">Category</label>
+        <select class="form-control" id="category" name="category">
+          <option value="">— Select —</option>
+          {% for c in categories %}
+            <option value="{{ c }}" {% if material and material['category']==c %}selected{% endif %}>{{ c }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="language">Language</label>
+      <input class="form-control" id="language" name="language" placeholder="Hindi / English / Bilingual" value="{{ material['language'] if material else '' }}">
+    </div>
+
+    <div class="form-group">
+      <label for="file">Upload PDF/DOC {{ '(leave empty to keep existing file)' if material else '' }}</label>
+      <input class="form-control" type="file" id="file" name="file" accept=".pdf,.doc,.docx">
+    </div>
+
+    <div class="form-group">
+      <label for="thumbnail">Thumbnail Image (optional)</label>
+      <input class="form-control" type="file" id="thumbnail" name="thumbnail" accept=".png,.jpg,.jpeg,.webp">
+    </div>
+
+    <div class="form-group">
+      <label for="status">Status</label>
+      <select class="form-control" id="status" name="status">
+        <option value="draft" {% if not material or material['status']=='draft' %}selected{% endif %}>Draft</option>
+        <option value="published" {% if material and material['status']=='published' %}selected{% endif %}>Published</option>
+      </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary btn-block">Save</button>
+  </form>
+</div>
+{% endblock %}

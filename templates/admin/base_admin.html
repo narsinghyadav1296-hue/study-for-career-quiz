@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>{% block title %}Admin{% endblock %} — Study For Career</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='admin/css/admin.css') }}">
+</head>
+<body class="admin-body">
+  <header class="admin-header">
+    <a class="brand" href="{{ url_for('admin_dashboard.dashboard') }}">📚 Study For Career — Admin</a>
+    {% if current_admin %}
+      <form method="post" action="{{ url_for('admin_auth.logout') }}" class="inline-action">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+        <span class="admin-user">{{ current_admin['email'] }} · <button type="submit" class="btn-sm" style="background:none;border:none;color:#fff;text-decoration:underline;cursor:pointer;padding:0;">Logout</button></span>
+      </form>
+    {% endif %}
+  </header>
+  <div class="admin-shell">
+    {% block content %}{% endblock %}
+  </div>
+</body>
+</html>

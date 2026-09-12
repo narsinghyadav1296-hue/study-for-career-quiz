@@ -1,0 +1,34 @@
+{% extends "admin/base_admin.html" %}
+{% block title %}Current Affairs{% endblock %}
+{% block content %}
+<div class="top-bar">
+  <h1 class="admin-title" style="margin:0;">Current Affairs</h1>
+  <a class="btn btn-primary btn-sm" href="{{ url_for('admin_current_affairs.create_article') }}">+ Add New</a>
+</div>
+
+<div class="admin-card">
+  {% if articles %}
+    {% for a in articles %}
+      <div class="list-item">
+        <div class="list-item-title">{{ a['title'] }}
+          <span class="badge {{ 'badge-published' if a['status']=='published' else 'badge-draft' }}">{{ a['status'] }}</span>
+        </div>
+        <div class="list-item-meta">{{ a['article_date'] or '—' }} · {{ a['category'] or '—' }} · {{ a['exam_slug'] or '—' }}</div>
+        <div class="list-item-actions">
+          <a class="btn btn-secondary btn-sm" href="{{ url_for('admin_current_affairs.edit_article', article_id=a['id']) }}">Edit</a>
+          <form method="post" class="inline-action" action="{{ url_for('admin_current_affairs.toggle_publish', article_id=a['id']) }}">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+            <button type="submit" class="btn btn-success btn-sm">{{ 'Unpublish' if a['status']=='published' else 'Publish' }}</button>
+          </form>
+          <form method="post" class="inline-action" action="{{ url_for('admin_current_affairs.delete_article', article_id=a['id']) }}" onsubmit="return confirm('Delete this article?');">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+          </form>
+        </div>
+      </div>
+    {% endfor %}
+  {% else %}
+    <div class="empty-state">अभी तक कोई Current Affairs article नहीं जोड़ा गया।</div>
+  {% endif %}
+</div>
+{% endblock %}

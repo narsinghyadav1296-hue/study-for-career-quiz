@@ -1,0 +1,42 @@
+{% extends "admin/base_admin.html" %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+<h1 class="admin-title">Dashboard</h1>
+
+<div class="admin-grid">
+  <div class="stat-card"><div class="stat-value">{{ stats.quizzes }}</div><div class="stat-label">Total Quizzes</div></div>
+  <div class="stat-card"><div class="stat-value">{{ stats.study_materials }}</div><div class="stat-label">Study Materials</div></div>
+  <div class="stat-card"><div class="stat-value">{{ stats.current_affairs }}</div><div class="stat-label">Current Affairs</div></div>
+  <div class="stat-card"><div class="stat-value">{{ stats.test_series }}</div><div class="stat-label">Test Series</div></div>
+  <div class="stat-card"><div class="stat-value">{{ stats.courses }}</div><div class="stat-label">Courses</div></div>
+  <div class="stat-card"><div class="stat-value">{{ stats.exams }}</div><div class="stat-label">Exams</div></div>
+</div>
+
+<div class="admin-card">
+  <h2 class="admin-subtitle">Quick Actions</h2>
+  <div class="quick-actions">
+    <a class="btn btn-primary" href="{{ url_for('admin_study_material.create_material') }}">📄 Upload Study Material</a>
+    <a class="btn btn-primary" href="{{ url_for('admin_quiz.create_quiz') }}">📝 Create Quiz</a>
+    <a class="btn btn-primary" href="{{ url_for('admin_docx_import.upload') }}">📥 Upload DOCX Quiz</a>
+    <a class="btn btn-primary" href="{{ url_for('admin_current_affairs.create_article') }}">📰 Add Current Affairs</a>
+    <a class="btn btn-secondary" href="{{ url_for('admin_quiz.list_quizzes') }}">📚 Manage Quizzes</a>
+    <a class="btn btn-secondary" href="{{ url_for('admin_study_material.list_materials') }}">🗂️ Manage Study Material</a>
+    <a class="btn btn-secondary" href="{{ url_for('admin_current_affairs.list_articles') }}">🗞️ Manage Current Affairs</a>
+  </div>
+  <p class="help-text" style="margin-top:12px;">Test Series और Course create करने की सुविधा Phase 2/3 में जोड़ी जाएगी — database architecture अभी से तैयार है।</p>
+</div>
+
+<div class="admin-card">
+  <h2 class="admin-subtitle">Recent Uploads</h2>
+  {% if recent_uploads %}
+    {% for u in recent_uploads %}
+      <div class="list-item">
+        <div class="list-item-title">{{ u['original_filename'] }}</div>
+        <div class="list-item-meta">{{ u['content_type'] }}</div>
+      </div>
+    {% endfor %}
+  {% else %}
+    <div class="empty-state">अभी तक कोई upload नहीं हुई है।</div>
+  {% endif %}
+</div>
+{% endblock %}

@@ -12,23 +12,32 @@ channel afterwards, regardless of score.
 
 ```
 quizapp/
-├── app.py                     # Flask app: pages + API + scoring + analytics
+├── app.py                     # Entry point only (creates the app via sfc.create_app)
+├── config.py                  # All environment-variable configuration
 ├── requirements.txt
+├── sfc/                       # Application package
+│   ├── db.py                  # Dual-backend DB layer: SQLite (dev) / PostgreSQL (prod)
+│   ├── storage.py             # File storage: local disk (dev) / S3-compatible (prod)
+│   ├── security.py            # Admin auth, CSRF, upload validation
+│   ├── quiz_service.py        # Merges JSON quizzes (1-4) + DB-backed admin quizzes
+│   ├── docx_import.py         # DOCX question-paper parser
+│   └── blueprints/            # public pages, quiz API, and all /admin routes
 ├── data/
-│   └── quizzes/
-│       └── quiz_1.json        # Quiz #1 content (questions/options/answers)
+│   ├── quizzes/
+│   │   └── quiz_1.json ... quiz_4.json   # Existing quizzes - untouched, JSON-based
+│   └── subjects/subjects.json            # Phase 2/3 subject list - untouched
 ├── templates/
-│   ├── landing.html
-│   ├── quiz.html               # Single-page quiz UI (intro/quiz/result/error)
-│   └── not_found.html
+│   ├── landing.html, quiz.html, ...      # Existing student-facing pages
+│   └── admin/                            # Admin panel templates
 └── static/
-    ├── css/style.css
-    └── js/quiz.js              # Timer, state persistence, submit, analytics
+    ├── css/, js/                         # Existing student-facing assets
+    └── admin/                            # Admin panel CSS
 ```
 
-At runtime, `app.py` also creates `quiz_app.db` (SQLite) to track quiz
-sessions (start time / submitted / score) and analytics events. It is
-created automatically — you don't need to set it up.
+At runtime, in **local development** (no `DATABASE_URL` set), the app creates
+`quiz_app.db` (SQLite) automatically - same as before, no setup needed. In
+**production**, set `DATABASE_URL` and the app uses PostgreSQL instead - see
+section 9 below.
 
 ## 2. Setup
 
@@ -179,15 +188,79 @@ gunicorn -w 4 -b 127.0.0.1:5000 app:app
 Then reverse-proxy `example.com` → `127.0.0.1:5000` with Nginx, and put
 Nginx behind HTTPS (e.g. via Certbot/Let's Encrypt).
 
-### Render / Railway / Fly.io (simple PaaS)
-- Connect the repo.
-- Build command: `pip install -r requirements.txt`
-- Start command: `gunicorn app:app` (add `gunicorn` to `requirements.txt`
-  first, or `python app.py` if the platform sets `$PORT` for you — `app.py`
-  already reads `PORT` from the environment).
-- No extra database setup needed — SQLite file is created on first run.
-  (For high traffic / multiple server instances, swap SQLite for a hosted
-  Postgres and adjust the few `sqlite3.connect(...)` calls in `app.py`.)
+### Render — exact deployment steps (recommended)
+
+Render's web-service filesystem is **ephemeral** - any file written to disk
+(including a SQLite database or an uploaded PDF) is lost on the next deploy
+or restart. This project therefore uses:
+
+- **PostgreSQL** (a Render "PostgreSQL" instance) for the database, instead
+  of the local SQLite file.
+- **S3-compatible object storage** (Cloudflare R2, AWS S3, Backblaze B2, ...)
+  for uploaded files, instead of local disk (see `sfc/storage.py`).
+
+Steps:
+
+1. **Create a Render PostgreSQL instance**
+   - Render dashboard → New → PostgreSQL → choose a name/region/plan → Create.
+   - Once it's up, open it and copy the **Internal Database URL** (if your
+     web service will be in the same Render account/region - faster, free
+     internal networking) or the **External Database URL** (if connecting
+     from elsewhere). It looks like:
+     `postgresql://user:password@host:5432/dbname`
+
+2. **Create the Render Web Service**
+   - Render dashboard → New → Web Service → connect this repository.
+   - Build command: `pip install -r requirements.txt`
+   - Start command: `gunicorn app:app`
+
+3. **Set environment variables** on the Web Service (Render dashboard →
+   your service → "Environment"):
+   ```
+   DATABASE_URL       = <the Postgres URL from step 1>
+   SECRET_KEY         = <a long random string - see .env.example for how to generate one>
+   ADMIN_EMAIL        = you@example.com
+   ADMIN_PASSWORD     = <a strong password, used only once by the bootstrap command below>
+   STORAGE_BACKEND    = s3
+   S3_BUCKET          = <your bucket name>
+   S3_REGION          = auto            (or your AWS region, e.g. ap-south-1)
+   S3_ENDPOINT_URL    = <required for Cloudflare R2/B2/MinIO, e.g. https://<account-id>.r2.cloudflarestorage.com>
+   S3_ACCESS_KEY_ID   = <your key>
+   S3_SECRET_ACCESS_KEY = <your secret>
+   S3_PUBLIC_BASE_URL = <optional - your CDN/public bucket URL, if the bucket is public>
+   ```
+   Render automatically sets a `RENDER` environment variable on every
+   service it runs. The app uses this to **refuse to start** if
+   `DATABASE_URL` is missing in this environment, rather than silently
+   creating a throwaway local SQLite database that would be wiped on the
+   next deploy (see `sfc/db.py` / `sfc/__init__.py`).
+
+4. **Deploy.** On first boot the app automatically creates every database
+   table it needs (`CREATE TABLE IF NOT EXISTS ...` - see `sfc/db.py`).
+   Existing data is never touched by this step.
+
+5. **Create the first admin account** (one-time). From the Render dashboard,
+   open a **Shell** on the web service and run:
+   ```bash
+   flask create-admin
+   ```
+   This reads `ADMIN_EMAIL`/`ADMIN_PASSWORD` from the environment
+   variables you set in step 3 and stores only a salted password hash in
+   PostgreSQL - never the plaintext password. You can remove
+   `ADMIN_PASSWORD` from the environment afterwards if you like; it's only
+   read by this one-time command.
+
+6. **Log in** at `https://<your-app>.onrender.com/admin/login`.
+
+If `DATABASE_URL` is ever wrong, unreachable, or the `psycopg` driver isn't
+installed, the app will fail to start with a clear error message naming the
+problem (host/database, never the password) instead of starting up broken -
+see the "Database startup check" in `sfc/db.py`.
+
+### Local development stays exactly as before
+Don't set `DATABASE_URL` locally and the app keeps using a local
+`quiz_app.db` SQLite file automatically - no Postgres installation needed
+for day-to-day development.
 
 ### Docker (optional, if your platform wants a container)
 ```dockerfile

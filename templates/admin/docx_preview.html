@@ -1,0 +1,87 @@
+{% extends "admin/base_admin.html" %}
+{% block title %}Preview Import{% endblock %}
+{% block content %}
+<h1 class="admin-title">Preview — {{ meta.title }}</h1>
+
+{% if global_warnings %}
+  {% for w in global_warnings %}<div class="alert alert-warning">{{ w }}</div>{% endfor %}
+{% endif %}
+
+<div class="alert {{ 'alert-success' if invalid_count == 0 else 'alert-warning' }}">
+  {{ valid_count }} question(s) parsed cleanly. {{ invalid_count }} need a manual check (marked below).
+  कुछ भी अभी publish नहीं हुआ — नीचे जो सही लगे उसे "Include" रखें, गलत को ठीक करें, फिर "Import Quiz" दबाएँ।
+</div>
+
+<form method="post" action="{{ url_for('admin_docx_import.confirm') }}">
+  <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+  <input type="hidden" name="title" value="{{ meta.title }}">
+  <input type="hidden" name="subtitle" value="{{ meta.subtitle }}">
+  <input type="hidden" name="description" value="{{ meta.description }}">
+  <input type="hidden" name="exam_slug" value="{{ meta.exam_slug }}">
+  <input type="hidden" name="subject" value="{{ meta.subject }}">
+  <input type="hidden" name="category" value="{{ meta.category }}">
+  <input type="hidden" name="instructions" value="{{ meta.instructions }}">
+  <input type="hidden" name="duration_minutes" value="{{ meta.duration_minutes }}">
+  <input type="hidden" name="marks_correct" value="{{ meta.marks_correct }}">
+  <input type="hidden" name="marks_wrong" value="{{ meta.marks_wrong }}">
+  <input type="hidden" name="marks_unattempted" value="{{ meta.marks_unattempted }}">
+  <input type="hidden" name="total_questions" value="{{ questions|length }}">
+
+  {% for q in questions %}
+    {% set i = loop.index0 %}
+    <div class="question-card">
+      <div class="top-bar" style="margin-bottom:8px;">
+        <span class="q-index">Question {{ loop.index }}</span>
+        <label style="display:flex;align-items:center;gap:6px;font-size:13px;font-weight:600;">
+          <input type="checkbox" name="q_{{ i }}_include" {% if q.is_valid %}checked{% endif %}> Include in quiz
+        </label>
+      </div>
+      {% if q.warnings %}
+        <ul class="warning-list">
+          {% for w in q.warnings %}<li>{{ w }}</li>{% endfor %}
+        </ul>
+      {% endif %}
+      <div class="form-group">
+        <label>Question</label>
+        <textarea class="form-control" name="q_{{ i }}_question" style="min-height:80px;">{{ q.question }}</textarea>
+      </div>
+      <div class="form-row two-col">
+        <div class="form-group">
+          <label>Option A</label>
+          <input class="form-control" name="q_{{ i }}_option_a" value="{{ q.options[0] if q.options|length > 0 else '' }}">
+        </div>
+        <div class="form-group">
+          <label>Option B</label>
+          <input class="form-control" name="q_{{ i }}_option_b" value="{{ q.options[1] if q.options|length > 1 else '' }}">
+        </div>
+      </div>
+      <div class="form-row two-col">
+        <div class="form-group">
+          <label>Option C</label>
+          <input class="form-control" name="q_{{ i }}_option_c" value="{{ q.options[2] if q.options|length > 2 else '' }}">
+        </div>
+        <div class="form-group">
+          <label>Option D</label>
+          <input class="form-control" name="q_{{ i }}_option_d" value="{{ q.options[3] if q.options|length > 3 else '' }}">
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Correct Answer</label>
+        <select class="form-control" name="q_{{ i }}_correct_answer">
+          <option value="" {% if q.correct_answer is none %}selected{% endif %}>— Select —</option>
+          {% for idx, label in [(0,'Option A'), (1,'Option B'), (2,'Option C'), (3,'Option D')] %}
+            <option value="{{ idx }}" {% if q.correct_answer == idx %}selected{% endif %}>{{ label }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="form-group">
+        <label>Explanation (optional)</label>
+        <input class="form-control" name="q_{{ i }}_explanation" value="{{ q.explanation }}">
+      </div>
+    </div>
+  {% endfor %}
+
+  <button type="submit" class="btn btn-primary btn-block">✅ Import Quiz (as Draft)</button>
+</form>
+<a class="btn btn-secondary btn-block" href="{{ url_for('admin_docx_import.upload') }}">← Upload a different file</a>
+{% endblock %}

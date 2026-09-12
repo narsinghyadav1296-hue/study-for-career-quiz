@@ -1,0 +1,39 @@
+{% extends "admin/base_admin.html" %}
+{% block title %}Quizzes{% endblock %}
+{% block content %}
+<div class="top-bar">
+  <h1 class="admin-title" style="margin:0;">Quizzes</h1>
+  <a class="btn btn-primary btn-sm" href="{{ url_for('admin_quiz.create_quiz') }}">+ Create Quiz</a>
+</div>
+
+<div class="admin-card">
+  <p class="help-text">Existing Quiz 1–4 (JSON files) यहाँ list नहीं होतीं — वे पहले जैसी untouched हैं और <code>/quiz/1</code>–<code>/quiz/4</code> पर सामान्य रूप से काम कर रही हैं। यहाँ केवल Admin Panel से बनी/import की गई quizzes दिखती हैं।</p>
+  {% if quizzes %}
+    {% for q in quizzes %}
+      <div class="list-item">
+        <div class="list-item-title">{{ q['title'] }}
+          <span class="badge {{ 'badge-published' if q['status']=='published' else 'badge-draft' }}">{{ q['status'] }}</span>
+        </div>
+        <div class="list-item-meta">
+          Public URL: /quiz/{{ q['id'] + quiz_id_offset }} · {{ q['question_count'] }} questions ·
+          {{ (q['duration_seconds'] / 60) | round(1) }} min · source: {{ q['source'] }}
+        </div>
+        <div class="list-item-actions">
+          <a class="btn btn-secondary btn-sm" href="{{ url_for('admin_quiz.manage_questions', quiz_id=q['id']) }}">Questions</a>
+          <a class="btn btn-secondary btn-sm" href="{{ url_for('admin_quiz.edit_quiz', quiz_id=q['id']) }}">Edit Details</a>
+          <form method="post" class="inline-action" action="{{ url_for('admin_quiz.toggle_publish', quiz_id=q['id']) }}">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+            <button type="submit" class="btn btn-success btn-sm">{{ 'Unpublish' if q['status']=='published' else 'Publish' }}</button>
+          </form>
+          <form method="post" class="inline-action" action="{{ url_for('admin_quiz.delete_quiz', quiz_id=q['id']) }}" onsubmit="return confirm('Delete this quiz?');">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+          </form>
+        </div>
+      </div>
+    {% endfor %}
+  {% else %}
+    <div class="empty-state">अभी तक Admin Panel से कोई नई quiz नहीं बनाई गई।</div>
+  {% endif %}
+</div>
+{% endblock %}

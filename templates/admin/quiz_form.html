@@ -1,0 +1,93 @@
+{% extends "admin/base_admin.html" %}
+{% block title %}{{ 'Edit' if quiz else 'Create' }} Quiz{% endblock %}
+{% block content %}
+<h1 class="admin-title">{{ 'Edit Quiz' if quiz else 'Create New Quiz' }}</h1>
+{% if error %}<div class="alert alert-error">{{ error }}</div>{% endif %}
+
+<div class="admin-card">
+  <form method="post">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+
+    <div class="form-group">
+      <label for="title">Quiz Title *</label>
+      <input class="form-control" id="title" name="title" required value="{{ quiz['title'] if quiz else '' }}">
+    </div>
+
+    <div class="form-group">
+      <label for="subtitle">Subtitle</label>
+      <input class="form-control" id="subtitle" name="subtitle" value="{{ quiz['subtitle'] if quiz else '' }}">
+    </div>
+
+    <div class="form-group">
+      <label for="description">Description</label>
+      <textarea class="form-control" id="description" name="description">{{ quiz['description'] if quiz else '' }}</textarea>
+    </div>
+
+    <div class="form-row two-col">
+      <div class="form-group">
+        <label for="exam_slug">Exam</label>
+        <select class="form-control" id="exam_slug" name="exam_slug">
+          <option value="">— Select —</option>
+          {% for e in exams %}
+            <option value="{{ e.slug }}" {% if quiz and quiz['exam_slug']==e.slug %}selected{% endif %}>{{ e.name }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="subject">Subject</label>
+        <input class="form-control" id="subject" name="subject" value="{{ quiz['subject'] if quiz else '' }}">
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="category">Category</label>
+      <input class="form-control" id="category" name="category" value="{{ quiz['category'] if quiz else '' }}">
+    </div>
+
+    <div class="form-group">
+      <label for="instructions">Quiz Instructions</label>
+      <textarea class="form-control" id="instructions" name="instructions">{{ quiz['instructions'] if quiz else '' }}</textarea>
+    </div>
+
+    <div class="form-row two-col">
+      <div class="form-group">
+        <label for="duration_minutes">Time Limit (minutes) *</label>
+        <input class="form-control" type="number" step="0.5" min="0.5" id="duration_minutes" name="duration_minutes"
+               value="{{ (quiz['duration_seconds']/60) if quiz else 3 }}">
+      </div>
+      <div class="form-group">
+        <label for="marks_correct">Marks per Correct Answer *</label>
+        <input class="form-control" type="number" step="0.01" id="marks_correct" name="marks_correct"
+               value="{{ quiz['marks_correct'] if quiz else 1 }}">
+      </div>
+    </div>
+
+    <div class="form-row two-col">
+      <div class="form-group">
+        <label for="marks_wrong">Negative Marking (per wrong answer)</label>
+        <input class="form-control" type="number" step="0.01" id="marks_wrong" name="marks_wrong"
+               value="{{ quiz['marks_wrong'] if quiz else 0 }}">
+        <div class="help-text">Enter a negative number, e.g. -0.33, or 0 for none.</div>
+      </div>
+      <div class="form-group">
+        <label for="marks_unattempted">Marks for Unattempted</label>
+        <input class="form-control" type="number" step="0.01" id="marks_unattempted" name="marks_unattempted"
+               value="{{ quiz['marks_unattempted'] if quiz else 0 }}">
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="status">Status</label>
+      <select class="form-control" id="status" name="status">
+        <option value="draft" {% if not quiz or quiz['status']=='draft' %}selected{% endif %}>Draft</option>
+        <option value="published" {% if quiz and quiz['status']=='published' %}selected{% endif %}>Published</option>
+      </select>
+      <div class="help-text">Publish करने से पहले सुनिश्चित करें कि questions जोड़ी जा चुकी हैं।</div>
+    </div>
+
+    <button type="submit" class="btn btn-primary btn-block">
+      {{ 'Save & Continue to Questions' if not quiz else 'Save Changes' }}
+    </button>
+  </form>
+</div>
+{% endblock %}

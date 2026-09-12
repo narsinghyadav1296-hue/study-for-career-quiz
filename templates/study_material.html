@@ -30,7 +30,11 @@
           {% for m in materials %}
           <div class="material-card">
             <span class="material-card-title">{{ m.title }}</span>
-            <span class="material-card-meta">{{ m.subject }} &middot; {{ m.exam }}</span>
+            <span class="material-card-meta">{{ m.subject }}{% if m.exam_slug %} &middot; {{ m.exam_slug|upper }}{% endif %}{% if m.category %} &middot; {{ m.category }}{% endif %}</span>
+            {% if m.description %}<p class="material-card-desc">{{ m.description }}</p>{% endif %}
+            {% if m.file_url %}
+            <a class="btn btn-primary" href="{{ m.file_url }}" target="_blank" rel="noopener" download>⬇️ Download</a>
+            {% endif %}
           </div>
           {% endfor %}
         </div>

@@ -1,0 +1,84 @@
+{% extends "admin/base_admin.html" %}
+{% block title %}Questions — {{ quiz['title'] }}{% endblock %}
+{% block content %}
+<div class="top-bar">
+  <h1 class="admin-title" style="margin:0;">{{ quiz['title'] }}</h1>
+  <a class="btn btn-secondary btn-sm" href="{{ url_for('admin_quiz.edit_quiz', quiz_id=quiz['id']) }}">Edit Quiz Details</a>
+</div>
+<p class="help-text">{{ questions|length }} question(s) added. Status: <strong>{{ quiz['status'] }}</strong></p>
+{% if error %}<div class="alert alert-error">{{ error }}</div>{% endif %}
+
+<div class="admin-card">
+  <h2 class="admin-subtitle">+ Add Question</h2>
+  <form method="post">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+    <div class="form-group">
+      <label for="question">Question *</label>
+      <textarea class="form-control" id="question" name="question" required placeholder="कथन/statement based questions के लिए हर पंक्ति अलग line में लिखें"></textarea>
+    </div>
+    <div class="form-row two-col">
+      <div class="form-group"><label>Option A *</label><input class="form-control" name="option_a" required></div>
+      <div class="form-group"><label>Option B *</label><input class="form-control" name="option_b" required></div>
+    </div>
+    <div class="form-row two-col">
+      <div class="form-group"><label>Option C *</label><input class="form-control" name="option_c" required></div>
+      <div class="form-group"><label>Option D *</label><input class="form-control" name="option_d" required></div>
+    </div>
+    <div class="form-group">
+      <label>Correct Answer *</label>
+      <select class="form-control" name="correct_answer" required>
+        <option value="">— Select —</option>
+        <option value="0">Option A</option>
+        <option value="1">Option B</option>
+        <option value="2">Option C</option>
+        <option value="3">Option D</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label>Topic (optional)</label>
+      <input class="form-control" name="topic">
+    </div>
+    <div class="form-group">
+      <label>Explanation (optional)</label>
+      <textarea class="form-control" name="explanation"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary btn-block">+ Add Question</button>
+  </form>
+</div>
+
+<div class="admin-card">
+  <h2 class="admin-subtitle">Questions</h2>
+  {% if questions %}
+    {% for q in questions %}
+      <div class="question-card">
+        <div><span class="q-index">Q{{ loop.index }}.</span> {{ q['question'] }}</div>
+        <div class="help-text">
+          A) {{ q['option_a'] }} &nbsp; B) {{ q['option_b'] }} &nbsp; C) {{ q['option_c'] }} &nbsp; D) {{ q['option_d'] }}<br>
+          ✅ Correct: {{ ['A','B','C','D'][q['correct_answer']] }}
+        </div>
+        <div class="list-item-actions">
+          <form method="post" class="inline-action" action="{{ url_for('admin_quiz.move_question', quiz_id=quiz['id'], question_id=q['id']) }}">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+            <input type="hidden" name="direction" value="up">
+            <button type="submit" class="btn btn-secondary btn-sm" {% if loop.first %}disabled{% endif %}>↑ Up</button>
+          </form>
+          <form method="post" class="inline-action" action="{{ url_for('admin_quiz.move_question', quiz_id=quiz['id'], question_id=q['id']) }}">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+            <input type="hidden" name="direction" value="down">
+            <button type="submit" class="btn btn-secondary btn-sm" {% if loop.last %}disabled{% endif %}>↓ Down</button>
+          </form>
+          <a class="btn btn-secondary btn-sm" href="{{ url_for('admin_quiz.edit_question', quiz_id=quiz['id'], question_id=q['id']) }}">Edit</a>
+          <form method="post" class="inline-action" action="{{ url_for('admin_quiz.delete_question', quiz_id=quiz['id'], question_id=q['id']) }}" onsubmit="return confirm('Delete this question?');">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+          </form>
+        </div>
+      </div>
+    {% endfor %}
+  {% else %}
+    <div class="empty-state">अभी तक कोई question नहीं जोड़ा गया।</div>
+  {% endif %}
+</div>
+
+<a class="btn btn-secondary btn-block" href="{{ url_for('admin_quiz.list_quizzes') }}">← Back to Quiz List</a>
+{% endblock %}
