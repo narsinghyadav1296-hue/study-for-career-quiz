@@ -7,6 +7,7 @@ python-docx==1.1.2
 # is set (production). Local development without DATABASE_URL uses stdlib
 # sqlite3 and does not need this package to run, but it must still be
 # installed (e.g. on Render) so the app can start in production.
+psycopg[binary]==3.3.5
 
 # Required only when STORAGE_BACKEND=s3 (production persistent file storage
 # via AWS S3, Cloudflare R2, Backblaze B2, or any S3-compatible provider).
