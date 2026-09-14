@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 
 from flask import Flask, g, render_template
 from werkzeug.security import generate_password_hash
-
+from werkzeug.middleware.proxy_fix import ProxyFix
 from config import Config, BASE_DIR
 from .db import check_database_connection, close_db, get_db, init_db, now
 
@@ -15,7 +15,7 @@ def create_app(config_class=Config):
         static_folder=str(BASE_DIR / "static"),
     )
     app.config.from_object(config_class)
-
+    app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1)
     # --- Fail fast & clearly if this is production but no DATABASE_URL was
     # given (Section 20 of the requirement) - never silently fall back to a
     # local SQLite file that Render's ephemeral filesystem would wipe out. ---
