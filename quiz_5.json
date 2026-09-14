@@ -1,0 +1,129 @@
+{
+  "quiz_id": 5,
+  "title": "📰 Current Affairs Challenge — Quiz 5",
+  "subtitle": "10 Questions • 3 Minutes",
+  "description": "UPPCS स्तर का Current Affairs Statement-Based Quick Quiz",
+  "duration_seconds": 180,
+  "questions": [
+    {
+      "id": 1,
+      "question": "जुलाई 2026 में शुरू किए गए Index of Services Production (ISP) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. इसके प्रथम उप-क्षेत्रीय ट्रायल इंडेक्स का आधार वर्ष 2024-25 रखा गया।\n2. इसके प्रारंभिक प्रकाशन में 19 सेवा उप-क्षेत्र शामिल किए गए।\n3. जुलाई 2026 में ही ISP का पूर्ण final composite index जारी कर दिया गया था।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0,
+      "quiz_id": 5
+    },
+    {
+      "id": 2,
+      "question": "भारत में डेंगू वैक्सीन के संदर्भ में जुलाई 2026 की घटना पर विचार कीजिए:\n\n1. CDSCO ने Qdenga को भारत में डेंगू की रोकथाम के लिए विपणन प्राधिकरण दिया।\n2. Qdenga एक tetravalent live attenuated dengue vaccine है।\n3. Qdenga को भारत में एक भारतीय सरकारी प्रयोगशाला ने विकसित किया था।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2,
+      "quiz_id": 5
+    },
+    {
+      "id": 3,
+      "question": "भारत-UK Comprehensive Economic and Trade Agreement (CETA) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. भारत-UK CETA 15 जुलाई 2026 को लागू हुआ।\n2. समझौते के तहत भारत के लगभग 99% निर्यात को UK में शून्य-शुल्क पहुँच का प्रावधान है।\n3. India-UK Agreement on Social Security इस अवसर पर प्रभावी नहीं हुआ था।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0,
+      "quiz_id": 5
+    },
+    {
+      "id": 4,
+      "question": "Vikram-1 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. Vikram-1 को भारतीय निजी अंतरिक्ष कंपनी Skyroot Aerospace ने विकसित किया।\n2. यह भारत का पहला निजी रूप से विकसित orbital rocket था।\n3. Vikram-1 को ISRO ने एक सरकारी orbital rocket के रूप में विकसित किया था।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0,
+      "quiz_id": 5
+    },
+    {
+      "id": 5,
+      "question": "Semicon 2.0 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. जुलाई 2026 में Semicon 2.0 को केंद्रीय मंत्रिमंडल की मंजूरी मिली।\n2. इस मिशन के लिए लगभग ₹50,000 करोड़ का बजट आवंटित किया गया।\n3. इसका उद्देश्य भारत के semiconductor ecosystem को मजबूत करना है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2,
+      "quiz_id": 5
+    },
+    {
+      "id": 6,
+      "question": "NITI Aayog के Investment Friendliness Index 2026 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. यह सूचकांक राज्यों के निवेश-अनुकूल वातावरण का आकलन करने से संबंधित है।\n2. जुलाई 2026 में जारी रिपोर्ट में गुजरात शीर्ष पर रहा।\n3. इसका उद्देश्य राज्यों की ranking के बजाय केवल केंद्र सरकार के मंत्रालयों के प्रदर्शन को मापना था।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0,
+      "quiz_id": 5
+    },
+    {
+      "id": 7,
+      "question": "जुलाई 2026 में Shanghai में operationalised World AI Cooperation Organization (WAICO) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. WAICO को AI governance और cooperation के लिए एक अंतरराष्ट्रीय मंच के रूप में प्रस्तुत किया गया।\n2. इसके founding members की संख्या 29 बताई गई।\n3. इस पहल में Global South के लिए AI training cooperation का भी उल्लेख हुआ।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1,
+      "quiz_id": 5
+    },
+    {
+      "id": 8,
+      "question": "भारत के संयुक्त राष्ट्र सुरक्षा परिषद से संबंधित SHANTI अभियान के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. भारत ने जुलाई 2026 में UNSC के 2028-29 कार्यकाल के लिए अपनी उम्मीदवारी के समर्थन में SHANTI अभियान शुरू किया।\n2. SHANTI अभियान का उद्देश्य संयुक्त राष्ट्र की स्थायी सदस्यता प्राप्त करना था।\n3. इसका संबंध संयुक्त राष्ट्र सुरक्षा परिषद की गैर-स्थायी सीट से है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2,
+      "quiz_id": 5
+    },
+    {
+      "id": 9,
+      "question": "Gaganyaan कार्यक्रम के संदर्भ में जुलाई 2026 की घटनाओं पर विचार कीजिए:\n\n1. ISRO के Human Space Flight Programme में crew module qualification testing महत्वपूर्ण चरण है।\n2. जुलाई 2026 में Gaganyaan crew module के तीन महत्वपूर्ण qualification tests पूरे होने की जानकारी दी गई।\n3. Gaganyaan भारत के human spaceflight programme से संबंधित है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 3,
+      "quiz_id": 5
+    },
+    {
+      "id": 10,
+      "question": "Production Linked Incentive (PLI) Auto Scheme के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. जुलाई 2026 में PLI Auto Scheme के अंतर्गत 225 manufacturing units स्थापित होने की जानकारी दी गई।\n2. यह योजना भारत में advanced automotive manufacturing ecosystem को बढ़ावा देने से संबंधित है।\n3. PLI Auto Scheme केवल agricultural machinery के लिए बनाई गई योजना है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0,
+      "quiz_id": 5
+    }
+  ]
+}
