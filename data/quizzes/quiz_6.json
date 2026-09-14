@@ -1,0 +1,129 @@
+{
+  "quiz_id": 6,
+  "title": "📰 Current Affairs Challenge — Quiz 6",
+  "subtitle": "10 Questions • 3 Minutes",
+  "description": "UPPCS स्तर का Current Affairs Statement-Based Quick Quiz",
+  "duration_seconds": 180,
+  "questions": [
+    {
+      "id": 11,
+      "question": "Meghalaya की Lakadong Turmeric से संबंधित Mission Golden Spice के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. Mission Golden Spice के तहत Lakadong Turmeric को बढ़ावा देने पर जोर दिया गया।\n2. इस पहल में लगभग ₹175 करोड़ के GI-linked support का उल्लेख हुआ।\n3. Lakadong Turmeric का GI tag Meghalaya के किसी उत्पाद से संबंधित नहीं है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0,
+      "quiz_id": 5
+    },
+    {
+      "id": 12,
+      "question": "INS Malvan के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. INS Malvan को Indian Air Force ने commissioned किया।\n2. यह Mahe-class anti-submarine warfare vessel है।\n3. INS Malvan मुख्यतः civilian passenger ferry के रूप में commissioned किया गया।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1,
+      "quiz_id": 5
+    },
+    {
+      "id": 13,
+      "question": "DRDO के स्वदेशी turbojet engine विकास के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. जुलाई 2026 में DRDO ने 350-kg thrust class expendable turbojet engine की उपलब्धि बताई।\n2. यह विकास imported technology को केवल rebrand करने तक सीमित था।\n3. 350-kg thrust turbojet engine का विकास केवल household appliances के लिए किया गया था।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2,
+      "quiz_id": 5
+    },
+    {
+      "id": 14,
+      "question": "BHAVYA Rasayan Scheme के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. BHAVYA Rasayan Scheme को RBI ने banking reform scheme के रूप में मंजूर किया।\n2. इस योजना का परिव्यय ₹3,030 करोड़ बताया गया।\n3. BHAVYA Rasayan Scheme का उद्देश्य केवल school scholarships देना है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1,
+      "quiz_id": 5
+    },
+    {
+      "id": 15,
+      "question": "Kargil Vijay Diwas 2026 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. 2026 में Kargil Vijay Diwas की 27वीं वर्षगांठ मनाई गई।\n2. Kargil conflict 1999 के बजाय 1971 में हुआ था।\n3. Kargil Vijay Diwas का संबंध 1971 के युद्ध से है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2,
+      "quiz_id": 5
+    },
+    {
+      "id": 16,
+      "question": "राष्ट्रपति द्रौपदी मुर्मु की जुलाई 2026 की Romania यात्रा के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. राष्ट्रपति की Romania यात्रा केवल घरेलू राज्यों के बीच प्रशासनिक यात्रा थी।\n2. यात्रा के दौरान व्यापार और strategic ties पर चर्चा हुई।\n3. Romania यात्रा का भारत-Romania संबंधों से कोई संबंध नहीं था।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1,
+      "quiz_id": 5
+    },
+    {
+      "id": 17,
+      "question": "Odisha में प्रस्तावित AI Data Centre के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. HCLTech ने Odisha में AI Data Centre स्थापित करने की योजना की घोषणा की।\n2. परियोजना का उल्लेखित निवेश ₹1,425.7 करोड़ था।\n3. HCLTech की Odisha परियोजना केवल tourism hotels के निर्माण के लिए थी।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2,
+      "quiz_id": 5
+    },
+    {
+      "id": 18,
+      "question": "जुलाई 2026 में telecom data localisation से संबंधित सरकारी कदमों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. सरकार ने telecom data को भारत के बाहर बिना किसी restriction के साझा करने को अनिवार्य किया।\n2. यह कदम telecom data को अनिवार्य रूप से हर देश के बाहर freely share करने के लिए था।\n3. यह कदम data localisation के व्यापक दृष्टिकोण से जुड़ा है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1,
+      "quiz_id": 5
+    },
+    {
+      "id": 19,
+      "question": "Prevention of Insults to National Honour (Amendment) Bill, 2026 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. जुलाई 2026 में Vande Mataram से संबंधित राष्ट्रीय सम्मान के प्रावधानों पर संसद में विधायी कार्रवाई हुई।\n2. राज्यसभा में Vande Mataram से संबंधित कोई विधायी कार्रवाई नहीं हुई।\n3. यह विषय National Honour से संबंधित विधिक ढाँचे से जुड़ा है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2,
+      "quiz_id": 5
+    },
+    {
+      "id": 20,
+      "question": "जुलाई 2026 में प्रस्तावित polymer currency notes के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. Polymer currency notes के field trials का उद्देश्य केवल railway signalling systems का परीक्षण था।\n2. Polymer notes के field trials का currency management से कोई संबंध नहीं था।\n3. इन trials का संबंध भारत की currency management व्यवस्था से है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1,
+      "quiz_id": 5
+    }
+  ]
+}

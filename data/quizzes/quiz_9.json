@@ -1,0 +1,119 @@
+{
+  "quiz_id": 9,
+  "title": "📰 Current Affairs Challenge — Quiz 9",
+  "subtitle": "10 Questions • 3 Minutes",
+  "description": "UPPCS स्तर का Current Affairs Statement-Based Quick Quiz",
+  "duration_seconds": 180,
+  "questions": [
+    {
+      "id": 11,
+      "question": "e-Pratyaropan platform के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. e-Pratyaropan का संबंध केवल crop insurance से है।\n2. इसका उद्देश्य organ transplantation से संबंधित प्रक्रियाओं को अधिक integrated और transparent बनाना है।\n3. यह digital health governance के क्षेत्र से संबंधित पहल है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 12,
+      "question": "'Nasha Mukt Yuva for Viksit Bharat' अभियान के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. अगस्त 2026 में 100-week anti-drug campaign शुरू किया गया।\n2. अभियान का मुख्य focus youth को substance abuse से दूर रखने पर है।\n3. इस अभियान का मुख्य उद्देश्य केवल कृषि उत्पादन बढ़ाना है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 13,
+      "question": "MSME Development (Amendment) Bill, 2026 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. MSME Development (Amendment) Bill का संबंध केवल defence procurement से है।\n2. इसका उद्देश्य MSME policy framework में संशोधन करना है।\n3. यह छोटे और मध्यम उद्यमों से संबंधित regulatory framework का हिस्सा है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Bankers' Books Evidence Bill, 2026 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. लोकसभा ने अगस्त 2026 में Bankers' Books Evidence Bill, 2026 पारित किया।\n2. Bankers' Books Evidence Bill ने 1891 के कानून को जारी रखने का प्रस्ताव रखा और उसे replace नहीं किया।\n3. यह banking records के evidentiary use से संबंधित विधिक ढाँचे को आधुनिक बनाने का प्रयास है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Indian Statistical Institute Bill, 2026 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. Indian Statistical Institute Bill का उद्देश्य 1959 के ISI Act को समाप्त करना नहीं बल्कि इसे 1891 के banking law से बदलना था।\n2. इसका उद्देश्य 1959 के मौजूदा कानूनी ढाँचे को बदलना और ISI governance में सुधार करना था।\n3. यह विषय statistical education, research और institutional governance से संबंधित है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Supreme Court Gender Sensitivity Handbook 2026 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. Supreme Court ने 2026 Gender Sensitivity Handbook को मंजूरी दी।\n2. यह courtroom conduct और gender-sensitive judicial environment से संबंधित है।\n3. Gender Sensitivity Handbook का उद्देश्य केवल न्यायिक बजट निर्धारण करना है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 17,
+      "question": "बड़ी credit co-operatives के Urban Co-operative Banks में conversion से संबंधित RBI प्रस्ताव के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. RBI का प्रस्ताव large credit co-operatives को commercial airlines में बदलने से संबंधित था।\n2. प्रस्ताव का संबंध Urban Co-operative Banks में conversion से है।\n3. यह cooperative banking structure और regulatory framework से संबंधित है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 18,
+      "question": "अगस्त 2026 में Asiatic Lion population से संबंधित रिपोर्ट के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. 2025 census के आधार पर Asiatic Lion population 891 से अधिक बताई गई।\n2. Asiatic Lion की प्रमुख wild population केवल हिमाचल प्रदेश में पाई जाती है।\n3. संरक्षण विशेषज्ञों ने single-region concentration को एक conservation risk के रूप में रेखांकित किया।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 19,
+      "question": "भारत के private space sector के अगस्त 2026 के आँकड़ों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. अगस्त 2026 में भारत में registered space startups की संख्या केवल 40 बताई गई थी।\n2. भारत की space economy का मूल्य अगस्त 2026 तक लगभग USD 9 billion बताया गया।\n3. Space sector में private investment में पिछले कुछ वर्षों में उल्लेखनीय वृद्धि दर्ज की गई।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 20,
+      "question": "National Anubhav Awards 2026 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. 2026 में 9वें National Anubhav Awards का आयोजन किया गया।\n2. Anubhav platform retiring और retired Central Government employees को अपने अनुभव साझा करने का मंच देता है।\n3. Anubhav platform केवल निजी क्षेत्र के कर्मचारियों के लिए बनाया गया है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "quiz_id": 10,
+  "title": "📰 Current Affairs Challenge — Quiz 10",
+  "subtitle": "10 Questions • 3 Minutes",
+  "description": "UPPCS स्तर का Current Affairs Statement-Based Quick Quiz",
+  "duration_seconds": 180,
+  "questions": [
+    {
+      "id": 21,
+      "question": "National Awards to Teachers 2026 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. 2026 में Higher Education Institutions और Polytechnics के 21 teachers/faculties को National Awards to Teachers के लिए चुना गया।\n2. 2026 National Awards to Teachers में केवल private coaching institutes के teachers चुने गए थे।\n3. 2026 के awards राष्ट्रपति द्वारा Teachers' Day पर प्रदान किए जाने थे।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 22,
+      "question": "June 2026 के Index of Services Production (ISP) release के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. जून 2026 के ISP में 19 service sub-sectors के आँकड़े जारी किए गए।\n2. 19 में से 18 sub-sectors ने year-on-year positive growth दर्ज की।\n3. June 2026 में सभी 19 service sub-sectors ने negative growth दर्ज की।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 23,
+      "question": "Unified Lending Interface (ULI) के संदर्भ में अगस्त 2026 की current affairs पर विचार कीजिए:\n\n1. ULI का संबंध केवल satellite navigation से है।\n2. यह lenders को standardized और interoperable data access उपलब्ध कराने के उद्देश्य से विकसित framework से जुड़ा है।\n3. इसका उद्देश्य credit assessment को अधिक efficient बनाने में सहायता करना है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 24,
+      "question": "Project Kusha के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. Project Kusha भारत की long-range surface-to-air missile capability से संबंधित है।\n2. Project Kusha का मुख्य उद्देश्य coastal shipping lanes विकसित करना है।\n3. यह indigenous defence technology development से जुड़ा strategic project है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Kanpur Mega Leather & Footwear Cluster Park के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. अगस्त 2026 में Kanpur में Mega Leather & Footwear Cluster Park से संबंधित पहल चर्चा में रही।\n2. यह Uttar Pradesh के leather और footwear manufacturing ecosystem को मजबूत करने से संबंधित है।\n3. Kanpur cluster का उद्देश्य केवल tourism और hospitality sector विकसित करना है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 26,
+      "question": "India-Singapore Ministerial Roundtable (ISMR) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. ISMR का संबंध भारत-सिंगापुर संबंधों से नहीं बल्कि भारत-कनाडा संबंधों से है।\n2. अगस्त 2026 में ministerial-level engagement में investment और technology जैसे विषयों पर सहयोग पर जोर दिया गया।\n3. भारत-सिंगापुर संबंध में trade, digitalisation और emerging technologies महत्वपूर्ण क्षेत्र हैं।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 27,
+      "question": "National Portal for Rare Diseases (NPRD) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. NPRD rare diseases से संबंधित national-level digital information and support architecture से जुड़ा है।\n2. Rare diseases के लिए NPRD का उद्देश्य केवल sports talent identification है।\n3. ऐसे digital platforms का उद्देश्य patients और healthcare stakeholders के बीच information access बेहतर करना है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 28,
+      "question": "Project 'Pravas' के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. Project Pravas inter-state migrant workers से संबंधित portal है।\n2. इसका उद्देश्य migrant workers के inter-state movement और संबंधित services के coordination को बेहतर करना है।\n3. Project Pravas का संबंध केवल विदेशी पर्यटकों के visa management से है।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 29,
+      "question": "Sangeet Natak Akademi Amrit Awards 2026 के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. Sangeet Natak Akademi भारतीय performing arts के क्षेत्र में राष्ट्रीय स्तर की प्रमुख संस्था है।\n2. Sangeet Natak Akademi का मुख्य कार्य केवल civil engineering research करना है।\n3. ऐसे awards भारतीय संगीत, नृत्य और रंगमंचीय परंपराओं के संरक्षण को बढ़ावा देते हैं।\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 30,
+      "question": "World Water Week 2026 और Stockholm Water Prize के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n\n1. World Water Week जल सुरक्षा और sustainable water management पर वैश्विक चर्चा का प्रमुख मंच है।\n2. Stockholm Water Prize जल के क्षेत्र में उल्लेखनीय योगदान के लिए दिया जाने वाला अंतरराष्ट्रीय सम्मान है।\n3. World Water Week का विषय जल से नहीं बल्कि केवल अंतरिक्ष अनुसंधान से संबंधित है.\n\nकूट:\nA. केवल 1 और 2\nB. केवल 2 और 3\nC. केवल 1 और 3\nD. 1, 2 और 3",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correct_answer": 0
+    }
+  ]
+}
