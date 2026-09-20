@@ -1,7 +1,7 @@
 {
   "id": 11,
-  "title": "UPPCS Health Education Officer — Sectional Test",
-  "description": "Indian Society / Sociology — Social Dimensions of Health + General Studies",
+  "title": "UPPSC Swasthya Shiksha Adhikari (Screening) — Mock Test 11",
+  "description": "150-question bilingual mock test based on the supplied Swasthya Shiksha Adhikari question paper.",
   "duration_minutes": 120,
   "total_questions": 150,
   "marks_per_question": 3,
@@ -12,139 +12,139 @@
     {
       "id": 1,
       "question_number": 1,
-      "question": "Consider the following statements regarding the Functionalist perspective on health:\n1. Talcott Parsons gave the concept of the \"Sick Role.\"\n2. This perspective views illness as a deviant social status.\n3. This perspective is criticised by conflict theorists for ignoring the class basis of health inequality.",
-      "question_text": "Consider the following statements regarding the Functionalist perspective on health:\n1. Talcott Parsons gave the concept of the \"Sick Role.\"\n2. This perspective views illness as a deviant social status.\n3. This perspective is criticised by conflict theorists for ignoring the class basis of health inequality.",
+      "question": "1. मोहनजोदड़ो में \"महान स्नानागार\" (Great Bath) पाया गया था।\n2. हड़प्पावासी सूती वस्त्र (कपास) की खेती करने वाले पहले लोग थे।\nउपर्युक्त में से कौन सा/से कथन सही है/हैं?\n\n1. The \"Great Bath\" was found at Mohenjodaro.\n2. The Harappans were the first people to cultivate cotton.\nWhich of the statements given above is/are correct?",
+      "question_text": "1. मोहनजोदड़ो में \"महान स्नानागार\" (Great Bath) पाया गया था।\n2. हड़प्पावासी सूती वस्त्र (कपास) की खेती करने वाले पहले लोग थे।\nउपर्युक्त में से कौन सा/से कथन सही है/हैं?\n\n1. The \"Great Bath\" was found at Mohenjodaro.\n2. The Harappans were the first people to cultivate cotton.\nWhich of the statements given above is/are correct?",
       "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 2,
       "question_number": 2,
-      "question": "Consider the following statements:\n1. The Conflict perspective links health to unequal distribution of resources.\n2. Symbolic Interactionism views illness as a socially constructed experience.",
-      "question_text": "Consider the following statements:\n1. The Conflict perspective links health to unequal distribution of resources.\n2. Symbolic Interactionism views illness as a socially constructed experience.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "अशोक / Ashoka",
+        "B": "कनिष्क / Kanishka",
+        "C": "चन्द्रगुप्त मौर्य / Chandragupta Maurya",
+        "D": "बिम्बिसार / Bimbisara"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 3,
       "question_number": 3,
-      "question": "Regarding the WHO's definition of health:\n1. This definition was given in the preamble of the WHO Constitution in 1948.\n2. It defines health merely as the absence of disease.\n3. It includes physical, mental and social well-being.",
-      "question_text": "Regarding the WHO's definition of health:\n1. This definition was given in the preamble of the WHO Constitution in 1948.\n2. It defines health merely as the absence of disease.\n3. It includes physical, mental and social well-being.",
+      "question": "1. कबीर ने निर्गुण भक्ति का प्रचार किया।\n2. चैतन्य महाप्रभु ने बंगाल में कृष्ण भक्ति का प्रचार किया।\nसही कथन चुनें।\n\n1. Kabir preached Nirguna Bhakti.\n2. Chaitanya Mahaprabhu propagated Krishna Bhakti in Bengal.\nSelect the correct statement(s).",
+      "question_text": "1. कबीर ने निर्गुण भक्ति का प्रचार किया।\n2. चैतन्य महाप्रभु ने बंगाल में कृष्ण भक्ति का प्रचार किया।\nसही कथन चुनें।\n\n1. Kabir preached Nirguna Bhakti.\n2. Chaitanya Mahaprabhu propagated Krishna Bhakti in Bengal.\nSelect the correct statement(s).",
       "options": {
-        "A": "Only 1 and 3",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 2",
-        "D": "1, 2 and 3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 4,
       "question_number": 4,
-      "question": "Regarding the Biomedical Model and the Social Model of Health:\n1. The Biomedical Model largely confines disease to biological factors.\n2. The Social Model also includes poverty, education and housing among the determinants of health.",
-      "question_text": "Regarding the Biomedical Model and the Social Model of Health:\n1. The Biomedical Model largely confines disease to biological factors.\n2. The Social Model also includes poverty, education and housing among the determinants of health.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "लॉर्ड कर्जन / Lord Curzon",
+        "B": "लॉर्ड डलहौजी / Lord Dalhousie",
+        "C": "लॉर्ड कैनिंग / Lord Canning",
+        "D": "लॉर्ड वेलेजली / Lord Wellesley"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 5,
       "question_number": 5,
-      "question": "Regarding the Alma Ata Declaration:\n1. It was adopted in 1978.\n2. It set the goal of \"Health for All\" by the year 2000.\n3. It emphasised the concept of Primary Health Care.",
-      "question_text": "Regarding the Alma Ata Declaration:\n1. It was adopted in 1978.\n2. It set the goal of \"Health for All\" by the year 2000.\n3. It emphasised the concept of Primary Health Care.",
+      "question": "1. यह क्रिप्स मिशन की विफलता के बाद शुरू हुआ।\n2. गांधी जी ने \"करो या मरो\" का नारा दिया।\n\n1. It was launched after the failure of the Cripps Mission.\n2. Gandhi gave the call \"Do or Die\".",
+      "question_text": "1. यह क्रिप्स मिशन की विफलता के बाद शुरू हुआ।\n2. गांधी जी ने \"करो या मरो\" का नारा दिया।\n\n1. It was launched after the failure of the Cripps Mission.\n2. Gandhi gave the call \"Do or Die\".",
       "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 6,
       "question_number": 6,
-      "question": "Consider the following statements regarding Human Ecology:\n1. This concept is associated with the Chicago School, with Robert Park as a key thinker.\n2. It studies the interrelationship between human communities and their physical environment.",
-      "question_text": "Consider the following statements regarding Human Ecology:\n1. This concept is associated with the Chicago School, with Robert Park as a key thinker.\n2. It studies the interrelationship between human communities and their physical environment.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "बाल गंगाधर तिलक / Bal Gangadhar Tilak",
+        "B": "जी.के. गोखले / G.K. Gokhale",
+        "C": "लाला लाजपत राय / Lala Lajpat Rai",
+        "D": "बिपिन चंद्र पाल / Bipin Chandra Pal"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 7,
       "question_number": 7,
-      "question": "Regarding the relationship between urbanisation and health:\n1. Rapid and unplanned urbanisation increases health problems in slums.\n2. Access to health facilities is always equal in urban and rural areas.",
-      "question_text": "Regarding the relationship between urbanisation and health:\n1. Rapid and unplanned urbanisation increases health problems in slums.\n2. Access to health facilities is always equal in urban and rural areas.",
+      "question": "1. कर्क रेखा भारत से होकर गुजरती है।\n2. निवर्तमान (लौटता) मानसून तमिलनाडु में वर्षा लाता है।\n\n1. The Tropic of Cancer passes through India.\n2. The retreating monsoon brings rainfall to Tamil Nadu.",
+      "question_text": "1. कर्क रेखा भारत से होकर गुजरती है।\n2. निवर्तमान (लौटता) मानसून तमिलनाडु में वर्षा लाता है।\n\n1. The Tropic of Cancer passes through India.\n2. The retreating monsoon brings rainfall to Tamil Nadu.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": 8,
-      "question_number": 8,
-      "question": "Regarding the impact of industrialisation on health:\n1. Industrialisation can give rise to occupational diseases such as silicosis.\n2. Industrialisation has increased diseases caused by air and water pollution.",
-      "question_text": "Regarding the impact of industrialisation on health:\n1. Industrialisation can give rise to occupational diseases such as silicosis.\n2. Industrialisation has increased diseases caused by air and water pollution.",
-      "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
-      "id": 9,
-      "question_number": 9,
-      "question": "Regarding globalisation and health:\n1. Globalisation has increased the risk of rapid cross-border spread of infectious diseases.\n2. Globalisation has promoted Medical Tourism.\n3. Globalisation has no impact on health inequality.",
-      "question_text": "Regarding globalisation and health:\n1. Globalisation has increased the risk of rapid cross-border spread of infectious diseases.\n2. Globalisation has promoted Medical Tourism.\n3. Globalisation has no impact on health inequality.",
+      "id": 8,
+      "question_number": 8,
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
+        "A": "असम / Assam",
+        "B": "केरल / Kerala",
+        "C": "कर्नाटक / Karnataka",
+        "D": "पश्चिम बंगाल / West Bengal"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
+      "id": 9,
+      "question_number": 9,
+      "question": "1. अटाकामा मरुस्थल दक्षिण अमेरिका में स्थित है।\n2. यह पृथ्वी के सबसे शुष्क स्थानों में से एक है।\n\n1. The Atacama Desert lies in South America.\n2. It is one of the driest places on Earth.",
+      "question_text": "1. अटाकामा मरुस्थल दक्षिण अमेरिका में स्थित है।\n2. यह पृथ्वी के सबसे शुष्क स्थानों में से एक है।\n\n1. The Atacama Desert lies in South America.\n2. It is one of the driest places on Earth.",
+      "options": {
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
       "id": 10,
       "question_number": 10,
-      "question": "Regarding the Rural-Urban Health Gap:\n1. Shortage of specialist doctors is a major challenge in rural areas.\n2. Infant mortality rate in India is generally higher in rural areas than in urban areas.",
-      "question_text": "Regarding the Rural-Urban Health Gap:\n1. Shortage of specialist doctors is a major challenge in rural areas.\n2. Infant mortality rate in India is generally higher in rural areas than in urban areas.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "ब्राज़ील / Brazil",
+        "B": "ऑस्ट्रेलिया / Australia",
+        "C": "भारत / India",
+        "D": "चिली / Chile"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -152,83 +152,83 @@
     {
       "id": 11,
       "question_number": 11,
-      "question": "Regarding the social determinants of malnutrition:\n1. Poverty is a major cause of malnutrition.\n2. Mothers' education level has been found to correlate with child malnutrition.\n3. Caste and gender inequality have no effect on malnutrition rates.",
-      "question_text": "Regarding the social determinants of malnutrition:\n1. Poverty is a major cause of malnutrition.\n2. Mothers' education level has been found to correlate with child malnutrition.\n3. Caste and gender inequality have no effect on malnutrition rates.",
+      "question": "1. उत्तर प्रदेश की सीमा नेपाल से मिलती है।\n2. गंगा-यमुना दोआब उत्तर प्रदेश में स्थित है।\n\n1. Uttar Pradesh shares a border with Nepal.\n2. The Ganga-Yamuna doab lies in Uttar Pradesh.",
+      "question_text": "1. उत्तर प्रदेश की सीमा नेपाल से मिलती है।\n2. गंगा-यमुना दोआब उत्तर प्रदेश में स्थित है।\n\n1. Uttar Pradesh shares a border with Nepal.\n2. The Ganga-Yamuna doab lies in Uttar Pradesh.",
       "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 12,
       "question_number": 12,
-      "question": "Regarding Sanitation:\n1. The Swachh Bharat Mission was launched on 2 October 2014.\n2. Open Defecation Free (ODF) status is measured among sanitation indicators.",
-      "question_text": "Regarding Sanitation:\n1. The Swachh Bharat Mission was launched on 2 October 2014.\n2. Open Defecation Free (ODF) status is measured among sanitation indicators.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "क्षोभमंडल / Troposphere",
+        "B": "समतापमंडल / Stratosphere",
+        "C": "मध्यमंडल / Mesosphere",
+        "D": "बाह्यतापमंडल / Thermosphere"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 13,
       "question_number": 13,
-      "question": "Regarding the interrelation between poverty and health:\n1. Poverty limits an individual's access to nutritious food.\n2. Households below the poverty line generally have greater access to health insurance.",
-      "question_text": "Regarding the interrelation between poverty and health:\n1. Poverty limits an individual's access to nutritious food.\n2. Households below the poverty line generally have greater access to health insurance.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": 14,
-      "question_number": 14,
-      "question": "Consider the following statements:\n1. Waterborne diseases like cholera and typhoid are related to poor sanitation.\n2. Vector-borne diseases (such as malaria, dengue) are influenced by environmental factors.\n3. Zoonotic diseases are not transmitted from animals to humans.",
-      "question_text": "Consider the following statements:\n1. Waterborne diseases like cholera and typhoid are related to poor sanitation.\n2. Vector-borne diseases (such as malaria, dengue) are influenced by environmental factors.\n3. Zoonotic diseases are not transmitted from animals to humans.",
-      "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": 15,
-      "question_number": 15,
-      "question": "Regarding social attitudes towards HIV/AIDS:\n1. Social stigma and discrimination against HIV/AIDS patients has been a major challenge.\n2. The National AIDS Control Organisation (NACO) was established in 1992.",
-      "question_text": "Regarding social attitudes towards HIV/AIDS:\n1. Social stigma and discrimination against HIV/AIDS patients has been a major challenge.\n2. The National AIDS Control Organisation (NACO) was established in 1992.",
-      "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "नौवीं / 9th",
+        "B": "दसवीं / 10th",
+        "C": "ग्यारहवीं / 11th",
+        "D": "बारहवीं / 12th"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
+      "id": 14,
+      "question_number": 14,
+      "question": "1. मौलिक कर्तव्य 42वें संशोधन द्वारा जोड़े गए थे।\n2. मूल रूप से 10 मौलिक कर्तव्य थे।\n\n1. Fundamental Duties were added by the 42nd Amendment.\n2. There were originally 10 Fundamental Duties.",
+      "question_text": "1. मौलिक कर्तव्य 42वें संशोधन द्वारा जोड़े गए थे।\n2. मूल रूप से 10 मौलिक कर्तव्य थे।\n\n1. Fundamental Duties were added by the 42nd Amendment.\n2. There were originally 10 Fundamental Duties.",
+      "options": {
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question_number": 15,
+      "question": "\n\n",
+      "question_text": "\n\n",
+      "options": {
+        "A": "राष्ट्रपति / President",
+        "B": "उपराष्ट्रपति / Vice President",
+        "C": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
+        "D": "प्रधानमंत्री / Prime Minister"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
       "id": 16,
       "question_number": 16,
-      "question": "Regarding social prejudice towards cancer patients:\n1. Cancer is still viewed as a taboo subject in many societies.\n2. Lack of social awareness is a barrier to early diagnosis.",
-      "question_text": "Regarding social prejudice towards cancer patients:\n1. Cancer is still viewed as a taboo subject in many societies.\n2. Lack of social awareness is a barrier to early diagnosis.",
+      "question": "1. अनुच्छेद 356 राष्ट्रपति शासन से संबंधित है।\n2. सरकारिया आयोग ने इसके सीमित प्रयोग की सिफारिश की थी।\n\n1. Article 356 deals with President's Rule.\n2. The Sarkaria Commission recommended its restricted use.",
+      "question_text": "1. अनुच्छेद 356 राष्ट्रपति शासन से संबंधित है।\n2. सरकारिया आयोग ने इसके सीमित प्रयोग की सिफारिश की थी।\n\n1. Article 356 deals with President's Rule.\n2. The Sarkaria Commission recommended its restricted use.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -236,13 +236,13 @@
     {
       "id": 17,
       "question_number": 17,
-      "question": "Regarding the dimensions of Health Inequality:\n1. Economic status affects access to health services.\n2. Caste-based discrimination can affect the availability of health services.\n3. Gender inequality has no relation with health outcomes.",
-      "question_text": "Regarding the dimensions of Health Inequality:\n1. Economic status affects access to health services.\n2. Caste-based discrimination can affect the availability of health services.\n3. Gender inequality has no relation with health outcomes.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
+        "A": "315 / 315",
+        "B": "320 / 320",
+        "C": "324 / 324",
+        "D": "280 / 280"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -250,13 +250,13 @@
     {
       "id": 18,
       "question_number": 18,
-      "question": "Regarding the National Rural Health Mission (NRHM):\n1. It was launched in 2005.\n2. ASHA workers are appointed under this mission.",
-      "question_text": "Regarding the National Rural Health Mission (NRHM):\n1. It was launched in 2005.\n2. ASHA workers are appointed under this mission.",
+      "question": "1. राज्य के नीति निदेशक तत्व न्यायोचित (justiciable) नहीं हैं।\n2. ये आयरलैंड के संविधान से लिए गए हैं।\n\n1. Directive Principles of State Policy are non-justiciable.\n2. They are borrowed from the Irish Constitution.",
+      "question_text": "1. राज्य के नीति निदेशक तत्व न्यायोचित (justiciable) नहीं हैं।\n2. ये आयरलैंड के संविधान से लिए गए हैं।\n\n1. Directive Principles of State Policy are non-justiciable.\n2. They are borrowed from the Irish Constitution.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -264,13 +264,13 @@
     {
       "id": 19,
       "question_number": 19,
-      "question": "Regarding the National Health Mission (NHM):\n1. It encompasses both NRHM and the National Urban Health Mission (NUHM).\n2. NUHM was launched in the year 2013.",
-      "question_text": "Regarding the National Health Mission (NHM):\n1. It encompasses both NRHM and the National Urban Health Mission (NUHM).\n2. NUHM was launched in the year 2013.",
+      "question": "1. मानव विकास सूचकांक (HDI) UNDP द्वारा विकसित किया गया।\n2. यह आय, शिक्षा और स्वास्थ्य को ध्यान में रखता है।\n\n1. The Human Development Index (HDI) was developed by UNDP.\n2. It takes into account income, education and health.",
+      "question_text": "1. मानव विकास सूचकांक (HDI) UNDP द्वारा विकसित किया गया।\n2. यह आय, शिक्षा और स्वास्थ्य को ध्यान में रखता है।\n\n1. The Human Development Index (HDI) was developed by UNDP.\n2. It takes into account income, education and health.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -278,13 +278,13 @@
     {
       "id": 20,
       "question_number": 20,
-      "question": "Regarding Ayushman Bharat Yojana:\n1. It was announced in the Union Budget 2018-19.\n2. It has two components — Health and Wellness Centres and Pradhan Mantri Jan Arogya Yojana (PM-JAY).\n3. Under PM-JAY, an insurance cover of ₹10 lakh per family per year is provided.",
-      "question_text": "Regarding Ayushman Bharat Yojana:\n1. It was announced in the Union Budget 2018-19.\n2. It has two components — Health and Wellness Centres and Pradhan Mantri Jan Arogya Yojana (PM-JAY).\n3. Under PM-JAY, an insurance cover of ₹10 lakh per family per year is provided.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
+        "A": "उदारीकरण, निजीकरण, वैश्वीकरण (LPG) / Liberalization, Privatization, Globalization (LPG)",
+        "B": "हरित क्रांति / Green Revolution",
+        "C": "राष्ट्रीयकरण / Nationalization",
+        "D": "लाइसेंस राज / License Raj"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -292,83 +292,83 @@
     {
       "id": 21,
       "question_number": 21,
-      "question": "Regarding PM-JAY:\n1. It was launched on 23 September 2018.\n2. It is considered one of the world's largest government-funded health insurance schemes.",
-      "question_text": "Regarding PM-JAY:\n1. It was launched on 23 September 2018.\n2. It is considered one of the world's largest government-funded health insurance schemes.",
+      "question": "1. शहरीकरण नागरिक अवसंरचना पर दबाव बढ़ाता है।\n2. वैश्वीकरण का भारतीय समाज पर कोई प्रभाव नहीं है।\n\n1. Urbanization increases pressure on civic infrastructure.\n2. Globalization has had no impact on Indian society.",
+      "question_text": "1. शहरीकरण नागरिक अवसंरचना पर दबाव बढ़ाता है।\n2. वैश्वीकरण का भारतीय समाज पर कोई प्रभाव नहीं है।\n\n1. Urbanization increases pressure on civic infrastructure.\n2. Globalization has had no impact on Indian society.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": 22,
-      "question_number": 22,
-      "question": "Regarding POSHAN Abhiyaan:\n1. It was launched in the year 2018.\n2. Its objective is to reduce malnutrition among children, adolescent girls and pregnant/lactating women.",
-      "question_text": "Regarding POSHAN Abhiyaan:\n1. It was launched in the year 2018.\n2. Its objective is to reduce malnutrition among children, adolescent girls and pregnant/lactating women.",
-      "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": 23,
-      "question_number": 23,
-      "question": "Regarding the Integrated Child Development Services (ICDS):\n1. It was launched in the year 1975.\n2. Anganwadi centres function under this scheme.",
-      "question_text": "Regarding the Integrated Child Development Services (ICDS):\n1. It was launched in the year 1975.\n2. Anganwadi centres function under this scheme.",
-      "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": 24,
-      "question_number": 24,
-      "question": "Regarding Janani Suraksha Yojana (JSY):\n1. It is a scheme related to safe motherhood.\n2. It was launched under NRHM in the year 2005.",
-      "question_text": "Regarding Janani Suraksha Yojana (JSY):\n1. It is a scheme related to safe motherhood.\n2. It was launched under NRHM in the year 2005.",
-      "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": 25,
-      "question_number": 25,
-      "question": "Regarding Mission Indradhanush:\n1. It is an immunisation campaign launched in 2014.\n2. Intensified Mission Indradhanush 2.0 was launched in 2017.",
-      "question_text": "Regarding Mission Indradhanush:\n1. It is an immunisation campaign launched in 2014.\n2. Intensified Mission Indradhanush 2.0 was launched in 2017.",
-      "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
+      "id": 22,
+      "question_number": 22,
+      "question": "\n\n",
+      "question_text": "\n\n",
+      "options": {
+        "A": "ब्रुंटलैंड रिपोर्ट / Brundtland Report",
+        "B": "मानव विकास रिपोर्ट / Human Development Report",
+        "C": "विश्व विकास रिपोर्ट / World Development Report",
+        "D": "स्टर्न रिव्यू / Stern Review"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question_number": 23,
+      "question": "1. स्वास्थ्य एवं स्वच्छता के पहलू सामाजिक विकास से जुड़े हैं।\n2. गरीबी का कुपोषण से कोई संबंध नहीं है।\n\n1. Aspects of health and sanitation are linked to social development.\n2. Poverty has no relation with malnutrition.",
+      "question_text": "1. स्वास्थ्य एवं स्वच्छता के पहलू सामाजिक विकास से जुड़े हैं।\n2. गरीबी का कुपोषण से कोई संबंध नहीं है।\n\n1. Aspects of health and sanitation are linked to social development.\n2. Poverty has no relation with malnutrition.",
+      "options": {
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question_number": 24,
+      "question": "\n\n",
+      "question_text": "\n\n",
+      "options": {
+        "A": "मानव विकास उपागम / Human Development Approach",
+        "B": "ट्रिकल-डाउन उपागम / Trickle-down Approach",
+        "C": "संरचनात्मक समायोजन / Structural Adjustment",
+        "D": "आयात प्रतिस्थापन / Import Substitution"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question_number": 25,
+      "question": "\n\n",
+      "question_text": "\n\n",
+      "options": {
+        "A": "टोक्यो / Tokyo",
+        "B": "पेरिस / Paris",
+        "C": "लॉस एंजिल्स / Los Angeles",
+        "D": "लंदन / London"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
       "id": 26,
       "question_number": 26,
-      "question": "Regarding the Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA):\n1. It was launched in the year 2016.\n2. Free check-ups for pregnant women are conducted on the 9th of every month under this scheme.",
-      "question_text": "Regarding the Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA):\n1. It was launched in the year 2016.\n2. Free check-ups for pregnant women are conducted on the 9th of every month under this scheme.",
+      "question": "1. भारत ने 2023 में G20 की अध्यक्षता ग्रहण की।\n2. G20 शिखर सम्मेलन 2023 नई दिल्ली में आयोजित हुआ।\n\n1. India assumed the G20 presidency in 2023.\n2. The G20 Summit 2023 was held in New Delhi.",
+      "question_text": "1. भारत ने 2023 में G20 की अध्यक्षता ग्रहण की।\n2. G20 शिखर सम्मेलन 2023 नई दिल्ली में आयोजित हुआ।\n\n1. India assumed the G20 presidency in 2023.\n2. The G20 Summit 2023 was held in New Delhi.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -376,41 +376,41 @@
     {
       "id": 27,
       "question_number": 27,
-      "question": "Regarding the National Health Policy:\n1. The first National Health Policy was formulated in 1983.\n2. The current (third) National Health Policy was adopted in 2017.",
-      "question_text": "Regarding the National Health Policy:\n1. The first National Health Policy was formulated in 1983.\n2. The current (third) National Health Policy was adopted in 2017.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "बान की मून / Ban Ki-moon",
+        "B": "एंटोनियो गुटेरेस / António Guterres",
+        "C": "कोफी अन्नान / Kofi Annan",
+        "D": "बुत्रोस बुत्रोस-घाली / Boutros Boutros-Ghali"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 28,
       "question_number": 28,
-      "question": "Regarding the Bhore Committee:\n1. It submitted its report in the year 1946.\n2. It was chaired by Sir Joseph Bhore.\n3. It gave recommendations regarding health survey and development in India.",
-      "question_text": "Regarding the Bhore Committee:\n1. It submitted its report in the year 1946.\n2. It was chaired by Sir Joseph Bhore.\n3. It gave recommendations regarding health survey and development in India.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
+        "A": "नरगिस मोहम्मदी / Narges Mohammadi",
+        "B": "मलाला यूसुफज़ई / Malala Yousafzai",
+        "C": "डेनिस मुकवेगे / Denis Mukwege",
+        "D": "विश्व खाद्य कार्यक्रम (WFP) / World Food Programme (WFP)"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 29,
       "question_number": 29,
-      "question": "Regarding the National Family Health Survey (NFHS):\n1. Data collection for NFHS-5 was carried out between 2019-21.\n2. NFHS-1 was conducted in 1992-93.",
-      "question_text": "Regarding the National Family Health Survey (NFHS):\n1. Data collection for NFHS-5 was carried out between 2019-21.\n2. NFHS-1 was conducted in 1992-93.",
+      "question": "1. इसरो के चंद्रयान-3 ने 2023 में चंद्रमा के दक्षिणी ध्रुव के निकट सफल लैंडिंग की।\n2. इससे भारत चंद्रमा के दक्षिणी ध्रुव के निकट उतरने वाला पहला देश बन गया।\n\n1. ISRO's Chandrayaan-3 successfully landed near the Moon's south pole in 2023.\n2. This made India the first country to land near the lunar south pole.",
+      "question_text": "1. इसरो के चंद्रयान-3 ने 2023 में चंद्रमा के दक्षिणी ध्रुव के निकट सफल लैंडिंग की।\n2. इससे भारत चंद्रमा के दक्षिणी ध्रुव के निकट उतरने वाला पहला देश बन गया।\n\n1. ISRO's Chandrayaan-3 successfully landed near the Moon's south pole in 2023.\n2. This made India the first country to land near the lunar south pole.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -418,27 +418,27 @@
     {
       "id": 30,
       "question_number": 30,
-      "question": "Regarding the Ayushman Bharat Digital Mission (ABDM):\n1. Its nationwide launch took place in the year 2021.\n2. Under it, citizens are provided a Health ID (ABHA).",
-      "question_text": "Regarding the Ayushman Bharat Digital Mission (ABDM):\n1. Its nationwide launch took place in the year 2021.\n2. Under it, citizens are provided a Health ID (ABHA).",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "एकीकृत नाशीजीव प्रबंधन (IPM) / Integrated Pest Management (IPM)",
+        "B": "हरित क्रांति / Green Revolution",
+        "C": "जैविक प्रमाणन / Organic Certification",
+        "D": "केवल फसल चक्र / Crop Rotation only"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 31,
       "question_number": 31,
-      "question": "Regarding the Sustainable Development Goals (SDGs):\n1. SDG-3 relates to \"Good Health and Well-being.\"\n2. The SDGs were adopted by the United Nations in 2015.",
-      "question_text": "Regarding the Sustainable Development Goals (SDGs):\n1. SDG-3 relates to \"Good Health and Well-being.\"\n2. The SDGs were adopted by the United Nations in 2015.",
+      "question": "1. हरित क्रांति ने मुख्यतः गेहूं और चावल उत्पादन को लाभान्वित किया।\n2. यह मुख्यतः पंजाब, हरियाणा और पश्चिमी उत्तर प्रदेश में केंद्रित थी।\n\n1. The Green Revolution mainly benefited wheat and rice production.\n2. It was concentrated mainly in Punjab, Haryana and Western Uttar Pradesh.",
+      "question_text": "1. हरित क्रांति ने मुख्यतः गेहूं और चावल उत्पादन को लाभान्वित किया।\n2. यह मुख्यतः पंजाब, हरियाणा और पश्चिमी उत्तर प्रदेश में केंद्रित थी।\n\n1. The Green Revolution mainly benefited wheat and rice production.\n2. It was concentrated mainly in Punjab, Haryana and Western Uttar Pradesh.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -446,13 +446,13 @@
     {
       "id": 32,
       "question_number": 32,
-      "question": "Regarding environmental movements:\n1. The Chipko Movement began in 1973 in the region of present-day Uttarakhand (then Uttar Pradesh).\n2. The Narmada Bachao Andolan was led by Medha Patkar.",
-      "question_text": "Regarding environmental movements:\n1. The Chipko Movement began in 1973 in the region of present-day Uttarakhand (then Uttar Pradesh).\n2. The Narmada Bachao Andolan was led by Medha Patkar.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "गेहूं / Wheat",
+        "B": "सरसों / Mustard",
+        "C": "धान / Paddy (rice)",
+        "D": "चना / Gram"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -460,13 +460,13 @@
     {
       "id": 33,
       "question_number": 33,
-      "question": "Regarding the Silent Valley Movement:\n1. It was an environmental movement related to Kerala.\n2. It was against a hydroelectric project that would have affected the Silent Valley rainforest.",
-      "question_text": "Regarding the Silent Valley Movement:\n1. It was an environmental movement related to Kerala.\n2. It was against a hydroelectric project that would have affected the Silent Valley rainforest.",
+      "question": "1. कृषि विपणन में भंडारण, श्रेणीकरण एवं परिवहन शामिल हैं।\n2. APMC अधिनियम राज्यों में कृषि बाजारों को विनियमित करते हैं।\n\n1. Agricultural marketing includes storage, grading and transport.\n2. APMC Acts regulate agricultural markets in states.",
+      "question_text": "1. कृषि विपणन में भंडारण, श्रेणीकरण एवं परिवहन शामिल हैं।\n2. APMC अधिनियम राज्यों में कृषि बाजारों को विनियमित करते हैं।\n\n1. Agricultural marketing includes storage, grading and transport.\n2. APMC Acts regulate agricultural markets in states.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -474,69 +474,69 @@
     {
       "id": 34,
       "question_number": 34,
-      "question": "Regarding the relationship between Human Ecology and health:\n1. Environmental degradation has a direct impact on community health.\n2. Air pollution increases the rate of respiratory diseases.",
-      "question_text": "Regarding the relationship between Human Ecology and health:\n1. Environmental degradation has a direct impact on community health.\n2. Air pollution increases the rate of respiratory diseases.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "रिकेट्स / Rickets",
+        "B": "स्कर्वी / Scurvy",
+        "C": "बेरी-बेरी / Beriberi",
+        "D": "रतौंधी / Night blindness"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 35,
       "question_number": 35,
-      "question": "Regarding health and culture (food habits, customs) in Indian society:\n1. Food habits are influenced by regional and cultural diversity.\n2. Cultural beliefs can sometimes act as a barrier to adopting modern medical treatment.",
-      "question_text": "Regarding health and culture (food habits, customs) in Indian society:\n1. Food habits are influenced by regional and cultural diversity.\n2. Cultural beliefs can sometimes act as a barrier to adopting modern medical treatment.",
+      "question": "1. DNA द्वि-रज्जुक (double stranded) होता है जबकि RNA एकल-रज्जुक होता है।\n2. दोनों में डीऑक्सीराइबोज़ शर्करा पाई जाती है।\n\n1. DNA is double stranded whereas RNA is single stranded.\n2. Both contain the sugar deoxyribose.",
+      "question_text": "1. DNA द्वि-रज्जुक (double stranded) होता है जबकि RNA एकल-रज्जुक होता है।\n2. दोनों में डीऑक्सीराइबोज़ शर्करा पाई जाती है।\n\n1. DNA is double stranded whereas RNA is single stranded.\n2. Both contain the sugar deoxyribose.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 36,
       "question_number": 36,
-      "question": "Regarding the interrelation of education, occupation and health:\n1. A higher educational level is generally associated with better health literacy.\n2. The nature of occupation (e.g., mining, construction work) affects occupational health risk.",
-      "question_text": "Regarding the interrelation of education, occupation and health:\n1. A higher educational level is generally associated with better health literacy.\n2. The nature of occupation (e.g., mining, construction work) affects occupational health risk.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "माइटोकॉन्ड्रिया / Mitochondria",
+        "B": "क्लोरोप्लास्ट / Chloroplast",
+        "C": "राइबोसोम / Ribosome",
+        "D": "गॉल्जी बॉडी / Golgi body"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 37,
       "question_number": 37,
-      "question": "Regarding gender and health inequality:\n1. The prevalence of anaemia among women in India has been found to be higher than among men (as per NFHS data).\n2. Gender-based discrimination can affect access to nutrition and health services.",
-      "question_text": "Regarding gender and health inequality:\n1. The prevalence of anaemia among women in India has been found to be higher than among men (as per NFHS data).\n2. Gender-based discrimination can affect access to nutrition and health services.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "ओम / Ohm",
+        "B": "एम्पियर / Ampere",
+        "C": "वोल्ट / Volt",
+        "D": "वाट / Watt"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 38,
       "question_number": 38,
-      "question": "Regarding caste and health:\n1. Marginalised social groups have been found to have limited access to health services.\n2. Social exclusion is considered a cause of health inequality.",
-      "question_text": "Regarding caste and health:\n1. Marginalised social groups have been found to have limited access to health services.\n2. Social exclusion is considered a cause of health inequality.",
+      "question": "1. समस्थानिकों (Isotopes) का परमाणु क्रमांक समान परंतु द्रव्यमान संख्या भिन्न होती है।\n2. समभारिकों (Isobars) की द्रव्यमान संख्या समान परंतु परमाणु क्रमांक भिन्न होता है।\n\n1. Isotopes have the same atomic number but different mass number.\n2. Isobars have the same mass number but different atomic number.",
+      "question_text": "1. समस्थानिकों (Isotopes) का परमाणु क्रमांक समान परंतु द्रव्यमान संख्या भिन्न होती है।\n2. समभारिकों (Isobars) की द्रव्यमान संख्या समान परंतु परमाणु क्रमांक भिन्न होता है।\n\n1. Isotopes have the same atomic number but different mass number.\n2. Isobars have the same mass number but different atomic number.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -544,13 +544,13 @@
     {
       "id": 39,
       "question_number": 39,
-      "question": "Regarding the State and Healthcare:\n1. Health is a subject in the Concurrent List of the Indian Constitution.\n2. Public health and sanitation is a subject in the State List.",
-      "question_text": "Regarding the State and Healthcare:\n1. Health is a subject in the Concurrent List of the Indian Constitution.\n2. Public health and sanitation is a subject in the State List.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "क्षय रोग / Tuberculosis",
+        "B": "हैजा / Cholera",
+        "C": "इन्फ्लूएंजा / Influenza",
+        "D": "टिटनेस / Tetanus"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -558,13 +558,13 @@
     {
       "id": 40,
       "question_number": 40,
-      "question": "Regarding the National Urban Health Mission (NUHM):\n1. Its objective is to provide health services to the urban poor.\n2. It specifically focuses on the population living in slums.",
-      "question_text": "Regarding the National Urban Health Mission (NUHM):\n1. Its objective is to provide health services to the urban poor.\n2. It specifically focuses on the population living in slums.",
+      "question": "1. साबुन वसा अम्लों के सोडियम/पोटेशियम लवण होते हैं।\n2. डिटर्जेंट कठोर जल में साबुन की तुलना में बेहतर कार्य करते हैं।\n\n1. Soaps are sodium/potassium salts of fatty acids.\n2. Detergents work better than soaps in hard water.",
+      "question_text": "1. साबुन वसा अम्लों के सोडियम/पोटेशियम लवण होते हैं।\n2. डिटर्जेंट कठोर जल में साबुन की तुलना में बेहतर कार्य करते हैं।\n\n1. Soaps are sodium/potassium salts of fatty acids.\n2. Detergents work better than soaps in hard water.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -572,83 +572,83 @@
     {
       "id": 41,
       "question_number": 41,
-      "question": "Regarding the concept of Social Stigma:\n1. This concept is associated with sociologist Erving Goffman.\n2. Stigma negatively affects an individual's social identity.",
-      "question_text": "Regarding the concept of Social Stigma:\n1. This concept is associated with sociologist Erving Goffman.\n2. Stigma negatively affects an individual's social identity.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "निकट दृष्टि दोष (मायोपिया) / Myopia",
+        "B": "दूर दृष्टि दोष (हाइपरमेट्रोपिया) / Hypermetropia",
+        "C": "जरा दृष्टि दोष (प्रेस्बायोपिया) / Presbyopia",
+        "D": "दृष्टिवैषम्य (एस्टिग्मेटिज्म) / Astigmatism"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 42,
       "question_number": 42,
-      "question": "Regarding health indicators in Uttar Pradesh:\n1. According to NFHS-5, the Infant Mortality Rate in Uttar Pradesh was found to be higher than the national average.\n2. Uttar Pradesh has a three-tier structure of Sub-Centres, Primary Health Centres (PHC) and Community Health Centres (CHC) in operation.",
-      "question_text": "Regarding health indicators in Uttar Pradesh:\n1. According to NFHS-5, the Infant Mortality Rate in Uttar Pradesh was found to be higher than the national average.\n2. Uttar Pradesh has a three-tier structure of Sub-Centres, Primary Health Centres (PHC) and Community Health Centres (CHC) in operation.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "वास्तविक संख्याओं से / Real numbers",
+        "B": "भाज्य संख्याओं के अभाज्य गुणनखंडन से / Unique prime factorization of composite numbers",
+        "C": "बहुपदों से / Polynomials",
+        "D": "भिन्नों से / Fractions"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 43,
       "question_number": 43,
-      "question": "Regarding health-related state policies of Uttar Pradesh:\n1. The state has also operated schemes such as Mukhyamantri Swasthya Bima Yojana.\n2. Uttar Pradesh is a beneficiary state of centrally sponsored NHM schemes.",
-      "question_text": "Regarding health-related state policies of Uttar Pradesh:\n1. The state has also operated schemes such as Mukhyamantri Swasthya Bima Yojana.\n2. Uttar Pradesh is a beneficiary state of centrally sponsored NHM schemes.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "पदों के बीच स्थिर अंतर / A constant difference between consecutive terms",
+        "B": "सदैव धनात्मक / Always positive",
+        "C": "प्रथम पद के बराबर / Equal to the first term",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 44,
       "question_number": 44,
-      "question": "Regarding Tuberculosis elimination in India:\n1. India has set a target of eliminating TB by 2025, ahead of the global SDG target of 2030.\n2. Nikshay Poshan Yojana provides nutritional support to TB patients.",
-      "question_text": "Regarding Tuberculosis elimination in India:\n1. India has set a target of eliminating TB by 2025, ahead of the global SDG target of 2030.\n2. Nikshay Poshan Yojana provides nutritional support to TB patients.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "154 सेमी² / 154 cm²",
+        "B": "144 सेमी² / 144 cm²",
+        "C": "132 सेमी² / 132 cm²",
+        "D": "176 सेमी² / 176 cm²"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 45,
       "question_number": 45,
-      "question": "Regarding the social dimensions of mental health:\n1. Social stigma towards mental health issues acts as a barrier to receiving treatment.\n2. The Mental Healthcare Act, 2017 is in force in India.",
-      "question_text": "Regarding the social dimensions of mental health:\n1. Social stigma towards mental health issues acts as a barrier to receiving treatment.\n2. The Mental Healthcare Act, 2017 is in force in India.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "कर्ण² = अन्य दो भुजाओं के वर्गों का योग / Hypotenuse² = sum of squares of the other two sides",
+        "B": "परिमाप / Perimeter",
+        "C": "क्षेत्रफल / Area",
+        "D": "कोणों का योग / Sum of angles"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 46,
       "question_number": 46,
-      "question": "Regarding Social Stratification and health:\n1. Economic class affects an individual's access to health insurance and private medical care.\n2. Lower socio-economic status is generally associated with a higher morbidity rate.",
-      "question_text": "Regarding Social Stratification and health:\n1. Economic class affects an individual's access to health insurance and private medical care.\n2. Lower socio-economic status is generally associated with a higher morbidity rate.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "समांतर हों / Are parallel",
+        "B": "संपाती हों / Coincide",
+        "C": "एक बिंदु पर प्रतिच्छेद करें / Intersect at exactly one point",
+        "D": "केवल लंबवत हों / Are perpendicular only"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -656,55 +656,55 @@
     {
       "id": 47,
       "question_number": 47,
-      "question": "Regarding health-related challenges facing Indian society:\n1. The burden of Non-Communicable Diseases (NCDs) such as diabetes and heart disease is increasing.\n2. The challenge of communicable diseases has been completely eliminated.",
-      "question_text": "Regarding health-related challenges facing Indian society:\n1. The burden of Non-Communicable Diseases (NCDs) such as diabetes and heart disease is increasing.\n2. The challenge of communicable diseases has been completely eliminated.",
+      "question": "1. राष्ट्रीय स्वास्थ्य मिशन में NRHM और NUHM शामिल हैं।\n2. इसका उद्देश्य सुलभ, वहनीय स्वास्थ्य सेवा प्रदान करना है।\n\n1. The National Health Mission includes NRHM and NUHM.\n2. It aims to provide accessible, affordable healthcare.",
+      "question_text": "1. राष्ट्रीय स्वास्थ्य मिशन में NRHM और NUHM शामिल हैं।\n2. इसका उद्देश्य सुलभ, वहनीय स्वास्थ्य सेवा प्रदान करना है।\n\n1. The National Health Mission includes NRHM and NUHM.\n2. It aims to provide accessible, affordable healthcare.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 48,
       "question_number": 48,
-      "question": "Regarding the AYUSH system:\n1. The Ministry of AYUSH was established in the year 2014.\n2. It encompasses Ayurveda, Yoga, Unani, Siddha and Homeopathy.",
-      "question_text": "Regarding the AYUSH system:\n1. The Ministry of AYUSH was established in the year 2014.\n2. It encompasses Ayurveda, Yoga, Unani, Siddha and Homeopathy.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "अवसंरचना निर्माण / Infrastructure building",
+        "B": "संचार के माध्यम से स्वास्थ्य संबंधी व्यवहार में परिवर्तन लाना / Changing health-related behaviour through communication",
+        "C": "दवा वितरण / Drug distribution",
+        "D": "टीकाकरण रसद / Vaccination logistics"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 49,
       "question_number": 49,
-      "question": "Regarding eSanjeevani:\n1. It is a telemedicine service of the Government of India.\n2. It is particularly useful for increasing health service access in remote and rural areas.",
-      "question_text": "Regarding eSanjeevani:\n1. It is a telemedicine service of the Government of India.\n2. It is particularly useful for increasing health service access in remote and rural areas.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "निर्णय लेने व कार्रवाई में समुदाय के सदस्यों को शामिल करना / Engaging community members in decision-making and action",
+        "B": "केवल केंद्र सरकार का वित्तपोषण / Central government funding only",
+        "C": "केवल डॉक्टरों की भागीदारी / Only doctors' involvement",
+        "D": "केवल एनजीओ / Only NGOs"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 50,
       "question_number": 50,
-      "question": "Match List-I (Scheme) with List-II (Focus Area/Objective):\nA. Janani Suraksha Yojana — 1. Immunisation\nB. Mission Indradhanush — 2. Safe motherhood\nC. POSHAN Abhiyaan — 3. Reduction of malnutrition\nD. Ayushman Bharat — 4. Health insurance",
-      "question_text": "Match List-I (Scheme) with List-II (Focus Area/Objective):\nA. Janani Suraksha Yojana — 1. Immunisation\nB. Mission Indradhanush — 2. Safe motherhood\nC. POSHAN Abhiyaan — 3. Reduction of malnutrition\nD. Ayushman Bharat — 4. Health insurance",
+      "question": "1. संसाधन गतिशीलता में मानव, वित्तीय एवं भौतिक संसाधन शामिल हैं।\n2. इसका सामुदायिक स्वास्थ्य कार्यक्रमों से कोई संबंध नहीं है।\n\n1. Resource mobilization includes human, financial, and material resources.\n2. It is unrelated to community health programs.",
+      "question_text": "1. संसाधन गतिशीलता में मानव, वित्तीय एवं भौतिक संसाधन शामिल हैं।\n2. इसका सामुदायिक स्वास्थ्य कार्यक्रमों से कोई संबंध नहीं है।\n\n1. Resource mobilization includes human, financial, and material resources.\n2. It is unrelated to community health programs.",
       "options": {
-        "A": "A-2, B-1, C-3, D-4",
-        "B": "A-1, B-2, C-4, D-3",
-        "C": "A-2, B-3, C-1, D-4",
-        "D": "A-4, B-1, C-3, D-2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -712,27 +712,27 @@
     {
       "id": 51,
       "question_number": 51,
-      "question": "Match List-I (Committee) with List-II (Chairman):\nA. Bhore Committee — 1. Sir Joseph Bhore\nB. Mudaliar Committee — 2. A.L. Mudaliar\nC. Srivastava Committee — 3. J.B. Srivastava\nD. Kartar Singh Committee — 4. Kartar Singh",
-      "question_text": "Match List-I (Committee) with List-II (Chairman):\nA. Bhore Committee — 1. Sir Joseph Bhore\nB. Mudaliar Committee — 2. A.L. Mudaliar\nC. Srivastava Committee — 3. J.B. Srivastava\nD. Kartar Singh Committee — 4. Kartar Singh",
+      "question": "1. प्रकार्यवादी (Functionalist) दृष्टिकोण स्वास्थ्य को सामाजिक संतुलन बनाए रखने वाला मानता है।\n2. संघर्षवादी (Conflict) दृष्टिकोण स्वास्थ्य असमानता को शक्ति व संसाधनों के वितरण का परिणाम मानता है।\n\n1. The functionalist perspective views health as maintaining social equilibrium.\n2. The conflict perspective views health inequality as a result of the distribution of power and resources.",
+      "question_text": "1. प्रकार्यवादी (Functionalist) दृष्टिकोण स्वास्थ्य को सामाजिक संतुलन बनाए रखने वाला मानता है।\n2. संघर्षवादी (Conflict) दृष्टिकोण स्वास्थ्य असमानता को शक्ति व संसाधनों के वितरण का परिणाम मानता है।\n\n1. The functionalist perspective views health as maintaining social equilibrium.\n2. The conflict perspective views health inequality as a result of the distribution of power and resources.",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-3, C-2, D-1"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 52,
       "question_number": 52,
-      "question": "Match List-I (Environmental Movement) with List-II (Associated State):\nA. Chipko Movement — 1. Kerala\nB. Silent Valley Movement — 2. Uttarakhand\nC. Appiko Movement — 3. Gujarat/Madhya Pradesh\nD. Narmada Bachao Andolan — 4. Karnataka",
-      "question_text": "Match List-I (Environmental Movement) with List-II (Associated State):\nA. Chipko Movement — 1. Kerala\nB. Silent Valley Movement — 2. Uttarakhand\nC. Appiko Movement — 3. Gujarat/Madhya Pradesh\nD. Narmada Bachao Andolan — 4. Karnataka",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "A-2, B-1, C-4, D-3",
-        "B": "A-1, B-2, C-3, D-4",
-        "C": "A-2, B-4, C-1, D-3",
-        "D": "A-3, B-1, C-4, D-2"
+        "A": "आयुष्मान भारत (PM-JAY) / Ayushman Bharat (PM-JAY)",
+        "B": "मनरेगा / MGNREGA",
+        "C": "प्रधानमंत्री आवास योजना (PMAY) / PMAY",
+        "D": "उज्ज्वला योजना / Ujjwala Yojana"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -740,27 +740,27 @@
     {
       "id": 53,
       "question_number": 53,
-      "question": "Match List-I (Social Theorist) with List-II (Concept):\nA. Talcott Parsons — 1. Social stigma\nB. Erving Goffman — 2. Sick Role\nC. Robert Park — 3. Human ecology\nD. Karl Marx — 4. Class struggle",
-      "question_text": "Match List-I (Social Theorist) with List-II (Concept):\nA. Talcott Parsons — 1. Social stigma\nB. Erving Goffman — 2. Sick Role\nC. Robert Park — 3. Human ecology\nD. Karl Marx — 4. Class struggle",
+      "question": "1. NRHM 2005 में शुरू किया गया था।\n2. इसने ग्रामीण स्वास्थ्य अवसंरचना को सुदृढ़ करने पर ध्यान केंद्रित किया।\n\n1. NRHM was launched in 2005.\n2. It focused on strengthening rural health infrastructure.",
+      "question_text": "1. NRHM 2005 में शुरू किया गया था।\n2. इसने ग्रामीण स्वास्थ्य अवसंरचना को सुदृढ़ करने पर ध्यान केंद्रित किया।\n\n1. NRHM was launched in 2005.\n2. It focused on strengthening rural health infrastructure.",
       "options": {
-        "A": "A-2, B-1, C-3, D-4",
-        "B": "A-1, B-2, C-4, D-3",
-        "C": "A-2, B-3, C-1, D-4",
-        "D": "A-4, B-1, C-2, D-3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 54,
       "question_number": 54,
-      "question": "Match List-I (Health Survey) with List-II (Year):\nA. NFHS-1 — 1. 2015-16\nB. NFHS-2 — 2. 1992-93\nC. NFHS-4 — 3. 1998-99\nD. NFHS-5 — 4. 2019-21",
-      "question_text": "Match List-I (Health Survey) with List-II (Year):\nA. NFHS-1 — 1. 2015-16\nB. NFHS-2 — 2. 1992-93\nC. NFHS-4 — 3. 1998-99\nD. NFHS-5 — 4. 2019-21",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "A-2, B-3, C-1, D-4",
-        "B": "A-1, B-2, C-3, D-4",
-        "C": "A-3, B-2, C-4, D-1",
-        "D": "A-2, B-1, C-3, D-4"
+        "A": "सामाजिक अंतःक्रिया के माध्यम से बीमारी को दिए गए अर्थ पर / The meaning individuals attach to illness through social interaction",
+        "B": "समष्टि आर्थिक संरचनाओं पर / Macro-economic structures",
+        "C": "जैविक निर्धारणवाद पर / Biological determinism",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -768,13 +768,13 @@
     {
       "id": 55,
       "question_number": 55,
-      "question": "Match List-I (Scheme) with List-II (Year of Launch):\nA. ICDS — 1. 2005\nB. NRHM — 2. 1975\nC. NUHM — 3. 2013\nD. Ayushman Bharat — 4. 2018",
-      "question_text": "Match List-I (Scheme) with List-II (Year of Launch):\nA. ICDS — 1. 2005\nB. NRHM — 2. 1975\nC. NUHM — 3. 2013\nD. Ayushman Bharat — 4. 2018",
+      "question": "1. भारत में स्वास्थ्य सेवाओं तक पहुंच में ग्रामीण-शहरी अंतर विद्यमान है।\n2. कुपोषण का गरीबी से कोई संबंध नहीं है।\n\n1. A rural-urban gap exists in access to healthcare in India.\n2. Malnutrition is unrelated to poverty.",
+      "question_text": "1. भारत में स्वास्थ्य सेवाओं तक पहुंच में ग्रामीण-शहरी अंतर विद्यमान है।\n2. कुपोषण का गरीबी से कोई संबंध नहीं है।\n\n1. A rural-urban gap exists in access to healthcare in India.\n2. Malnutrition is unrelated to poverty.",
       "options": {
-        "A": "A-2, B-1, C-3, D-4",
-        "B": "A-1, B-2, C-4, D-3",
-        "C": "A-2, B-3, C-1, D-4",
-        "D": "A-4, B-1, C-3, D-2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -782,27 +782,27 @@
     {
       "id": 56,
       "question_number": 56,
-      "question": "Match List-I (Disease) with List-II (Mode of Transmission) — which pair is NOT correctly matched?\nA. Cholera — 1. Contaminated water\nB. Malaria — 2. Mosquito (vector)\nC. Tuberculosis — 3. Air (respiratory)\nD. Rabies — 4. Contaminated food (only)",
-      "question_text": "Match List-I (Disease) with List-II (Mode of Transmission) — which pair is NOT correctly matched?\nA. Cholera — 1. Contaminated water\nB. Malaria — 2. Mosquito (vector)\nC. Tuberculosis — 3. Air (respiratory)\nD. Rabies — 4. Contaminated food (only)",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only D",
-        "B": "Only A",
-        "C": "Only C",
-        "D": "Both A and B"
+        "A": "लिंग / Gender",
+        "B": "व्यवसाय / Occupation",
+        "C": "जाति / Caste",
+        "D": "उपर्युक्त सभी / All of the above"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": 57,
       "question_number": 57,
-      "question": "Match List-I (Organisation) with List-II (Headquarters):\nA. WHO — 1. Geneva\nB. UNICEF — 2. New York\nC. UNESCO — 3. Paris\nD. ILO — 4. Geneva",
-      "question_text": "Match List-I (Organisation) with List-II (Headquarters):\nA. WHO — 1. Geneva\nB. UNICEF — 2. New York\nC. UNESCO — 3. Paris\nD. ILO — 4. Geneva",
+      "question": "1. कई समुदायों में HIV/AIDS से जुड़ा सामाजिक पूर्वाग्रह (कलंक) पाया जाता है।\n2. कैंसर के साथ कभी भी सामाजिक कलंक नहीं जुड़ता।\n\n1. Social stigma associated with HIV/AIDS is found in many communities.\n2. Cancer never carries any social stigma.",
+      "question_text": "1. कई समुदायों में HIV/AIDS से जुड़ा सामाजिक पूर्वाग्रह (कलंक) पाया जाता है।\n2. कैंसर के साथ कभी भी सामाजिक कलंक नहीं जुड़ता।\n\n1. Social stigma associated with HIV/AIDS is found in many communities.\n2. Cancer never carries any social stigma.",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-3, C-1, D-2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -810,41 +810,41 @@
     {
       "id": 58,
       "question_number": 58,
-      "question": "Match List-I (Scheme) with List-II (Beneficiary Group):\nA. PMSMA — 1. Pregnant women\nB. Anganwadi Services — 2. Children 0-6 years\nC. Nikshay Poshan Yojana — 3. TB patients\nD. Mission Indradhanush — 4. Infants (immunisation)",
-      "question_text": "Match List-I (Scheme) with List-II (Beneficiary Group):\nA. PMSMA — 1. Pregnant women\nB. Anganwadi Services — 2. Children 0-6 years\nC. Nikshay Poshan Yojana — 3. TB patients\nD. Mission Indradhanush — 4. Infants (immunisation)",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-2, C-1, D-3"
+        "A": "1 लाख रुपये / Rs. 1 lakh",
+        "B": "5 लाख रुपये / Rs. 5 lakh",
+        "C": "2 लाख रुपये / Rs. 2 lakh",
+        "D": "10 लाख रुपये / Rs. 10 lakh"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 59,
       "question_number": 59,
-      "question": "Match List-I (UP Health Facility Level) with List-II (Approx. Rural Population Served — plain areas):\nA. Sub-Centre — 1. 30,000\nB. Primary Health Centre — 2. 1,20,000\nC. Community Health Centre — 3. 5,000\nD. District Hospital — 4. Entire district",
-      "question_text": "Match List-I (UP Health Facility Level) with List-II (Approx. Rural Population Served — plain areas):\nA. Sub-Centre — 1. 30,000\nB. Primary Health Centre — 2. 1,20,000\nC. Community Health Centre — 3. 5,000\nD. District Hospital — 4. Entire district",
+      "question": "1. वर्ग, जाति और लिंग के कारण स्वास्थ्य असमानता उत्पन्न हो सकती है।\n2. NRHM जैसी सरकारी नीतियों का उद्देश्य ऐसी असमानताओं को कम करना है।\n\n1. Health inequality can arise due to class, caste and gender.\n2. Government policies like NRHM aim to reduce such inequalities.",
+      "question_text": "1. वर्ग, जाति और लिंग के कारण स्वास्थ्य असमानता उत्पन्न हो सकती है।\n2. NRHM जैसी सरकारी नीतियों का उद्देश्य ऐसी असमानताओं को कम करना है।\n\n1. Health inequality can arise due to class, caste and gender.\n2. Government policies like NRHM aim to reduce such inequalities.",
       "options": {
-        "A": "A-3, B-1, C-2, D-4",
-        "B": "A-1, B-3, C-4, D-2",
-        "C": "A-3, B-2, C-1, D-4",
-        "D": "A-4, B-1, C-2, D-3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 60,
       "question_number": 60,
-      "question": "Match List-I (National Health Policy) with List-II (Year):\nA. First National Health Policy — 1. 2002\nB. Second National Health Policy — 2. 1983\nC. Third National Health Policy — 3. 2017\nD. National Population Policy — 4. 2000",
-      "question_text": "Match List-I (National Health Policy) with List-II (Year):\nA. First National Health Policy — 1. 2002\nB. Second National Health Policy — 2. 1983\nC. Third National Health Policy — 3. 2017\nD. National Population Policy — 4. 2000",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "A-2, B-1, C-3, D-4",
-        "B": "A-1, B-2, C-4, D-3",
-        "C": "A-2, B-3, C-1, D-4",
-        "D": "A-4, B-1, C-2, D-3"
+        "A": "प्रकार्यवाद / Functionalism",
+        "B": "प्रतीकात्मक अंतःक्रियावाद / Symbolic interactionism",
+        "C": "उत्तर-आधुनिकतावाद / Postmodernism",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -852,13 +852,13 @@
     {
       "id": 61,
       "question_number": 61,
-      "question": "Match List-I (Social Concept) with List-II (Description):\nA. Social exclusion — 1. Deprivation from resources/opportunities\nB. Social mobility — 2. Change in social status\nC. Cultural lag — 3. Imbalance between material and non-material culture\nD. Social control — 4. Regulation of behaviour through norms",
-      "question_text": "Match List-I (Social Concept) with List-II (Description):\nA. Social exclusion — 1. Deprivation from resources/opportunities\nB. Social mobility — 2. Change in social status\nC. Cultural lag — 3. Imbalance between material and non-material culture\nD. Social control — 4. Regulation of behaviour through norms",
+      "question": "1. स्वास्थ्य और संस्कृति खान-पान की आदतों व स्वच्छता प्रथाओं से जुड़े हैं।\n2. बीमारी के प्रति विश्वास स्वास्थ्य-संबंधी व्यवहार को प्रभावित नहीं करते।\n\n1. Health and culture are linked through food habits and hygiene practices.\n2. Beliefs about disease do not influence health-seeking behaviour.",
+      "question_text": "1. स्वास्थ्य और संस्कृति खान-पान की आदतों व स्वच्छता प्रथाओं से जुड़े हैं।\n2. बीमारी के प्रति विश्वास स्वास्थ्य-संबंधी व्यवहार को प्रभावित नहीं करते।\n\n1. Health and culture are linked through food habits and hygiene practices.\n2. Beliefs about disease do not influence health-seeking behaviour.",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-2, C-3, D-1"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -866,13 +866,13 @@
     {
       "id": 62,
       "question_number": 62,
-      "question": "Match List-I (Scheme) with List-II (Ministry):\nA. Swachh Bharat Mission (Gramin) — 1. Ministry of Jal Shakti\nB. Ayushman Bharat — 2. Ministry of Health and Family Welfare\nC. POSHAN Abhiyaan — 3. Ministry of Women and Child Development\nD. AYUSH schemes — 4. Ministry of AYUSH",
-      "question_text": "Match List-I (Scheme) with List-II (Ministry):\nA. Swachh Bharat Mission (Gramin) — 1. Ministry of Jal Shakti\nB. Ayushman Bharat — 2. Ministry of Health and Family Welfare\nC. POSHAN Abhiyaan — 3. Ministry of Women and Child Development\nD. AYUSH schemes — 4. Ministry of AYUSH",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-2, C-1, D-3"
+        "A": "राष्ट्रीय स्वास्थ्य मिशन (NHM) / National Health Mission (NHM)",
+        "B": "आयुष्मान भारत / Ayushman Bharat",
+        "C": "स्वच्छ भारत / Swachh Bharat",
+        "D": "पोषण अभियान / POSHAN Abhiyan"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -880,13 +880,13 @@
     {
       "id": 63,
       "question_number": 63,
-      "question": "Match List-I (Concept) with List-II (Related Field) — which pair is NOT correctly matched?\nA. Sick Role — 1. Functionalism\nB. Class struggle — 2. Conflict theory\nC. Social construction — 3. Interactionism\nD. Human ecology — 4. Biomedical model",
-      "question_text": "Match List-I (Concept) with List-II (Related Field) — which pair is NOT correctly matched?\nA. Sick Role — 1. Functionalism\nB. Class struggle — 2. Conflict theory\nC. Social construction — 3. Interactionism\nD. Human ecology — 4. Biomedical model",
+      "question": "1. बीमारी के प्रति सामाजिक उत्तरदायित्व में बीमार व्यक्ति को सामुदायिक सहयोग शामिल है।\n2. स्वच्छता की समस्याएं भारत में विशुद्ध रूप से शहरी परिघटना हैं।\n\n1. Social responsibility towards illness includes community support to the sick.\n2. Sanitation problems are exclusively an urban phenomenon in India.",
+      "question_text": "1. बीमारी के प्रति सामाजिक उत्तरदायित्व में बीमार व्यक्ति को सामुदायिक सहयोग शामिल है।\n2. स्वच्छता की समस्याएं भारत में विशुद्ध रूप से शहरी परिघटना हैं।\n\n1. Social responsibility towards illness includes community support to the sick.\n2. Sanitation problems are exclusively an urban phenomenon in India.",
       "options": {
-        "A": "Only D",
-        "B": "Only A",
-        "C": "Only C",
-        "D": "Both A and B"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -894,13 +894,13 @@
     {
       "id": 64,
       "question_number": 64,
-      "question": "Consider the following health committees/policies and arrange them in correct chronological order:\n1. Bhore Committee\n2. First National Health Policy\n3. Launch of NRHM\n4. Ayushman Bharat",
-      "question_text": "Consider the following health committees/policies and arrange them in correct chronological order:\n1. Bhore Committee\n2. First National Health Policy\n3. Launch of NRHM\n4. Ayushman Bharat",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "1-2-3-4",
-        "B": "2-1-4-3",
-        "C": "1-3-2-4",
-        "D": "2-1-3-4"
+        "A": "शक्ति और संसाधनों के असमान वितरण / Unequal distribution of power and resources",
+        "B": "केवल व्यक्तिगत विकल्पों को / Individual choices only",
+        "C": "केवल जैविक कारकों को / Biological factors only",
+        "D": "संयोग को / Random chance"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -908,27 +908,27 @@
     {
       "id": 65,
       "question_number": 65,
-      "question": "Arrange the following in correct chronological order:\n1. Launch of ICDS\n2. Establishment of WHO\n3. Janani Suraksha Yojana\n4. POSHAN Abhiyaan",
-      "question_text": "Arrange the following in correct chronological order:\n1. Launch of ICDS\n2. Establishment of WHO\n3. Janani Suraksha Yojana\n4. POSHAN Abhiyaan",
+      "question": "1. NRHM के प्रमुख फोकस क्षेत्रों में मातृ एवं शिशु स्वास्थ्य शामिल था।\n2. इसने गांव स्तर पर आशा (ASHA) कार्यकर्ताओं को भी बढ़ावा दिया।\n\n1. NRHM's key focus areas included maternal and child health.\n2. It also promoted ASHA workers at the village level.",
+      "question_text": "1. NRHM के प्रमुख फोकस क्षेत्रों में मातृ एवं शिशु स्वास्थ्य शामिल था।\n2. इसने गांव स्तर पर आशा (ASHA) कार्यकर्ताओं को भी बढ़ावा दिया।\n\n1. NRHM's key focus areas included maternal and child health.\n2. It also promoted ASHA workers at the village level.",
       "options": {
-        "A": "2-1-3-4",
-        "B": "1-2-3-4",
-        "C": "2-3-1-4",
-        "D": "1-3-2-4"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 66,
       "question_number": 66,
-      "question": "Arrange the following NFHS surveys in chronological order:\n1. NFHS-3\n2. NFHS-1\n3. NFHS-5\n4. NFHS-2",
-      "question_text": "Arrange the following NFHS surveys in chronological order:\n1. NFHS-3\n2. NFHS-1\n3. NFHS-5\n4. NFHS-2",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "2-4-1-3",
-        "B": "2-1-4-3",
-        "C": "1-2-4-3",
-        "D": "4-2-1-3"
+        "A": "वह प्रक्रिया जिसके द्वारा गैर-चिकित्सीय समस्याएं चिकित्सीय समस्याओं के रूप में परिभाषित हो जाती हैं / The process by which non-medical problems become defined as medical problems",
+        "B": "अस्पताल निर्माण / Building hospitals",
+        "C": "डॉक्टरों का प्रशिक्षण / Training doctors",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -936,13 +936,13 @@
     {
       "id": 67,
       "question_number": 67,
-      "question": "Arrange the following environmental movements in chronological order:\n1. Silent Valley Movement\n2. Chipko Movement\n3. Narmada Bachao Andolan\n4. Appiko Movement",
-      "question_text": "Arrange the following environmental movements in chronological order:\n1. Silent Valley Movement\n2. Chipko Movement\n3. Narmada Bachao Andolan\n4. Appiko Movement",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "2-1-4-3",
-        "B": "1-2-3-4",
-        "C": "2-4-1-3",
-        "D": "4-2-1-3"
+        "A": "मानव जैविक विविधता एवं विकास / Human biological variation and evolution",
+        "B": "केवल भाषा / Only language",
+        "C": "केवल कला / Only art",
+        "D": "केवल अर्थव्यवस्था / Only economy"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -950,13 +950,13 @@
     {
       "id": 68,
       "question_number": 68,
-      "question": "Arrange the following in chronological order:\n1. Mission Indradhanush\n2. Intensified Mission Indradhanush 2.0\n3. Ayushman Bharat Digital Mission\n4. Intensified Mission Indradhanush 3.0",
-      "question_text": "Arrange the following in chronological order:\n1. Mission Indradhanush\n2. Intensified Mission Indradhanush 2.0\n3. Ayushman Bharat Digital Mission\n4. Intensified Mission Indradhanush 3.0",
+      "question": "1. लोक स्वास्थ्य (Public Health) सामाजिक एवं जैविक दोनों विज्ञानों से जुड़ा है।\n2. मानव विज्ञान का लोक स्वास्थ्य से कोई संबंध नहीं है।\n\n1. Public health draws from both social and biological sciences.\n2. Anthropology has no relevance to public health.",
+      "question_text": "1. लोक स्वास्थ्य (Public Health) सामाजिक एवं जैविक दोनों विज्ञानों से जुड़ा है।\n2. मानव विज्ञान का लोक स्वास्थ्य से कोई संबंध नहीं है।\n\n1. Public health draws from both social and biological sciences.\n2. Anthropology has no relevance to public health.",
       "options": {
-        "A": "1-2-4-3",
-        "B": "1-2-3-4",
-        "C": "2-1-4-3",
-        "D": "1-4-2-3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -964,41 +964,41 @@
     {
       "id": 69,
       "question_number": 69,
-      "question": "Arrange the following in chronological order:\n1. NRHM\n2. NUHM\n3. NHM (as umbrella organisation)\n4. Ayushman Bharat",
-      "question_text": "Arrange the following in chronological order:\n1. NRHM\n2. NUHM\n3. NHM (as umbrella organisation)\n4. Ayushman Bharat",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "1-2-3-4",
-        "B": "1-3-2-4",
-        "C": "2-1-3-4",
-        "D": "1-2-4-3"
+        "A": "Rh प्रणाली / Rh system",
+        "B": "ABO प्रणाली / ABO system",
+        "C": "MN प्रणाली / MN system",
+        "D": "HLA प्रणाली / HLA system"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 70,
       "question_number": 70,
-      "question": "Arrange the following in chronological order:\n1. Alma Ata Declaration\n2. Bhore Committee Report\n3. Adoption of SDGs\n4. First National Health Policy",
-      "question_text": "Arrange the following in chronological order:\n1. Alma Ata Declaration\n2. Bhore Committee Report\n3. Adoption of SDGs\n4. First National Health Policy",
+      "question": "1. आनुवंशिक रोग माता-पिता से जीन के माध्यम से वंशानुगत होते हैं।\n2. संचारी रोग संक्रामक कारकों के माध्यम से फैलते हैं।\n\n1. Genetic diseases are inherited from parents through genes.\n2. Communicable diseases spread through infectious agents.",
+      "question_text": "1. आनुवंशिक रोग माता-पिता से जीन के माध्यम से वंशानुगत होते हैं।\n2. संचारी रोग संक्रामक कारकों के माध्यम से फैलते हैं।\n\n1. Genetic diseases are inherited from parents through genes.\n2. Communicable diseases spread through infectious agents.",
       "options": {
-        "A": "2-4-1-3",
-        "B": "2-1-4-3",
-        "C": "1-2-4-3",
-        "D": "4-2-1-3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 71,
       "question_number": 71,
-      "question": "Arrange the following health committees in chronological order:\n1. Mudaliar Committee\n2. Bhore Committee\n3. Srivastava Committee\n4. Kartar Singh Committee",
-      "question_text": "Arrange the following health committees in chronological order:\n1. Mudaliar Committee\n2. Bhore Committee\n3. Srivastava Committee\n4. Kartar Singh Committee",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "2-1-4-3",
-        "B": "1-2-3-4",
-        "C": "2-4-1-3",
-        "D": "2-1-3-4"
+        "A": "रीसस बंदर / Rhesus monkey",
+        "B": "चूहा / Rat",
+        "C": "खरगोश / Rabbit",
+        "D": "मुर्गा / Rooster"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1006,13 +1006,13 @@
     {
       "id": 72,
       "question_number": 72,
-      "question": "Arrange the following in chronological order:\n1. Swachh Bharat Mission\n2. Mission Indradhanush\n3. POSHAN Abhiyaan\n4. PMSMA",
-      "question_text": "Arrange the following in chronological order:\n1. Swachh Bharat Mission\n2. Mission Indradhanush\n3. POSHAN Abhiyaan\n4. PMSMA",
+      "question": "1. जनजातीय जनसंख्या में प्रायः विशिष्ट आनुवंशिक व सांस्कृतिक प्रतिरूप पाए जाते हैं जिनका मानव विज्ञान में अध्ययन होता है।\n2. शहरी जनसंख्या का मानव विज्ञान में अध्ययन नहीं किया जाता।\n\n1. Tribal populations often show distinct genetic and cultural patterns studied in anthropology.\n2. Urban populations are not studied in anthropology.",
+      "question_text": "1. जनजातीय जनसंख्या में प्रायः विशिष्ट आनुवंशिक व सांस्कृतिक प्रतिरूप पाए जाते हैं जिनका मानव विज्ञान में अध्ययन होता है।\n2. शहरी जनसंख्या का मानव विज्ञान में अध्ययन नहीं किया जाता।\n\n1. Tribal populations often show distinct genetic and cultural patterns studied in anthropology.\n2. Urban populations are not studied in anthropology.",
       "options": {
-        "A": "1-2-4-3",
-        "B": "2-1-4-3",
-        "C": "1-4-2-3",
-        "D": "4-1-2-3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1020,13 +1020,13 @@
     {
       "id": 73,
       "question_number": 73,
-      "question": "Arrange the following in chronological order:\n1. National Population Policy\n2. Second National Health Policy\n3. Third National Health Policy\n4. Mental Healthcare Act",
-      "question_text": "Arrange the following in chronological order:\n1. National Population Policy\n2. Second National Health Policy\n3. Third National Health Policy\n4. Mental Healthcare Act",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "1-2-4-3",
-        "B": "1-2-3-4",
-        "C": "2-1-4-3",
-        "D": "2-1-3-4"
+        "A": "टीकाकरण एवं स्वच्छता / Vaccination and sanitation",
+        "B": "केवल आनुवंशिक अभियांत्रिकी / Genetic engineering only",
+        "C": "केवल आर्थिक विकास / Economic growth alone",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1034,13 +1034,13 @@
     {
       "id": 74,
       "question_number": 74,
-      "question": "Arrange the following in chronological order:\n1. Establishment of Ministry of AYUSH\n2. Launch of Ayushman Bharat\n3. Launch of eSanjeevani\n4. Ayushman Bharat Digital Mission",
-      "question_text": "Arrange the following in chronological order:\n1. Establishment of Ministry of AYUSH\n2. Launch of Ayushman Bharat\n3. Launch of eSanjeevani\n4. Ayushman Bharat Digital Mission",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "1-2-3-4",
-        "B": "2-1-3-4",
-        "C": "1-3-2-4",
-        "D": "1-2-4-3"
+        "A": "मानव विज्ञान / Anthropology",
+        "B": "राजनीति विज्ञान / Political Science",
+        "C": "अर्थशास्त्र / Economics",
+        "D": "भौतिकी / Physics"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1048,13 +1048,13 @@
     {
       "id": 75,
       "question_number": 75,
-      "question": "Arrange the following in chronological order:\n1. Nikshay Poshan Yojana\n2. Establishment of NACO\n3. Ayushman Bharat\n4. POSHAN Abhiyaan",
-      "question_text": "Arrange the following in chronological order:\n1. Nikshay Poshan Yojana\n2. Establishment of NACO\n3. Ayushman Bharat\n4. POSHAN Abhiyaan",
+      "question": "1. MN रक्त समूह प्रणाली का चिकित्सकीय उपयोग ABO प्रणाली की तुलना में कम है।\n2. अंग प्रत्यारोपण में HLA टाइपिंग का कोई उपयोग नहीं है।\n\n1. The MN blood group system has less clinical use compared to the ABO system.\n2. HLA typing has no use in organ transplantation.",
+      "question_text": "1. MN रक्त समूह प्रणाली का चिकित्सकीय उपयोग ABO प्रणाली की तुलना में कम है।\n2. अंग प्रत्यारोपण में HLA टाइपिंग का कोई उपयोग नहीं है।\n\n1. The MN blood group system has less clinical use compared to the ABO system.\n2. HLA typing has no use in organ transplantation.",
       "options": {
-        "A": "2-3-4-1",
-        "B": "2-1-4-3",
-        "C": "3-2-1-4",
-        "D": "2-4-1-3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1062,13 +1062,13 @@
     {
       "id": 76,
       "question_number": 76,
-      "question": "Arrange the following in chronological order:\n1. Indian Independence\n2. Bhore Committee Report\n3. First Five-Year Plan\n4. Establishment of WHO",
-      "question_text": "Arrange the following in chronological order:\n1. Indian Independence\n2. Bhore Committee Report\n3. First Five-Year Plan\n4. Establishment of WHO",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "2-4-1-3",
-        "B": "4-2-1-3",
-        "C": "2-1-4-3",
-        "D": "4-1-2-3"
+        "A": "जनसंख्या के रोगों की रोकथाम एवं स्वास्थ्य संवर्धन / Prevention of disease and promotion of health of populations",
+        "B": "केवल व्यक्तिगत उपचार / Individual treatment only",
+        "C": "केवल अस्पताल अवसंरचना / Hospital infrastructure only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1076,405 +1076,405 @@
     {
       "id": 77,
       "question_number": 77,
-      "question": "Arrange the following in chronological order:\n1. Adoption of SDGs (2015)\n2. Millennium Development Goals - MDGs (2000)\n3. Alma Ata Declaration (1978)\n4. Establishment of WHO (1948)",
-      "question_text": "Arrange the following in chronological order:\n1. Adoption of SDGs (2015)\n2. Millennium Development Goals - MDGs (2000)\n3. Alma Ata Declaration (1978)\n4. Establishment of WHO (1948)",
+      "question": "1. शास्त्रीय अनुबंधन (Classical Conditioning) का वर्णन इवान पावलोव ने किया।\n2. सक्रिय (Operant) अनुबंधन का वर्णन बी.एफ. स्किनर ने किया।\n\n1. Classical conditioning was described by Ivan Pavlov.\n2. Instrumental (operant) conditioning was described by B.F. Skinner.",
+      "question_text": "1. शास्त्रीय अनुबंधन (Classical Conditioning) का वर्णन इवान पावलोव ने किया।\n2. सक्रिय (Operant) अनुबंधन का वर्णन बी.एफ. स्किनर ने किया।\n\n1. Classical conditioning was described by Ivan Pavlov.\n2. Instrumental (operant) conditioning was described by B.F. Skinner.",
       "options": {
-        "A": "4-3-2-1",
-        "B": "3-4-2-1",
-        "C": "4-2-3-1",
-        "D": "3-4-1-2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 78,
       "question_number": 78,
-      "question": "Assertion (A): The conflict perspective links health inequality to class structure.\nReason (R): According to this perspective, access to resources depends on socio-economic status.",
-      "question_text": "Assertion (A): The conflict perspective links health inequality to class structure.\nReason (R): According to this perspective, access to resources depends on socio-economic status.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "दीर्घकालिक स्मृति / Long-term memory",
+        "B": "संवेदी/अल्पकालिक स्मृति / Sensory/short-term memory",
+        "C": "प्रक्रियात्मक स्मृति / Procedural memory",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 79,
       "question_number": 79,
-      "question": "Assertion (A): Urbanisation is always beneficial for health.\nReason (R): Overcrowding and unsanitary conditions in urban slums give rise to health problems.",
-      "question_text": "Assertion (A): Urbanisation is always beneficial for health.\nReason (R): Overcrowding and unsanitary conditions in urban slums give rise to health problems.",
+      "question": "1. समय के साथ स्मृति चिह्नों के क्षय (decay) से विस्मरण हो सकता है।\n2. अन्य सूचना के हस्तक्षेप (interference) से भी विस्मरण हो सकता है।\n\n1. Forgetting can occur due to decay of memory traces over time.\n2. Interference from other information can also cause forgetting.",
+      "question_text": "1. समय के साथ स्मृति चिह्नों के क्षय (decay) से विस्मरण हो सकता है।\n2. अन्य सूचना के हस्तक्षेप (interference) से भी विस्मरण हो सकता है।\n\n1. Forgetting can occur due to decay of memory traces over time.\n2. Interference from other information can also cause forgetting.",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 80,
       "question_number": 80,
-      "question": "Assertion (A): NRHM aimed to improve access to health services in rural areas.\nReason (R): Health infrastructure in rural areas is generally found to be weaker than in urban areas.",
-      "question_text": "Assertion (A): NRHM aimed to improve access to health services in rural areas.\nReason (R): Health infrastructure in rural areas is generally found to be weaker than in urban areas.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "चार्ल्स स्पीयरमैन / Charles Spearman",
+        "B": "हावर्ड गार्डनर / Howard Gardner",
+        "C": "अल्फ्रेड बिने / Alfred Binet",
+        "D": "रेमंड कैटेल / Raymond Cattell"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 81,
       "question_number": 81,
-      "question": "Assertion (A): Malnutrition is only a problem related to the quantity of food.\nReason (R): The level of nutritional education and sanitation also affects malnutrition.",
-      "question_text": "Assertion (A): Malnutrition is only a problem related to the quantity of food.\nReason (R): The level of nutritional education and sanitation also affects malnutrition.",
+      "question": "1. अभिप्रेरणा (Motivation) उन आंतरिक अवस्थाओं को संदर्भित करती है जो व्यवहार को सक्रिय व दिशा प्रदान करती हैं।\n2. व्यक्तित्व का अभिप्रेरित व्यवहार से कोई संबंध नहीं है।\n\n1. Motivation refers to internal states that activate and direct behaviour.\n2. Personality is unrelated to motivated behaviour.",
+      "question_text": "1. अभिप्रेरणा (Motivation) उन आंतरिक अवस्थाओं को संदर्भित करती है जो व्यवहार को सक्रिय व दिशा प्रदान करती हैं।\n2. व्यक्तित्व का अभिप्रेरित व्यवहार से कोई संबंध नहीं है।\n\n1. Motivation refers to internal states that activate and direct behaviour.\n2. Personality is unrelated to motivated behaviour.",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 82,
       "question_number": 82,
-      "question": "Assertion (A): Ayushman Bharat Yojana is counted among the world's largest health insurance schemes.\nReason (R): This scheme targets more than about 10 crore poor and vulnerable families.",
-      "question_text": "Assertion (A): Ayushman Bharat Yojana is counted among the world's largest health insurance schemes.\nReason (R): This scheme targets more than about 10 crore poor and vulnerable families.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "मानसिक योग्यताओं, गुणों या व्यवहार का वस्तुनिष्ठ मूल्यांकन / Objectively assess mental abilities, traits, or behaviours",
+        "B": "शारीरिक बीमारी का निदान / Diagnose physical illness",
+        "C": "चिकित्सीय उपचार का स्थान लेना / Replace medical treatment",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 83,
       "question_number": 83,
-      "question": "Assertion (A): Social stigma towards HIV/AIDS patients affects the rate of seeking treatment.\nReason (R): Stigmatised individuals avoid testing or treatment for fear of social discrimination.",
-      "question_text": "Assertion (A): Social stigma towards HIV/AIDS patients affects the rate of seeking treatment.\nReason (R): Stigmatised individuals avoid testing or treatment for fear of social discrimination.",
+      "question": "1. मादक द्रव्य व्यसन (Drug addiction) समकालीन समाज की एक समस्या मानी जाती है।\n2. बाल अपराध का सामाजिक व मनोवैज्ञानिक कारकों से कोई संबंध नहीं है।\n\n1. Drug addiction is considered a problem of contemporary society.\n2. Juvenile delinquency is unrelated to social and psychological factors.",
+      "question_text": "1. मादक द्रव्य व्यसन (Drug addiction) समकालीन समाज की एक समस्या मानी जाती है।\n2. बाल अपराध का सामाजिक व मनोवैज्ञानिक कारकों से कोई संबंध नहीं है।\n\n1. Drug addiction is considered a problem of contemporary society.\n2. Juvenile delinquency is unrelated to social and psychological factors.",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 84,
       "question_number": 84,
-      "question": "Assertion (A): The Biomedical Model prioritises the social determinants of health.\nReason (R): This model largely confines disease to biological/physical processes.",
-      "question_text": "Assertion (A): The Biomedical Model prioritises the social determinants of health.\nReason (R): This model largely confines disease to biological/physical processes.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "संवेदी सूचना को संगठित एवं व्याख्यायित करने की प्रक्रिया / The process of organizing and interpreting sensory information",
+        "B": "स्मृति का भंडारण / Storage of memory",
+        "C": "केवल भावनात्मक प्रतिक्रिया / An emotional response only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 85,
       "question_number": 85,
-      "question": "Assertion (A): The study of Human Ecology is considered important in sociology.\nReason (R): The structure and distribution of human communities are influenced by environmental factors.",
-      "question_text": "Assertion (A): The study of Human Ecology is considered important in sociology.\nReason (R): The structure and distribution of human communities are influenced by environmental factors.",
+      "question": "1. दीर्घकालिक स्मृति की क्षमता अल्पकालिक स्मृति की तुलना में अपेक्षाकृत असीमित होती है।\n2. अल्पकालिक स्मृति सूचना को अनिश्चित काल तक धारण कर सकती है।\n\n1. Long-term memory has relatively unlimited capacity compared to short-term memory.\n2. Short-term memory can hold information indefinitely.",
+      "question_text": "1. दीर्घकालिक स्मृति की क्षमता अल्पकालिक स्मृति की तुलना में अपेक्षाकृत असीमित होती है।\n2. अल्पकालिक स्मृति सूचना को अनिश्चित काल तक धारण कर सकती है।\n\n1. Long-term memory has relatively unlimited capacity compared to short-term memory.\n2. Short-term memory can hold information indefinitely.",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 86,
       "question_number": 86,
-      "question": "Assertion (A): Universal Health Coverage is discussed as a means to address health inequalities in India.\nReason (R): Its objective is to provide essential health services to all citizens without financial hardship.",
-      "question_text": "Assertion (A): Universal Health Coverage is discussed as a means to address health inequalities in India.\nReason (R): Its objective is to provide essential health services to all citizens without financial hardship.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "मांगपूर्ण परिस्थितियों से उत्पन्न मानसिक या भावनात्मक दबाव की अवस्था / A state of mental or emotional strain resulting from demanding circumstances",
+        "B": "एक प्रकार की स्मृति / A type of memory",
+        "C": "केवल व्यक्तित्व गुण / A personality trait only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 87,
       "question_number": 87,
-      "question": "Assertion (A): The burden of Non-Communicable Diseases (NCDs) is increasing in India.\nReason (R): Lifestyle changes, urbanisation and dietary habits are considered its major factors.",
-      "question_text": "Assertion (A): The burden of Non-Communicable Diseases (NCDs) is increasing in India.\nReason (R): Lifestyle changes, urbanisation and dietary habits are considered its major factors.",
+      "question": "1. वृद्धावस्था की समस्याओं में सामाजिक अलगाव व स्वास्थ्य में गिरावट शामिल है।\n2. इनका कोई मनोवैज्ञानिक आयाम नहीं है।\n\n1. Problems of the aged include social isolation and health decline.\n2. These have no psychological dimension.",
+      "question_text": "1. वृद्धावस्था की समस्याओं में सामाजिक अलगाव व स्वास्थ्य में गिरावट शामिल है।\n2. इनका कोई मनोवैज्ञानिक आयाम नहीं है।\n\n1. Problems of the aged include social isolation and health decline.\n2. These have no psychological dimension.",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 88,
       "question_number": 88,
-      "question": "Assertion (A): POSHAN Abhiyaan's objective is to eliminate malnutrition only in urban areas.\nReason (R): This campaign targets children, adolescent girls and women across all of India.",
-      "question_text": "Assertion (A): POSHAN Abhiyaan's objective is to eliminate malnutrition only in urban areas.\nReason (R): This campaign targets children, adolescent girls and women across all of India.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "मानव विकास एवं व्यवहार को / Human development and behaviour",
+        "B": "केवल शारीरिक ऊंचाई को / Only physical height",
+        "C": "केवल भाषा को / Only language",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 89,
       "question_number": 89,
-      "question": "Assertion (A): Mental health is generally not given the same priority as physical health.\nReason (R): Social stigma and lack of awareness about mental illness is one of the reasons.",
-      "question_text": "Assertion (A): Mental health is generally not given the same priority as physical health.\nReason (R): Social stigma and lack of awareness about mental illness is one of the reasons.",
+      "question": "1. प्रकार सिद्धांत (Type theories) व्यक्तित्व को विविक्त श्रेणियों में वर्गीकृत करते हैं।\n2. गुण सिद्धांत (Trait theories) व्यक्तित्व को सतत आयामों के अनुसार वर्णित करते हैं।\n\n1. Type theories classify personality into discrete categories.\n2. Trait theories describe personality along continuous dimensions.",
+      "question_text": "1. प्रकार सिद्धांत (Type theories) व्यक्तित्व को विविक्त श्रेणियों में वर्गीकृत करते हैं।\n2. गुण सिद्धांत (Trait theories) व्यक्तित्व को सतत आयामों के अनुसार वर्णित करते हैं।\n\n1. Type theories classify personality into discrete categories.\n2. Trait theories describe personality along continuous dimensions.",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 90,
       "question_number": 90,
-      "question": "Assertion (A): Environmental movements are directly unrelated to health.\nReason (R): A clean environment is an important determinant of community health.",
-      "question_text": "Assertion (A): Environmental movements are directly unrelated to health.\nReason (R): A clean environment is an important determinant of community health.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "भाषा विकास / Language development",
+        "B": "भाषा क्षय / Language decay",
+        "C": "भाषा हस्तक्षेप / Language interference",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 91,
       "question_number": 91,
-      "question": "Where is the headquarters of WHO located?",
-      "question_text": "Where is the headquarters of WHO located?",
+      "question": "1. मनोवृत्तियों (Attitudes) के संज्ञानात्मक, भावात्मक एवं व्यवहारात्मक घटक होते हैं।\n2. मनोवृत्तियां समय के साथ कभी परिवर्तित नहीं होतीं।\n\n1. Attitudes have cognitive, affective, and behavioural components.\n2. Attitudes never change over time.",
+      "question_text": "1. मनोवृत्तियों (Attitudes) के संज्ञानात्मक, भावात्मक एवं व्यवहारात्मक घटक होते हैं।\n2. मनोवृत्तियां समय के साथ कभी परिवर्तित नहीं होतीं।\n\n1. Attitudes have cognitive, affective, and behavioural components.\n2. Attitudes never change over time.",
       "options": {
-        "A": "Paris",
-        "B": "Geneva",
-        "C": "New York",
-        "D": "Vienna"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 92,
       "question_number": 92,
-      "question": "Who gave the concept of the \"Sick Role\"?",
-      "question_text": "Who gave the concept of the \"Sick Role\"?",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Karl Marx",
-        "B": "Erving Goffman",
-        "C": "Talcott Parsons",
-        "D": "Emile Durkheim"
+        "A": "सामाजिक मानदंडों के अनुसार व्यक्ति व समूह के व्यवहार को विनियमित करने वाले तंत्र / Mechanisms that regulate individual and group behaviour according to social norms",
+        "B": "केवल अपराध को दंडित करना / Punishing crime only",
+        "C": "केवल आर्थिक विनियमन / Economic regulation only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 93,
       "question_number": 93,
-      "question": "In which year was NRHM launched?",
-      "question_text": "In which year was NRHM launched?",
+      "question": "1. अनुनयात्मक संचार (Persuasive Communication) का उद्देश्य मनोवृत्ति या व्यवहार बदलना है।\n2. पूर्व प्रतिबद्धता या प्रतिक्रिया (reactance) के कारण अनुनय के प्रति प्रतिरोध हो सकता है।\n\n1. Persuasive communication aims to change attitude or behaviour.\n2. Resistance to persuasion can occur due to prior commitment or reactance.",
+      "question_text": "1. अनुनयात्मक संचार (Persuasive Communication) का उद्देश्य मनोवृत्ति या व्यवहार बदलना है।\n2. पूर्व प्रतिबद्धता या प्रतिक्रिया (reactance) के कारण अनुनय के प्रति प्रतिरोध हो सकता है।\n\n1. Persuasive communication aims to change attitude or behaviour.\n2. Resistance to persuasion can occur due to prior commitment or reactance.",
       "options": {
-        "A": "2000",
-        "B": "2005",
-        "C": "2013",
-        "D": "2018"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 94,
       "question_number": 94,
-      "question": "In which budget was Ayushman Bharat announced?",
-      "question_text": "In which budget was Ayushman Bharat announced?",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "2016-17",
-        "B": "2017-18",
-        "C": "2018-19",
-        "D": "2019-20"
+        "A": "परिवार / Family",
+        "B": "धर्म / Religion",
+        "C": "कानून / Law",
+        "D": "उपर्युक्त सभी / All of the above"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": 95,
       "question_number": 95,
-      "question": "In which year was the ICDS scheme launched?",
-      "question_text": "In which year was the ICDS scheme launched?",
+      "question": "1. तकनीकी नवाचार से सामाजिक परिवर्तन हो सकता है।\n2. आर्थिक कारकों से कभी सामाजिक परिवर्तन नहीं होता।\n\n1. Social change can be caused by technological innovation.\n2. Social change never occurs due to economic factors.",
+      "question_text": "1. तकनीकी नवाचार से सामाजिक परिवर्तन हो सकता है।\n2. आर्थिक कारकों से कभी सामाजिक परिवर्तन नहीं होता।\n\n1. Social change can be caused by technological innovation.\n2. Social change never occurs due to economic factors.",
       "options": {
-        "A": "1969",
-        "B": "1975",
-        "C": "1983",
-        "D": "1992"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 96,
       "question_number": 96,
-      "question": "Who chaired the Bhore Committee?",
-      "question_text": "Who chaired the Bhore Committee?",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "A.L. Mudaliar",
-        "B": "Kartar Singh",
-        "C": "Sir Joseph Bhore",
-        "D": "J.B. Srivastava"
+        "A": "समानता / Similarity",
+        "B": "निकटता / Proximity",
+        "C": "शारीरिक आकर्षण / Physical attractiveness",
+        "D": "उपर्युक्त सभी / All of the above"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": 97,
       "question_number": 97,
-      "question": "\"Public health and sanitation\" is a subject in which list of the Indian Constitution?",
-      "question_text": "\"Public health and sanitation\" is a subject in which list of the Indian Constitution?",
+      "question": "1. सामुदायिक स्वास्थ्य में निवारक, संवर्धनात्मक एवं उपचारात्मक पहलू शामिल हैं।\n2. सामुदायिक स्वास्थ्य में परामर्श (counseling) की कोई भूमिका नहीं है।\n\n1. Community health includes preventive, promotive, and curative aspects.\n2. Counseling has no role in community health.",
+      "question_text": "1. सामुदायिक स्वास्थ्य में निवारक, संवर्धनात्मक एवं उपचारात्मक पहलू शामिल हैं।\n2. सामुदायिक स्वास्थ्य में परामर्श (counseling) की कोई भूमिका नहीं है।\n\n1. Community health includes preventive, promotive, and curative aspects.\n2. Counseling has no role in community health.",
       "options": {
-        "A": "Union List",
-        "B": "State List",
-        "C": "Concurrent List",
-        "D": "Residuary subject"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 98,
       "question_number": 98,
-      "question": "The concept of \"Human Ecology\" is associated with which school of thought?",
-      "question_text": "The concept of \"Human Ecology\" is associated with which school of thought?",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Structuralism",
-        "B": "Chicago School",
-        "C": "Frankfurt School",
-        "D": "Post-modernism"
+        "A": "शारीरिक एवं मानसिक स्वास्थ्य/कल्याण / Physical and mental health/well-being",
+        "B": "केवल शारीरिक शक्ति / Physical strength only",
+        "C": "केवल धार्मिक प्रथा / Religious practice only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 99,
       "question_number": 99,
-      "question": "In which year was the Alma Ata Declaration adopted?",
-      "question_text": "In which year was the Alma Ata Declaration adopted?",
+      "question": "1. सामाजिक अंतःक्रिया वह प्रक्रिया है जिसके द्वारा व्यक्ति एक-दूसरे के संबंध में कार्य व प्रतिक्रिया करते हैं।\n2. सामाजिक अंतःक्रिया का स्वास्थ्य व्यवहार से कोई संबंध नहीं है।\n\n1. Social interaction is the process by which individuals act and react in relation to one another.\n2. Social interaction has no relevance to health behaviour.",
+      "question_text": "1. सामाजिक अंतःक्रिया वह प्रक्रिया है जिसके द्वारा व्यक्ति एक-दूसरे के संबंध में कार्य व प्रतिक्रिया करते हैं।\n2. सामाजिक अंतःक्रिया का स्वास्थ्य व्यवहार से कोई संबंध नहीं है।\n\n1. Social interaction is the process by which individuals act and react in relation to one another.\n2. Social interaction has no relevance to health behaviour.",
       "options": {
-        "A": "1966",
-        "B": "1972",
-        "C": "1978",
-        "D": "1983"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 100,
       "question_number": 100,
-      "question": "On which date was the Swachh Bharat Mission launched?",
-      "question_text": "On which date was the Swachh Bharat Mission launched?",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "15 August 2014",
-        "B": "2 October 2014",
-        "C": "26 January 2015",
-        "D": "2 October 2015"
+        "A": "वांछनीय या महत्वपूर्ण मानी जाने वाली गहन मान्यताएं / Deeply held beliefs about what is desirable or important",
+        "B": "अस्थायी मनोदशाएं / Temporary moods",
+        "C": "शारीरिक गुण / Physical traits",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 101,
       "question_number": 101,
-      "question": "Consider the following statements regarding the Gupta Empire:\n1. Chandragupta II adopted the title \"Vikramaditya\".\n2. The Gupta period is regarded as the \"Golden Age\" of ancient Indian art and science.\n3. Nalanda University was founded during the Gupta period.\nWhich of the statements given above is/are correct?",
-      "question_text": "Consider the following statements regarding the Gupta Empire:\n1. Chandragupta II adopted the title \"Vikramaditya\".\n2. The Gupta period is regarded as the \"Golden Age\" of ancient Indian art and science.\n3. Nalanda University was founded during the Gupta period.\nWhich of the statements given above is/are correct?",
+      "question": "1. संचार सिद्धांत प्रेषक, संदेश, माध्यम एवं प्राप्तकर्ता की जांच करते हैं।\n2. अनुनयात्मक संचार के निर्धारकों में स्रोत की विश्वसनीयता शामिल है।\n\n1. Communication theories examine the sender, message, channel, and receiver.\n2. Determinants of persuasive communication include source credibility.",
+      "question_text": "1. संचार सिद्धांत प्रेषक, संदेश, माध्यम एवं प्राप्तकर्ता की जांच करते हैं।\n2. अनुनयात्मक संचार के निर्धारकों में स्रोत की विश्वसनीयता शामिल है।\n\n1. Communication theories examine the sender, message, channel, and receiver.\n2. Determinants of persuasive communication include source credibility.",
       "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 102,
       "question_number": 102,
-      "question": "Consider the following statements regarding the Delhi Sultanate:\n1. Qutb-ud-din Aibak founded the Slave (Mamluk) Dynasty.\n2. Alauddin Khilji introduced market control (price control) reforms.",
-      "question_text": "Consider the following statements regarding the Delhi Sultanate:\n1. Qutb-ud-din Aibak founded the Slave (Mamluk) Dynasty.\n2. Alauddin Khilji introduced market control (price control) reforms.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "सामुदायिक परामर्श / Community counseling",
+        "B": "क्लीनिकल सर्जरी / Clinical surgery",
+        "C": "औषध विज्ञान / Pharmacology",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 103,
       "question_number": 103,
-      "question": "Consider the following statements regarding the Indian freedom struggle:\n1. The Non-Cooperation Movement was launched in 1920.\n2. It was withdrawn after the Chauri Chaura incident.\n3. The Civil Disobedience Movement began with the Dandi March in 1930.",
-      "question_text": "Consider the following statements regarding the Indian freedom struggle:\n1. The Non-Cooperation Movement was launched in 1920.\n2. It was withdrawn after the Chauri Chaura incident.\n3. The Civil Disobedience Movement began with the Dandi March in 1930.",
+      "question": "1. प्रस्तावना भारत को एक संपूर्ण प्रभुत्व-संपन्न, समाजवादी, पंथनिरपेक्ष, लोकतांत्रिक गणराज्य घोषित करती है।\n2. \"समाजवादी\" और \"पंथनिरपेक्ष\" शब्द 42वें संशोधन द्वारा जोड़े गए थे।\n\n1. The Preamble declares India a Sovereign, Socialist, Secular, Democratic Republic.\n2. The words \"Socialist\" and \"Secular\" were added by the 42nd Amendment.",
+      "question_text": "1. प्रस्तावना भारत को एक संपूर्ण प्रभुत्व-संपन्न, समाजवादी, पंथनिरपेक्ष, लोकतांत्रिक गणराज्य घोषित करती है।\n2. \"समाजवादी\" और \"पंथनिरपेक्ष\" शब्द 42वें संशोधन द्वारा जोड़े गए थे।\n\n1. The Preamble declares India a Sovereign, Socialist, Secular, Democratic Republic.\n2. The words \"Socialist\" and \"Secular\" were added by the 42nd Amendment.",
       "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": 104,
-      "question_number": 104,
-      "question": "Consider the following statements regarding Indian rivers:\n1. The Narmada river flows into the Arabian Sea.\n2. The Godavari is also known as the \"Dakshin Ganga\".",
-      "question_text": "Consider the following statements regarding Indian rivers:\n1. The Narmada river flows into the Arabian Sea.\n2. The Godavari is also known as the \"Dakshin Ganga\".",
-      "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
+      "id": 104,
+      "question_number": 104,
+      "question": "\n\n",
+      "question_text": "\n\n",
+      "options": {
+        "A": "भाग III / Part III",
+        "B": "भाग IV / Part IV",
+        "C": "भाग V / Part V",
+        "D": "भाग VI / Part VI"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
       "id": 105,
       "question_number": 105,
-      "question": "Consider the following statements regarding Indian climate:\n1. India has a monsoon type of climate.\n2. Western Disturbances bring winter rainfall to northwest India.\n3. The Coromandel Coast receives most of its rainfall from the southwest monsoon.",
-      "question_text": "Consider the following statements regarding Indian climate:\n1. India has a monsoon type of climate.\n2. Western Disturbances bring winter rainfall to northwest India.\n3. The Coromandel Coast receives most of its rainfall from the southwest monsoon.",
+      "question": "1. मौलिक अधिकार न्यायोचित (justiciable) हैं।\n2. मौलिक कर्तव्य भी न्यायोचित हैं।\n\n1. Fundamental Rights are justiciable.\n2. Fundamental Duties are also justiciable.",
+      "question_text": "1. मौलिक अधिकार न्यायोचित (justiciable) हैं।\n2. मौलिक कर्तव्य भी न्यायोचित हैं।\n\n1. Fundamental Rights are justiciable.\n2. Fundamental Duties are also justiciable.",
       "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1482,27 +1482,27 @@
     {
       "id": 106,
       "question_number": 106,
-      "question": "Consider the following statements regarding world geography:\n1. The Sahara is the largest hot desert in the world.\n2. The Nile is the longest river in the world.",
-      "question_text": "Consider the following statements regarding world geography:\n1. The Sahara is the largest hot desert in the world.\n2. The Nile is the longest river in the world.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "अध्यक्ष / Speaker",
+        "B": "राष्ट्रपति / President",
+        "C": "प्रधानमंत्री / Prime Minister",
+        "D": "मुख्य न्यायाधीश / Chief Justice"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 107,
       "question_number": 107,
-      "question": "Consider the following statements regarding the Indian Parliament:\n1. The Rajya Sabha is a permanent body and cannot be dissolved.\n2. One-third of Rajya Sabha members retire every two years.",
-      "question_text": "Consider the following statements regarding the Indian Parliament:\n1. The Rajya Sabha is a permanent body and cannot be dissolved.\n2. One-third of Rajya Sabha members retire every two years.",
+      "question": "1. राज्यपाल की नियुक्ति राष्ट्रपति द्वारा की जाती है।\n2. मुख्यमंत्री की नियुक्ति राज्यपाल द्वारा की जाती है।\n\n1. The Governor is appointed by the President.\n2. The Chief Minister is appointed by the Governor.",
+      "question_text": "1. राज्यपाल की नियुक्ति राष्ट्रपति द्वारा की जाती है।\n2. मुख्यमंत्री की नियुक्ति राज्यपाल द्वारा की जाती है।\n\n1. The Governor is appointed by the President.\n2. The Chief Minister is appointed by the Governor.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -1510,41 +1510,41 @@
     {
       "id": 108,
       "question_number": 108,
-      "question": "Consider the following statements regarding Constitutional Amendments:\n1. The 42nd Amendment is known as the \"Mini Constitution\".\n2. The 44th Amendment restored some safeguards after the Emergency.",
-      "question_text": "Consider the following statements regarding Constitutional Amendments:\n1. The 42nd Amendment is known as the \"Mini Constitution\".\n2. The 44th Amendment restored some safeguards after the Emergency.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": 109,
-      "question_number": 109,
-      "question": "Consider the following statements regarding Writs:\n1. Habeas Corpus can be issued against unlawful detention.\n2. Quo Warranto is issued to question the legality of a person holding a public office.\n3. Mandamus can be issued against the President in the performance of discretionary duties.",
-      "question_text": "Consider the following statements regarding Writs:\n1. Habeas Corpus can be issued against unlawful detention.\n2. Quo Warranto is issued to question the legality of a person holding a public office.\n3. Mandamus can be issued against the President in the performance of discretionary duties.",
-      "options": {
-        "A": "Only 1 and 2",
-        "B": "Only 2 and 3",
-        "C": "Only 1 and 3",
-        "D": "1, 2 and 3"
+        "A": "परामर्शदात्री / Advisory",
+        "B": "कार्यकारी / Executive",
+        "C": "विधायी / Legislative",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
+      "id": 109,
+      "question_number": 109,
+      "question": "1. पंचायती राज को 73वें संशोधन द्वारा संवैधानिक दर्जा दिया गया।\n2. नगरपालिकाओं को 74वें संशोधन द्वारा संवैधानिक दर्जा दिया गया।\n\n1. Panchayati Raj was constitutionalized by the 73rd Amendment.\n2. Municipalities were constitutionalized by the 74th Amendment.",
+      "question_text": "1. पंचायती राज को 73वें संशोधन द्वारा संवैधानिक दर्जा दिया गया।\n2. नगरपालिकाओं को 74वें संशोधन द्वारा संवैधानिक दर्जा दिया गया।\n\n1. Panchayati Raj was constitutionalized by the 73rd Amendment.\n2. Municipalities were constitutionalized by the 74th Amendment.",
+      "options": {
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
       "id": 110,
       "question_number": 110,
-      "question": "Consider the following statements:\n1. The Green Revolution led to regional disparities in agricultural development.\n2. The Human Development Index (HDI) ranks countries based solely on per capita income.",
-      "question_text": "Consider the following statements:\n1. The Green Revolution led to regional disparities in agricultural development.\n2. The Human Development Index (HDI) ranks countries based solely on per capita income.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "निर्वाचन आयोग / Election Commission",
+        "B": "वित्त आयोग / Finance Commission",
+        "C": "संघ लोक सेवा आयोग / UPSC",
+        "D": "नीति आयोग / NITI Aayog"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1552,27 +1552,27 @@
     {
       "id": 111,
       "question_number": 111,
-      "question": "Consider the following statements regarding poverty in India:\n1. The Tendulkar Committee suggested a new methodology for the poverty line.\n2. The Rangarajan Committee report came after the Tendulkar Committee.",
-      "question_text": "Consider the following statements regarding poverty in India:\n1. The Tendulkar Committee suggested a new methodology for the poverty line.\n2. The Rangarajan Committee report came after the Tendulkar Committee.",
+      "question": "1. वित्त आयोग केंद्र व राज्यों के बीच कर राजस्व के बंटवारे की सिफारिश करता है।\n2. इसका गठन प्रतिवर्ष किया जाता है।\n\n1. The Finance Commission recommends distribution of tax revenue between the Centre and States.\n2. It is constituted every year.",
+      "question_text": "1. वित्त आयोग केंद्र व राज्यों के बीच कर राजस्व के बंटवारे की सिफारिश करता है।\n2. इसका गठन प्रतिवर्ष किया जाता है।\n\n1. The Finance Commission recommends distribution of tax revenue between the Centre and States.\n2. It is constituted every year.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 112,
       "question_number": 112,
-      "question": "Consider the following statements regarding urbanisation in India:\n1. Census 2011 classified urban areas based on population size and non-agricultural occupation criteria.\n2. India's level of urbanisation is higher than that of China.",
-      "question_text": "Consider the following statements regarding urbanisation in India:\n1. Census 2011 classified urban areas based on population size and non-agricultural occupation criteria.\n2. India's level of urbanisation is higher than that of China.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केंद्र एवं राज्य सरकारों के / Union and State governments",
+        "B": "केवल निजी कंपनियों के / Private companies only",
+        "C": "केवल एनजीओ के / NGOs only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1580,69 +1580,69 @@
     {
       "id": 113,
       "question_number": 113,
-      "question": "Consider the following statements:\n1. India launched its first solar mission \"Aditya-L1\" in 2023.\n2. Aditya-L1 is placed at the L1 Lagrange point between the Earth and the Sun.",
-      "question_text": "Consider the following statements:\n1. India launched its first solar mission \"Aditya-L1\" in 2023.\n2. Aditya-L1 is placed at the L1 Lagrange point between the Earth and the Sun.",
+      "question": "1. सामाजिक क्षेत्रों के विकास में एनजीओ सरकार के साथ भूमिका निभाते हैं।\n2. नागरिक समाज संगठनों की शासन में कोई भूमिका नहीं है।\n\n1. NGOs play a role along with government in the development of social sectors.\n2. Civil society organisations have no role in governance.",
+      "question_text": "1. सामाजिक क्षेत्रों के विकास में एनजीओ सरकार के साथ भूमिका निभाते हैं।\n2. नागरिक समाज संगठनों की शासन में कोई भूमिका नहीं है।\n\n1. NGOs play a role along with government in the development of social sectors.\n2. Civil society organisations have no role in governance.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 114,
       "question_number": 114,
-      "question": "Consider the following statements:\n1. The 2023 Cricket World Cup was hosted by India.\n2. Australia won the final of the 2023 Cricket World Cup.",
-      "question_text": "Consider the following statements:\n1. The 2023 Cricket World Cup was hosted by India.\n2. Australia won the final of the 2023 Cricket World Cup.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "संसद / Parliament",
+        "B": "सर्वोच्च न्यायालय / Supreme Court",
+        "C": "राष्ट्रपति / President",
+        "D": "निर्वाचन आयोग / Election Commission"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 115,
       "question_number": 115,
-      "question": "Consider the following statements:\n1. The Vice President of India is the ex-officio Chairman of the Rajya Sabha.\n2. Droupadi Murmu is the President of India.",
-      "question_text": "Consider the following statements:\n1. The Vice President of India is the ex-officio Chairman of the Rajya Sabha.\n2. Droupadi Murmu is the President of India.",
+      "question": "1. स्थानीय स्वशासन का उद्देश्य प्रशासन का विकेंद्रीकरण करना है।\n2. पंचायती राज संस्थाओं की ग्रामीण विकास में कोई भूमिका नहीं है।\n\n1. Local self-government aims to decentralize administration.\n2. Panchayati Raj institutions have no role in rural development.",
+      "question_text": "1. स्थानीय स्वशासन का उद्देश्य प्रशासन का विकेंद्रीकरण करना है।\n2. पंचायती राज संस्थाओं की ग्रामीण विकास में कोई भूमिका नहीं है।\n\n1. Local self-government aims to decentralize administration.\n2. Panchayati Raj institutions have no role in rural development.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 116,
       "question_number": 116,
-      "question": "Consider the following statements:\n1. Zaid crops are grown between the Rabi and Kharif seasons.\n2. Watermelon and cucumber are examples of Zaid crops.",
-      "question_text": "Consider the following statements:\n1. Zaid crops are grown between the Rabi and Kharif seasons.\n2. Watermelon and cucumber are examples of Zaid crops.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "राष्ट्रपति के प्रति / The President",
+        "B": "लोकसभा के प्रति / The Lok Sabha",
+        "C": "राज्यसभा के प्रति / The Rajya Sabha",
+        "D": "सर्वोच्च न्यायालय के प्रति / The Supreme Court"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": 117,
       "question_number": 117,
-      "question": "Consider the following statements:\n1. Soil erosion can be controlled through contour ploughing and terracing.\n2. Excessive use of chemical fertilizers has no negative impact on soil health.",
-      "question_text": "Consider the following statements:\n1. Soil erosion can be controlled through contour ploughing and terracing.\n2. Excessive use of chemical fertilizers has no negative impact on soil health.",
+      "question": "1. स्वास्थ्य भूगोल रोग एवं स्वास्थ्य सेवाओं के स्थानिक प्रतिरूपों का अध्ययन करता है।\n2. इसका पर्यावरणीय कारकों से कोई संबंध नहीं है।\n\n1. Health geography studies spatial patterns of disease and health services.\n2. It has no link with environmental factors.",
+      "question_text": "1. स्वास्थ्य भूगोल रोग एवं स्वास्थ्य सेवाओं के स्थानिक प्रतिरूपों का अध्ययन करता है।\n2. इसका पर्यावरणीय कारकों से कोई संबंध नहीं है।\n\n1. Health geography studies spatial patterns of disease and health services.\n2. It has no link with environmental factors.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1650,27 +1650,27 @@
     {
       "id": 118,
       "question_number": 118,
-      "question": "Consider the following statements:\n1. Vitamin D deficiency causes rickets in children.\n2. Vitamin K is essential for blood clotting.",
-      "question_text": "Consider the following statements:\n1. Vitamin D deficiency causes rickets in children.\n2. Vitamin K is essential for blood clotting.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "मधुमेह / Diabetes",
+        "B": "क्षय रोग / Tuberculosis",
+        "C": "मलेरिया / Malaria",
+        "D": "हैजा / Cholera"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 119,
       "question_number": 119,
-      "question": "Consider the following statements:\n1. Sound cannot travel through a vacuum.\n2. Light travels faster in water than in air.",
-      "question_text": "Consider the following statements:\n1. Sound cannot travel through a vacuum.\n2. Light travels faster in water than in air.",
+      "question": "1. पर्यावरणीय क्षरण रोगों के प्रति संवेदनशीलता बढ़ा सकता है।\n2. प्राकृतिक आपदाओं का मानव स्वास्थ्य पर कोई प्रभाव नहीं पड़ता।\n\n1. Environmental degradation can increase vulnerability to diseases.\n2. Natural disasters have no impact on human health.",
+      "question_text": "1. पर्यावरणीय क्षरण रोगों के प्रति संवेदनशीलता बढ़ा सकता है।\n2. प्राकृतिक आपदाओं का मानव स्वास्थ्य पर कोई प्रभाव नहीं पड़ता।\n\n1. Environmental degradation can increase vulnerability to diseases.\n2. Natural disasters have no impact on human health.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1678,27 +1678,27 @@
     {
       "id": 120,
       "question_number": 120,
-      "question": "Consider the following statements:\n1. The pH value of pure water is 7, indicating it is neutral.\n2. Acids turn blue litmus paper red.",
-      "question_text": "Consider the following statements:\n1. The pH value of pure water is 7, indicating it is neutral.\n2. Acids turn blue litmus paper red.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "पर्याप्त भोजन की उपलब्धता, पहुंच एवं उपयोग / Availability, access, and utilization of adequate food",
+        "B": "केवल खाद्य उत्पादन / Food production only",
+        "C": "केवल खाद्य निर्यात / Food export only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 121,
       "question_number": 121,
-      "question": "Consider the following statements:\n1. Insulin is produced by the pancreas.\n2. Insulin deficiency leads to diabetes mellitus.",
-      "question_text": "Consider the following statements:\n1. Insulin is produced by the pancreas.\n2. Insulin deficiency leads to diabetes mellitus.",
+      "question": "1. कुपोषण अल्पपोषण एवं अतिपोषण दोनों के कारण हो सकता है।\n2. भूख का भूगोल खाद्य असुरक्षा के स्थानिक वितरण का अध्ययन करता है।\n\n1. Malnutrition can result from both undernutrition and overnutrition.\n2. The geography of hunger studies the spatial distribution of food insecurity.",
+      "question_text": "1. कुपोषण अल्पपोषण एवं अतिपोषण दोनों के कारण हो सकता है।\n2. भूख का भूगोल खाद्य असुरक्षा के स्थानिक वितरण का अध्ययन करता है।\n\n1. Malnutrition can result from both undernutrition and overnutrition.\n2. The geography of hunger studies the spatial distribution of food insecurity.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -1706,55 +1706,55 @@
     {
       "id": 122,
       "question_number": 122,
-      "question": "Consider the following statements:\n1. The sum of the first n natural numbers is given by n(n+1)/2.\n2. Every prime number greater than 2 is odd.",
-      "question_text": "Consider the following statements:\n1. The sum of the first n natural numbers is given by n(n+1)/2.\n2. Every prime number greater than 2 is odd.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "सिकल सेल एनीमिया / Sickle cell anemia",
+        "B": "मलेरिया / Malaria",
+        "C": "क्षय रोग / Tuberculosis",
+        "D": "हैजा / Cholera"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 123,
       "question_number": 123,
-      "question": "Consider the following statements:\n1. The area of a triangle can be found using Heron's formula when all three sides are known.\n2. The sum of interior angles of a triangle is always 180 degrees, regardless of the type of triangle.",
-      "question_text": "Consider the following statements:\n1. The area of a triangle can be found using Heron's formula when all three sides are known.\n2. The sum of interior angles of a triangle is always 180 degrees, regardless of the type of triangle.",
+      "question": "1. भारत में स्वास्थ्य देखभाल नियोजन में केंद्र व राज्य सरकार दोनों शामिल होते हैं।\n2. स्वास्थ्य विशुद्ध रूप से एक संघ सूची का विषय है।\n\n1. Health care planning in India involves both central and state governments.\n2. Health is exclusively a union subject.",
+      "question_text": "1. भारत में स्वास्थ्य देखभाल नियोजन में केंद्र व राज्य सरकार दोनों शामिल होते हैं।\n2. स्वास्थ्य विशुद्ध रूप से एक संघ सूची का विषय है।\n\n1. Health care planning in India involves both central and state governments.\n2. Health is exclusively a union subject.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 124,
       "question_number": 124,
-      "question": "Consider the following statements:\n1. Primary Health Centres (PHCs) act as the first referral point in rural healthcare.\n2. Behaviour Change Communication (BCC) is used to promote healthy practices among communities.",
-      "question_text": "Consider the following statements:\n1. Primary Health Centres (PHCs) act as the first referral point in rural healthcare.\n2. Behaviour Change Communication (BCC) is used to promote healthy practices among communities.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "जलवायु एवं पर्यावरणीय कारकों से / Climatic and environmental factors",
+        "B": "केवल राजनीतिक सीमाओं से / Political boundaries only",
+        "C": "भाषा से / Language",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 125,
       "question_number": 125,
-      "question": "Consider the following statements:\n1. The National Health Mission encompasses both NRHM and NUHM.\n2. Community mobilization involves top-down decision-making without community participation.",
-      "question_text": "Consider the following statements:\n1. The National Health Mission encompasses both NRHM and NUHM.\n2. Community mobilization involves top-down decision-making without community participation.",
+      "question": "1. आर्थिक कारक स्वास्थ्य सेवाओं तक भौगोलिक पहुंच को प्रभावित करते हैं।\n2. सामाजिक कारकों का स्वास्थ्य भूगोल पर कोई प्रभाव नहीं है।\n\n1. Economic factors affect geographical access to healthcare.\n2. Social factors have no influence on health geography.",
+      "question_text": "1. आर्थिक कारक स्वास्थ्य सेवाओं तक भौगोलिक पहुंच को प्रभावित करते हैं।\n2. सामाजिक कारकों का स्वास्थ्य भूगोल पर कोई प्रभाव नहीं है।\n\n1. Economic factors affect geographical access to healthcare.\n2. Social factors have no influence on health geography.",
       "options": {
-        "A": "Only 1",
-        "B": "Only 2",
-        "C": "Both 1 and 2",
-        "D": "Neither 1 nor 2"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1762,41 +1762,41 @@
     {
       "id": 126,
       "question_number": 126,
-      "question": "Match List-I (Dynasty) with List-II (Founder):\nA. Maurya Dynasty — 1. Chandragupta Maurya\nB. Gupta Dynasty — 2. Chandragupta I\nC. Kushana Dynasty — 3. Kujula Kadphises\nD. Slave Dynasty — 4. Qutb-ud-din Aibak",
-      "question_text": "Match List-I (Dynasty) with List-II (Founder):\nA. Maurya Dynasty — 1. Chandragupta Maurya\nB. Gupta Dynasty — 2. Chandragupta I\nC. Kushana Dynasty — 3. Kujula Kadphises\nD. Slave Dynasty — 4. Qutb-ud-din Aibak",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-3, C-2, D-1"
+        "A": "कैंसर / Cancer",
+        "B": "उच्च रक्तचाप / Hypertension",
+        "C": "इन्फ्लूएंजा / Influenza",
+        "D": "मधुमेह / Diabetes"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 127,
       "question_number": 127,
-      "question": "Match List-I (River) with List-II (Origin):\nA. Ganga — 1. Gangotri Glacier\nB. Yamuna — 2. Yamunotri Glacier\nC. Indus — 3. Tibet (near Mansarovar)\nD. Brahmaputra — 4. Angsi Glacier (Tibet)",
-      "question_text": "Match List-I (River) with List-II (Origin):\nA. Ganga — 1. Gangotri Glacier\nB. Yamuna — 2. Yamunotri Glacier\nC. Indus — 3. Tibet (near Mansarovar)\nD. Brahmaputra — 4. Angsi Glacier (Tibet)",
+      "question": "1. भारत में रोग भार (disease burden) में महत्वपूर्ण क्षेत्रीय भिन्नता है।\n2. स्वास्थ्य नीति में ऐसी क्षेत्रीय भिन्नता को ध्यान में रखने की आवश्यकता है।\n\n1. India has significant regional variation in disease burden.\n2. Healthcare policy needs to consider such regional variation.",
+      "question_text": "1. भारत में रोग भार (disease burden) में महत्वपूर्ण क्षेत्रीय भिन्नता है।\n2. स्वास्थ्य नीति में ऐसी क्षेत्रीय भिन्नता को ध्यान में रखने की आवश्यकता है।\n\n1. India has significant regional variation in disease burden.\n2. Healthcare policy needs to consider such regional variation.",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-3, C-2, D-1"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 128,
       "question_number": 128,
-      "question": "Match List-I (Constitutional Body) with List-II (Related Article):\nA. Election Commission — 1. Article 324\nB. Union Public Service Commission — 2. Article 315\nC. Finance Commission — 3. Article 280\nD. Comptroller and Auditor General — 4. Article 148",
-      "question_text": "Match List-I (Constitutional Body) with List-II (Related Article):\nA. Election Commission — 1. Article 324\nB. Union Public Service Commission — 2. Article 315\nC. Finance Commission — 3. Article 280\nD. Comptroller and Auditor General — 4. Article 148",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-3, C-2, D-1"
+        "A": "मनुष्य और उनके पर्यावरण के बीच / Humans and their environment",
+        "B": "केवल अर्थव्यवस्था के / Economy only",
+        "C": "केवल राजनीति के / Politics only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1804,27 +1804,27 @@
     {
       "id": 129,
       "question_number": 129,
-      "question": "Match List-I (Vitamin) with List-II (Deficiency Disease):\nA. Vitamin A — 1. Night blindness\nB. Vitamin B1 — 2. Beriberi\nC. Vitamin C — 3. Scurvy\nD. Vitamin D — 4. Rickets",
-      "question_text": "Match List-I (Vitamin) with List-II (Deficiency Disease):\nA. Vitamin A — 1. Night blindness\nB. Vitamin B1 — 2. Beriberi\nC. Vitamin C — 3. Scurvy\nD. Vitamin D — 4. Rickets",
+      "question": "1. वैदिक साहित्य में ऋग्वेद, सामवेद, यजुर्वेद एवं अथर्ववेद शामिल हैं।\n2. यह प्रारंभिक भारतीय समाज की जानकारी प्रदान करता है।\n\n1. Vedic literature includes the Rigveda, Samaveda, Yajurveda, and Atharvaveda.\n2. It provides insight into early Indian society.",
+      "question_text": "1. वैदिक साहित्य में ऋग्वेद, सामवेद, यजुर्वेद एवं अथर्ववेद शामिल हैं।\n2. यह प्रारंभिक भारतीय समाज की जानकारी प्रदान करता है।\n\n1. Vedic literature includes the Rigveda, Samaveda, Yajurveda, and Atharvaveda.\n2. It provides insight into early Indian society.",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-3, C-2, D-1"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 130,
       "question_number": 130,
-      "question": "Match List-I (Crop) with List-II (Category):\nA. Wheat — 1. Rabi crop\nB. Rice — 2. Kharif crop\nC. Watermelon — 3. Zaid crop\nD. Sugarcane — 4. Long-duration/annual crop",
-      "question_text": "Match List-I (Crop) with List-II (Category):\nA. Wheat — 1. Rabi crop\nB. Rice — 2. Kharif crop\nC. Watermelon — 3. Zaid crop\nD. Sugarcane — 4. Long-duration/annual crop",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-3, C-2, D-1"
+        "A": "बौद्ध धर्म / Buddhism",
+        "B": "जैन धर्म / Jainism",
+        "C": "हिंदू धर्म / Hinduism",
+        "D": "सिख धर्म / Sikhism"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1832,27 +1832,27 @@
     {
       "id": 131,
       "question_number": 131,
-      "question": "Match List-I (Programme) with List-II (Main Focus):\nA. Universal Immunisation Programme — 1. Vaccination\nB. National Vector Borne Disease Control Programme — 2. Malaria/Dengue control\nC. Revised National TB Control Programme — 3. Tuberculosis\nD. National Programme for Control of Blindness — 4. Eye care",
-      "question_text": "Match List-I (Programme) with List-II (Main Focus):\nA. Universal Immunisation Programme — 1. Vaccination\nB. National Vector Borne Disease Control Programme — 2. Malaria/Dengue control\nC. Revised National TB Control Programme — 3. Tuberculosis\nD. National Programme for Control of Blindness — 4. Eye care",
+      "question": "1. मौर्य एवं कुषाण काल ने भारतीय कला में महत्वपूर्ण योगदान दिया।\n2. गांधार कला का विकास कुषाण काल में हुआ।\n\n1. The Mauryan and Kushana periods contributed significantly to Indian art.\n2. Gandhara art developed during the Kushana period.",
+      "question_text": "1. मौर्य एवं कुषाण काल ने भारतीय कला में महत्वपूर्ण योगदान दिया।\n2. गांधार कला का विकास कुषाण काल में हुआ।\n\n1. The Mauryan and Kushana periods contributed significantly to Indian art.\n2. Gandhara art developed during the Kushana period.",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-3, C-2, D-1"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 132,
       "question_number": 132,
-      "question": "Match List-I (Committee/Index) with List-II (Concerned Area):\nA. Tendulkar Committee — 1. Poverty estimation\nB. Rangarajan Committee — 2. Poverty line revision\nC. Human Development Index — 3. Health, education, income\nD. Gini Coefficient — 4. Income inequality",
-      "question_text": "Match List-I (Committee/Index) with List-II (Concerned Area):\nA. Tendulkar Committee — 1. Poverty estimation\nB. Rangarajan Committee — 2. Poverty line revision\nC. Human Development Index — 3. Health, education, income\nD. Gini Coefficient — 4. Income inequality",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "A-1, B-2, C-3, D-4",
-        "B": "A-2, B-1, C-4, D-3",
-        "C": "A-1, B-3, C-2, D-4",
-        "D": "A-4, B-3, C-2, D-1"
+        "A": "सरदार वल्लभभाई पटेल / Sardar Vallabhbhai Patel",
+        "B": "जवाहरलाल नेहरू / Jawaharlal Nehru",
+        "C": "महात्मा गांधी / Mahatma Gandhi",
+        "D": "डॉ. बी.आर. अम्बेडकर / Dr. B.R. Ambedkar"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1860,27 +1860,27 @@
     {
       "id": 133,
       "question_number": 133,
-      "question": "Arrange the following in chronological order:\n1. Maurya Dynasty\n2. Gupta Dynasty\n3. Delhi Sultanate\n4. Mughal Empire",
-      "question_text": "Arrange the following in chronological order:\n1. Maurya Dynasty\n2. Gupta Dynasty\n3. Delhi Sultanate\n4. Mughal Empire",
+      "question": "1. फ्रांसीसी क्रांति 1789 में हुई।\n2. इसने स्वतंत्रता, समानता एवं बंधुत्व के आदर्शों को बढ़ावा दिया।\n\n1. The French Revolution occurred in 1789.\n2. It promoted ideals of liberty, equality, and fraternity.",
+      "question_text": "1. फ्रांसीसी क्रांति 1789 में हुई।\n2. इसने स्वतंत्रता, समानता एवं बंधुत्व के आदर्शों को बढ़ावा दिया।\n\n1. The French Revolution occurred in 1789.\n2. It promoted ideals of liberty, equality, and fraternity.",
       "options": {
-        "A": "1-2-3-4",
-        "B": "2-1-3-4",
-        "C": "1-3-2-4",
-        "D": "4-1-2-3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 134,
       "question_number": 134,
-      "question": "Arrange the following in chronological order:\n1. Non-Cooperation Movement\n2. Civil Disobedience Movement\n3. Quit India Movement\n4. Formation of Indian National Congress",
-      "question_text": "Arrange the following in chronological order:\n1. Non-Cooperation Movement\n2. Civil Disobedience Movement\n3. Quit India Movement\n4. Formation of Indian National Congress",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "4-1-2-3",
-        "B": "1-2-3-4",
-        "C": "4-2-1-3",
-        "D": "1-4-2-3"
+        "A": "ब्रिटेन / Britain",
+        "B": "फ्रांस / France",
+        "C": "जर्मनी / Germany",
+        "D": "संयुक्त राज्य अमेरिका / USA"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1888,27 +1888,27 @@
     {
       "id": 135,
       "question_number": 135,
-      "question": "Arrange the following in chronological order:\n1. First Five-Year Plan\n2. Green Revolution\n3. Economic Liberalization (1991)\n4. Formation of NITI Aayog",
-      "question_text": "Arrange the following in chronological order:\n1. First Five-Year Plan\n2. Green Revolution\n3. Economic Liberalization (1991)\n4. Formation of NITI Aayog",
+      "question": "1. प्रथम विश्व युद्ध 1914 से 1918 तक हुआ।\n2. द्वितीय विश्व युद्ध 1939 से 1945 तक हुआ।\n\n1. World War I occurred from 1914 to 1918.\n2. World War II occurred from 1939 to 1945.",
+      "question_text": "1. प्रथम विश्व युद्ध 1914 से 1918 तक हुआ।\n2. द्वितीय विश्व युद्ध 1939 से 1945 तक हुआ।\n\n1. World War I occurred from 1914 to 1918.\n2. World War II occurred from 1939 to 1945.",
       "options": {
-        "A": "1-2-3-4",
-        "B": "2-1-3-4",
-        "C": "1-3-2-4",
-        "D": "4-1-2-3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 136,
       "question_number": 136,
-      "question": "Arrange the following Constitutional Amendments in chronological order:\n1. 42nd Amendment\n2. 44th Amendment\n3. 73rd Amendment\n4. 86th Amendment (Right to Education)",
-      "question_text": "Arrange the following Constitutional Amendments in chronological order:\n1. 42nd Amendment\n2. 44th Amendment\n3. 73rd Amendment\n4. 86th Amendment (Right to Education)",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "1-2-3-4",
-        "B": "2-1-3-4",
-        "C": "1-3-2-4",
-        "D": "4-1-2-3"
+        "A": "आर्कड्यूक फ्रांज फर्डिनांड की हत्या / Assassination of Archduke Franz Ferdinand",
+        "B": "वर्साय की संधि / Treaty of Versailles",
+        "C": "महामंदी / Great Depression",
+        "D": "रूसी क्रांति / Russian Revolution"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1916,13 +1916,13 @@
     {
       "id": 137,
       "question_number": 137,
-      "question": "Arrange the following space missions in chronological order:\n1. Chandrayaan-1\n2. Mangalyaan (Mars Orbiter Mission)\n3. Chandrayaan-2\n4. Chandrayaan-3",
-      "question_text": "Arrange the following space missions in chronological order:\n1. Chandrayaan-1\n2. Mangalyaan (Mars Orbiter Mission)\n3. Chandrayaan-2\n4. Chandrayaan-3",
+      "question": "1. प्राचीन भारत में मंदिर स्थापत्य नागर एवं द्रविड़ शैलियों में विकसित हुआ।\n2. स्तूप स्थापत्य का बौद्ध अवशेषों से कोई संबंध नहीं है।\n\n1. Temple architecture in ancient India evolved through the Nagara and Dravida styles.\n2. Stupa architecture has no connection to Buddhist relics.",
+      "question_text": "1. प्राचीन भारत में मंदिर स्थापत्य नागर एवं द्रविड़ शैलियों में विकसित हुआ।\n2. स्तूप स्थापत्य का बौद्ध अवशेषों से कोई संबंध नहीं है।\n\n1. Temple architecture in ancient India evolved through the Nagara and Dravida styles.\n2. Stupa architecture has no connection to Buddhist relics.",
       "options": {
-        "A": "1-2-3-4",
-        "B": "2-1-3-4",
-        "C": "1-3-2-4",
-        "D": "4-1-2-3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1930,13 +1930,13 @@
     {
       "id": 138,
       "question_number": 138,
-      "question": "Arrange the following health policies/programmes in chronological order:\n1. National Health Policy (1983)\n2. NRHM\n3. National Health Policy (2017)\n4. Ayushman Bharat",
-      "question_text": "Arrange the following health policies/programmes in chronological order:\n1. National Health Policy (1983)\n2. NRHM\n3. National Health Policy (2017)\n4. Ayushman Bharat",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "1-2-3-4",
-        "B": "2-1-3-4",
-        "C": "1-3-2-4",
-        "D": "4-1-2-3"
+        "A": "भाषाई आधार / Linguistic basis",
+        "B": "धार्मिक आधार / Religious basis",
+        "C": "आर्थिक आधार / Economic basis",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1944,13 +1944,13 @@
     {
       "id": 139,
       "question_number": 139,
-      "question": "Arrange the following international organisations by year of establishment:\n1. League of Nations\n2. United Nations\n3. World Health Organization\n4. World Trade Organization",
-      "question_text": "Arrange the following international organisations by year of establishment:\n1. League of Nations\n2. United Nations\n3. World Health Organization\n4. World Trade Organization",
+      "question": "1. राष्ट्रीय आय किसी अर्थव्यवस्था में उत्पादित वस्तुओं व सेवाओं के कुल मूल्य को मापती है।\n2. HDI पूर्णतः आय पर आधारित है।\n\n1. National income measures the total value of goods and services produced in an economy.\n2. HDI is based solely on income.",
+      "question_text": "1. राष्ट्रीय आय किसी अर्थव्यवस्था में उत्पादित वस्तुओं व सेवाओं के कुल मूल्य को मापती है।\n2. HDI पूर्णतः आय पर आधारित है।\n\n1. National income measures the total value of goods and services produced in an economy.\n2. HDI is based solely on income.",
       "options": {
-        "A": "1-2-3-4",
-        "B": "2-1-3-4",
-        "C": "1-3-2-4",
-        "D": "4-1-2-3"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -1958,69 +1958,69 @@
     {
       "id": 140,
       "question_number": 140,
-      "question": "Assertion (A): The Green Revolution significantly increased foodgrain production in India.\nReason (R): It involved the use of high-yielding variety seeds, chemical fertilizers, and irrigation.",
-      "question_text": "Assertion (A): The Green Revolution significantly increased foodgrain production in India.\nReason (R): It involved the use of high-yielding variety seeds, chemical fertilizers, and irrigation.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "स्वास्थ्य, शिक्षा एवं आय / Health, education, and income",
+        "B": "केवल जीडीपी / GDP only",
+        "C": "केवल साक्षरता / Literacy only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 141,
       "question_number": 141,
-      "question": "Assertion (A): The Rajya Sabha cannot be dissolved.\nReason (R): It is a permanent body with one-third of its members retiring every two years.",
-      "question_text": "Assertion (A): The Rajya Sabha cannot be dissolved.\nReason (R): It is a permanent body with one-third of its members retiring every two years.",
+      "question": "1. स्वास्थ्य सेवा को एक गुणी वस्तु (merit good) के रूप में वर्गीकृत किया जा सकता है।\n2. गुणी वस्तुएं वे वस्तुएं हैं जो समाज के लिए सकारात्मक बाह्यताएं उत्पन्न करती हैं।\n\n1. Healthcare can be classified as a merit good.\n2. Merit goods are goods that generate positive externalities for society.",
+      "question_text": "1. स्वास्थ्य सेवा को एक गुणी वस्तु (merit good) के रूप में वर्गीकृत किया जा सकता है।\n2. गुणी वस्तुएं वे वस्तुएं हैं जो समाज के लिए सकारात्मक बाह्यताएं उत्पन्न करती हैं।\n\n1. Healthcare can be classified as a merit good.\n2. Merit goods are goods that generate positive externalities for society.",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": 142,
       "question_number": 142,
-      "question": "Assertion (A): Isotopes of an element have the same chemical properties.\nReason (R): Chemical properties depend on the number of protons, which is the same for isotopes of an element.",
-      "question_text": "Assertion (A): Isotopes of an element have the same chemical properties.\nReason (R): Chemical properties depend on the number of protons, which is the same for isotopes of an element.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "नीति आयोग / NITI Aayog",
+        "B": "रिज़र्व बैंक / RBI",
+        "C": "वित्त आयोग / Finance Commission",
+        "D": "संघ लोक सेवा आयोग / UPSC"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 143,
       "question_number": 143,
-      "question": "Assertion (A): Desert regions receive very little rainfall.\nReason (R): Desert regions are always located near the equator.",
-      "question_text": "Assertion (A): Desert regions receive very little rainfall.\nReason (R): Desert regions are always located near the equator.",
+      "question": "1. ग्रामीण-शहरी प्रवासन शहरी स्वास्थ्य सेवाओं पर दबाव डाल सकता है।\n2. प्रवासन का स्वास्थ्य सेवा की मांग पर कोई प्रभाव नहीं है।\n\n1. Rural-urban migration can strain urban health services.\n2. Migration has no effect on the demand for health services.",
+      "question_text": "1. ग्रामीण-शहरी प्रवासन शहरी स्वास्थ्य सेवाओं पर दबाव डाल सकता है।\n2. प्रवासन का स्वास्थ्य सेवा की मांग पर कोई प्रभाव नहीं है।\n\n1. Rural-urban migration can strain urban health services.\n2. Migration has no effect on the demand for health services.",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 144,
       "question_number": 144,
-      "question": "Assertion (A): The Indian Constitution is federal in nature.\nReason (R): It provides for single citizenship and a strong centre, giving it unitary features.",
-      "question_text": "Assertion (A): The Indian Constitution is federal in nature.\nReason (R): It provides for single citizenship and a strong centre, giving it unitary features.",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "मातृ एवं शिशु मृत्यु दर में कमी लाना / Reducing maternal and infant mortality",
+        "B": "केवल सड़कों का निर्माण / Road construction only",
+        "C": "केवल औद्योगिक विकास / Industrial growth only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -2028,27 +2028,27 @@
     {
       "id": 145,
       "question_number": 145,
-      "question": "Assertion (A): The Bhakti movement was purely a religious movement with no social significance.\nReason (R): Saints like Kabir and Ravidas challenged caste discrimination through their teachings.",
-      "question_text": "Assertion (A): The Bhakti movement was purely a religious movement with no social significance.\nReason (R): Saints like Kabir and Ravidas challenged caste discrimination through their teachings.",
+      "question": "1. पंचायती राज संस्थाएं स्थानीय स्वास्थ्य शासन में भूमिका निभाती हैं।\n2. शहरी स्थानीय निकायों की स्वास्थ्य शासन में कोई भूमिका नहीं है।\n\n1. Panchayati Raj institutions play a role in local health governance.\n2. Urban local bodies have no role in health governance.",
+      "question_text": "1. पंचायती राज संस्थाएं स्थानीय स्वास्थ्य शासन में भूमिका निभाती हैं।\n2. शहरी स्थानीय निकायों की स्वास्थ्य शासन में कोई भूमिका नहीं है।\n\n1. Panchayati Raj institutions play a role in local health governance.\n2. Urban local bodies have no role in health governance.",
       "options": {
-        "A": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
-        "B": "(A) is false, but (R) is true",
-        "C": "(A) is true, but (R) is false",
-        "D": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 146,
       "question_number": 146,
-      "question": "Who built the Qutub Minar?",
-      "question_text": "Who built the Qutub Minar?",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Qutb-ud-din Aibak",
-        "B": "Iltutmish",
-        "C": "Alauddin Khilji",
-        "D": "Firoz Shah Tughlaq"
+        "A": "आयुष्मान भारत डिजिटल मिशन / Ayushman Bharat Digital Mission",
+        "B": "केवल ग्रामीण सड़क योजनाएं / Rural road schemes only",
+        "C": "केवल बैंकिंग योजनाएं / Banking schemes only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -2056,27 +2056,27 @@
     {
       "id": 147,
       "question_number": 147,
-      "question": "Which is the largest state of India by area?",
-      "question_text": "Which is the largest state of India by area?",
+      "question": "1. गरीबी एवं बेरोजगारी प्रमुख आर्थिक संकेतक हैं।\n2. असमानता को आर्थिक संकेतक नहीं माना जाता।\n\n1. Poverty and unemployment are key economic indicators.\n2. Inequality is not considered an economic indicator.",
+      "question_text": "1. गरीबी एवं बेरोजगारी प्रमुख आर्थिक संकेतक हैं।\n2. असमानता को आर्थिक संकेतक नहीं माना जाता।\n\n1. Poverty and unemployment are key economic indicators.\n2. Inequality is not considered an economic indicator.",
       "options": {
-        "A": "Madhya Pradesh",
-        "B": "Rajasthan",
-        "C": "Maharashtra",
-        "D": "Uttar Pradesh"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 148,
       "question_number": 148,
-      "question": "The National Emblem of India is adopted from which historical pillar?",
-      "question_text": "The National Emblem of India is adopted from which historical pillar?",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Ashoka Pillar at Sarnath",
-        "B": "Ashoka Pillar at Sanchi",
-        "C": "Iron Pillar at Delhi",
-        "D": "Pillar at Lauriya Nandangarh"
+        "A": "आशा (मान्यता प्राप्त सामाजिक स्वास्थ्य कार्यकर्ता) / ASHA (Accredited Social Health Activist)",
+        "B": "आईएएस अधिकारी / IAS officer",
+        "C": "न्यायाधीश / Judge",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -2084,29 +2084,29 @@
     {
       "id": 149,
       "question_number": 149,
-      "question": "Who is known as the \"Father of the Green Revolution\" in India?",
-      "question_text": "Who is known as the \"Father of the Green Revolution\" in India?",
+      "question": "1. मोबाइल स्वास्थ्य (m-health) दूरस्थ रूप से स्वास्थ्य सेवाएं प्रदान करने हेतु डिजिटल तकनीक का उपयोग करता है।\n2. ग्रामीण स्वास्थ्य पहुंच के लिए इसकी कोई प्रासंगिकता नहीं है।\n\n1. Mobile health (m-health) uses digital technology to deliver health services remotely.\n2. It has no relevance for rural healthcare access.",
+      "question_text": "1. मोबाइल स्वास्थ्य (m-health) दूरस्थ रूप से स्वास्थ्य सेवाएं प्रदान करने हेतु डिजिटल तकनीक का उपयोग करता है।\n2. ग्रामीण स्वास्थ्य पहुंच के लिए इसकी कोई प्रासंगिकता नहीं है।\n\n1. Mobile health (m-health) uses digital technology to deliver health services remotely.\n2. It has no relevance for rural healthcare access.",
       "options": {
-        "A": "Verghese Kurien",
-        "B": "M.S. Swaminathan",
-        "C": "Norman Borlaug",
-        "D": "C. Subramaniam"
+        "A": "केवल 1 / 1 only",
+        "B": "केवल 2 / 2 only",
+        "C": "दोनों 1 और 2 / Both 1 and 2",
+        "D": "न तो 1 न ही 2 / Neither 1 nor 2"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": 150,
       "question_number": 150,
-      "question": "Which vitamin is synthesized in human skin upon exposure to sunlight?",
-      "question_text": "Which vitamin is synthesized in human skin upon exposure to sunlight?",
+      "question": "\n\n",
+      "question_text": "\n\n",
       "options": {
-        "A": "Vitamin A",
-        "B": "Vitamin B12",
-        "C": "Vitamin C",
-        "D": "Vitamin D"
+        "A": "सार्वजनिक वस्तुएं एवं गुणी वस्तुएं / Public goods and merit goods",
+        "B": "केवल विलासिता की वस्तुएं / Luxury goods only",
+        "C": "केवल पूंजीगत वस्तुएं / Capital goods only",
+        "D": "इनमें से कोई नहीं / None of the above"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     }
   ]
